@@ -10,7 +10,7 @@ To start with this sample you will need to register a developer account with Kyr
 
 ## Linx
 
-This example solution was built using Linx 5.21. You can download it at https://linx.software. 
+This example solution was built using Linx 5.21 and Linx 6.1.0. You can download it at https://linx.software. 
 
 Once you've opened this solution, you'll need to got to the Settings screen and add in your own Client_ID and Client_Secret.
 
