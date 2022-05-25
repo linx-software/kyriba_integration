@@ -1,0 +1,30 @@
+[
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "3FXR",
+      "Properties": [
+        {
+          "Id": "xwe8",
+          "Name": "CompanyGroupRef",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "BFsa",
+      "Properties": [
+        {
+          "Id": "ZC5c",
+          "Name": "CompanyGroup",
+          "Type": "Custom:kUEK",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  }
+]

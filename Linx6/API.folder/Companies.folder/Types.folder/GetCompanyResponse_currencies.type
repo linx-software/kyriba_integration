@@ -1,0 +1,31 @@
+{
+  "Id": "iMLO",
+  "Name": "GetCompanyResponse_currencies",
+  "Properties": [
+    {
+      "Id": "gF7r",
+      "Name": "accountingCalendar",
+      "Type": "Custom:hMmD"
+    },
+    {
+      "Id": "opYC",
+      "Name": "currency",
+      "Type": "Custom:hMmD"
+    },
+    {
+      "Id": "BKva",
+      "Name": "glCurrency",
+      "Type": "Custom:hMmD"
+    },
+    {
+      "Id": "Uoq9",
+      "Name": "glCurrencyRateType",
+      "Type": "Custom:hMmD"
+    },
+    {
+      "Id": "1bDi",
+      "Name": "ndfSettlementCurrency",
+      "Type": "Compiled:String"
+    }
+  ]
+}

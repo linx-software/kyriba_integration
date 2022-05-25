@@ -1,0 +1,30 @@
+[
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "u3FM",
+      "Properties": [
+        {
+          "Id": "ACxi",
+          "Name": "CashFlowAggregation",
+          "Type": "Custom:6OTe",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "ARyh",
+      "Properties": [
+        {
+          "Id": "LPe6",
+          "Name": "CashFlowAggregation",
+          "Type": "Custom:UupV",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  }
+]

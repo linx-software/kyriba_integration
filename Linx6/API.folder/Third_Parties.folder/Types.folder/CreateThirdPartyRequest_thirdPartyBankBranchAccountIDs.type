@@ -1,0 +1,146 @@
+{
+  "Id": "jJST",
+  "Name": "CreateThirdPartyRequest_thirdPartyBankBranchAccountIDs",
+  "Properties": [
+    {
+      "Id": "rqxP",
+      "Name": "uuid",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "0J6J",
+      "Name": "usedByCompany",
+      "Type": "Custom:Uotv"
+    },
+    {
+      "Id": "sMeS",
+      "Name": "defaultAccount",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "GCMg",
+      "Name": "defaultAccountForFinancedInvoices",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "Qs1Z",
+      "Name": "address",
+      "Type": "Custom:OwaL"
+    },
+    {
+      "Id": "UNOX",
+      "Name": "name",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "AXEW",
+      "Name": "bic",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "F9xk",
+      "Name": "otherIdentifier",
+      "Type": "Custom:Aa95"
+    },
+    {
+      "Id": "Rrql",
+      "Name": "currency",
+      "Type": "Custom:Uotv"
+    },
+    {
+      "Id": "fEY5",
+      "Name": "bankAccountID",
+      "Type": "Custom:oDLM"
+    },
+    {
+      "Id": "BooW",
+      "Name": "accountLocation",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "xorH",
+      "Name": "notAccountHolder",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "RDLv",
+      "Name": "defaultReason1",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "O2Qi",
+      "Name": "defaultReason2",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "AEjW",
+      "Name": "defaultReason3",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "O6EN",
+      "Name": "defaultReason4",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "n7Se",
+      "Name": "ffc1",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "35sb",
+      "Name": "ffc2",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "fZP6",
+      "Name": "ffc3",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "52g8",
+      "Name": "ffc4",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "xTrX",
+      "Name": "recipientInfo",
+      "Type": "Custom:2M3p"
+    },
+    {
+      "Id": "M9ko",
+      "Name": "contact",
+      "Type": "Custom:cLmx"
+    },
+    {
+      "Id": "S9G4",
+      "Name": "mainCorrespondentBankBranch",
+      "Type": "Custom:Uotv"
+    },
+    {
+      "Id": "P8cs",
+      "Name": "mainOneTimeCorrespondent",
+      "Type": "Custom:uf9Z"
+    },
+    {
+      "Id": "9sNL",
+      "Name": "additionalCorrespondentBankBranch",
+      "Type": "Custom:Uotv"
+    },
+    {
+      "Id": "EWCv",
+      "Name": "additionalOneTimeCorrespondent",
+      "Type": "Custom:uf9Z"
+    },
+    {
+      "Id": "wfok",
+      "Name": "hidden",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "TGhO",
+      "Name": "closureDate",
+      "Type": "Compiled:String"
+    }
+  ]
+}

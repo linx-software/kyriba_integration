@@ -1,0 +1,24 @@
+{
+  "ExecutionPaths": [
+    {
+      "PluginId": "Loop",
+      "Name": "Loop",
+      "Result": "List:Custom:tiZ6",
+      "Order": 0,
+      "IterationHint": "ZeroOrMore"
+    }
+  ],
+  "Properties": [
+    {
+      "Id": "List",
+      "Type": "List:Custom:tiZ6",
+      "ValueUsage": "RuntimeRead",
+      "Value": {
+        "Expression": "GetSupplierUsers.ResponseBody.results",
+        "CompiledExpression": "={0}",
+        "Type": "List:Custom:tiZ6"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    }
+  ]
+}

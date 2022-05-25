@@ -1,0 +1,30 @@
+[
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "UFJi",
+      "Properties": [
+        {
+          "Id": "fcpO",
+          "Name": "CashFlow",
+          "Type": "Custom:9HSL",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "DOj8",
+      "Properties": [
+        {
+          "Id": "SkEK",
+          "Name": "CashFlowUUID",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  }
+]

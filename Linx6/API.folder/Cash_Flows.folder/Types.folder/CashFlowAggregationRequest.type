@@ -1,0 +1,21 @@
+{
+  "Id": "6OTe",
+  "Name": "CashFlowAggregationRequest",
+  "Properties": [
+    {
+      "Id": "mQ9K",
+      "Name": "filtering",
+      "Type": "Custom:Zs5K"
+    },
+    {
+      "Id": "J5lg",
+      "Name": "currencyConversion",
+      "Type": "Custom:cnzR"
+    },
+    {
+      "Id": "0W9P",
+      "Name": "aggregation",
+      "Type": "Custom:ZM6d"
+    }
+  ]
+}

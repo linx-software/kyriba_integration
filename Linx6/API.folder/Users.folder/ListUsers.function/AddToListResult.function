@@ -1,0 +1,26 @@
+{
+  "Properties": [
+    {
+      "Id": "List",
+      "Type": "List:Custom:jQbN",
+      "ValueUsage": "RuntimeRead",
+      "Value": {
+        "Expression": "$.Result.Users",
+        "CompiledExpression": "={0}",
+        "Type": "List:Custom:jQbN"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    },
+    {
+      "Id": "Value",
+      "Type": "Custom:jQbN",
+      "ValueUsage": "RuntimeRead",
+      "Value": {
+        "Expression": "ForEachResult.Loop",
+        "CompiledExpression": "={0}",
+        "Type": "Custom:jQbN"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "Properties": [
+    {
+      "Id": "Source",
+      "Type": "Custom:xXpl",
+      "ValueUsage": "RuntimeRead",
+      "Value": {
+        "Expression": "CallGetTaskStatus.ResponseBody",
+        "CompiledExpression": "={0}",
+        "Type": "Custom:xXpl"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    },
+    {
+      "Id": "Target",
+      "Type": "Custom:xXpl",
+      "ValueUsage": "RuntimeWrite",
+      "Value": {
+        "Expression": "$.Result.Response",
+        "CompiledExpression": "={0}",
+        "Type": "Custom:xXpl"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    }
+  ]
+}

@@ -1,0 +1,626 @@
+{
+  "Id": "hcG3",
+  "Name": "CreateUserRequest",
+  "Properties": [
+    {
+      "Id": "DGiG",
+      "Name": "SKeyDistinguishedName",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "RX8a",
+      "Name": "acceleratorForMillions",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "M8Ql",
+      "Name": "acceleratorForThousands",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "p9o2",
+      "Name": "accessProfile",
+      "Type": "Custom:JnOV"
+    },
+    {
+      "Id": "GYhU",
+      "Name": "active",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "vcRC",
+      "Name": "birthDate",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "eCTv",
+      "Name": "canAlwaysLogInMobile",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "y4Ty",
+      "Name": "canChangeApprovalOptionsGLEntryGeneration",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "KWiz",
+      "Name": "canCreateCashflowActuals",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "53Ny",
+      "Name": "canEnterActualTransactions",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "9TUq",
+      "Name": "canEnterPretradeTransactions",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "xolV",
+      "Name": "canEnterSimulationTransactions",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "vEqX",
+      "Name": "canEnterTrainingTransactions",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "IfoT",
+      "Name": "canModifyBudgetCode",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "qIgu",
+      "Name": "canModifyFlowCode",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "xihz",
+      "Name": "canModifyValidatedShares",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "u0A5",
+      "Name": "canViewAccountCategorySetup",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "2lrg",
+      "Name": "canViewAddressSetup",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "JJ1G",
+      "Name": "canViewChecksSetup",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "MRvl",
+      "Name": "canViewGLSetup",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "lsr8",
+      "Name": "canViewIdentitySetup",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "2MhM",
+      "Name": "canViewIssuerNumberSetup",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "MYfd",
+      "Name": "canViewRequestSetup",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "dlqi",
+      "Name": "canViewServiceInformationMessages",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "VQZC",
+      "Name": "canViewServiceSubscriptionHistory",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "sj9h",
+      "Name": "canViewSharedAccountSetup",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "Fr2l",
+      "Name": "canViewSignatoriesSetup",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "w7bp",
+      "Name": "canViewStatementSetup",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "GyOC",
+      "Name": "canViewZbaSetup",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "uOEs",
+      "Name": "certificate",
+      "Type": "Custom:JnOV"
+    },
+    {
+      "Id": "G1UI",
+      "Name": "certificateKeyType",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "TmSC",
+      "Name": "city",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "g2d5",
+      "Name": "cityOfBirth",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "MnKh",
+      "Name": "code",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "mjA0",
+      "Name": "companyOwnership",
+      "Type": "Custom:JnOV"
+    },
+    {
+      "Id": "zsWm",
+      "Name": "contractManagementAdministrator",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "u98X",
+      "Name": "controlOpeningHours",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "rtNU",
+      "Name": "country",
+      "Type": "Custom:JnOV"
+    },
+    {
+      "Id": "PKUZ",
+      "Name": "countryOfBirth",
+      "Type": "Custom:JnOV"
+    },
+    {
+      "Id": "Rr6k",
+      "Name": "dataPermissionProfile",
+      "Type": "Custom:JnOV"
+    },
+    {
+      "Id": "qGB0",
+      "Name": "dateFormat",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "1I1v",
+      "Name": "decimalSeparator",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "mFN8",
+      "Name": "defaultCashFlowEntryTemplate",
+      "Type": "Custom:JnOV"
+    },
+    {
+      "Id": "NwaB",
+      "Name": "defaultShortcutMenuDisplay",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "D62d",
+      "Name": "department",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "9b95",
+      "Name": "description",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "scSU",
+      "Name": "description2",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "A11X",
+      "Name": "email",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "vZcf",
+      "Name": "emailRecipient",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "KrfX",
+      "Name": "erpApprover",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "ajUz",
+      "Name": "fax",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "Qyfy",
+      "Name": "firstName",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "aj5R",
+      "Name": "forceDualAuthentication",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "CnzH",
+      "Name": "fridayClosingTime",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "YMPN",
+      "Name": "fridayOpened",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "vdKK",
+      "Name": "fridayOpeningTime",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "gDvT",
+      "Name": "hideInList",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "bMB6",
+      "Name": "identifier1",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "PTZ1",
+      "Name": "identifier2",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "5AGi",
+      "Name": "language",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "bE0U",
+      "Name": "lastName",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "PoNX",
+      "Name": "location",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "nRnE",
+      "Name": "mandatoryCompanyOwnershipInSetup",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "CNAE",
+      "Name": "marketDataDashboard",
+      "Type": "Custom:JnOV"
+    },
+    {
+      "Id": "pwch",
+      "Name": "memo",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "Wmo9",
+      "Name": "middleName",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "ueW0",
+      "Name": "mobilePhone",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "gS2d",
+      "Name": "mobilePhoneCountry",
+      "Type": "Custom:JnOV"
+    },
+    {
+      "Id": "u0Jh",
+      "Name": "mobilePhoneNumber",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "p8bY",
+      "Name": "mondayClosingTime",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "pfIA",
+      "Name": "mondayOpened",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "dpqJ",
+      "Name": "mondayOpeningTime",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "W0jj",
+      "Name": "notifyPaymentModificationDeletionRequest",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "nVU4",
+      "Name": "officePhone",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "qPLa",
+      "Name": "openingHoursTimeZone",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "naSZ",
+      "Name": "paymentAdministrator",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "PvSv",
+      "Name": "personalizedHomepagePage",
+      "Type": "Custom:JnOV"
+    },
+    {
+      "Id": "1BI2",
+      "Name": "personalizedShortcutMenu",
+      "Type": "Custom:JnOV"
+    },
+    {
+      "Id": "h8TC",
+      "Name": "personalizedSupportPage",
+      "Type": "Custom:JnOV"
+    },
+    {
+      "Id": "i36k",
+      "Name": "position",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "yB9U",
+      "Name": "preferredContactChannel",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "2suj",
+      "Name": "provinceOfBirth",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "ZlaC",
+      "Name": "reportingDashboard",
+      "Type": "Custom:JnOV"
+    },
+    {
+      "Id": "lPIN",
+      "Name": "saturdayClosingTime",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "isp5",
+      "Name": "saturdayOpened",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "9X9x",
+      "Name": "saturdayOpeningTime",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "JE20",
+      "Name": "secondFactor",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "H1mO",
+      "Name": "secondFactorBackup",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "y9ZE",
+      "Name": "serviceToken",
+      "Type": "Custom:JnOV"
+    },
+    {
+      "Id": "TTDh",
+      "Name": "ssoIdentity",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "x9Lg",
+      "Name": "subDepartment",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "7vm7",
+      "Name": "sundayClosingTime",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "Qw2D",
+      "Name": "sundayOpened",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "Ib0I",
+      "Name": "sundayOpeningTime",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "CXCo",
+      "Name": "systemAdministrator",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "djpt",
+      "Name": "taskList",
+      "Type": "Custom:JnOV"
+    },
+    {
+      "Id": "tveQ",
+      "Name": "theme",
+      "Type": "Custom:JnOV"
+    },
+    {
+      "Id": "Qowu",
+      "Name": "thousandSeparator",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "OScP",
+      "Name": "thursdayClosingTime",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "qwWr",
+      "Name": "thursdayOpened",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "ow9Y",
+      "Name": "thursdayOpeningTime",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "2AGQ",
+      "Name": "timeZone",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "4jQ0",
+      "Name": "title",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "ArzT",
+      "Name": "tokenAssignmentMethod",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "X0Ol",
+      "Name": "tokenSecretKey",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "JP9B",
+      "Name": "tokenSeed",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "Ft9e",
+      "Name": "tuesdayClosingTime",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "FVkS",
+      "Name": "tuesdayOpened",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "suLL",
+      "Name": "tuesdayOpeningTime",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "ROhH",
+      "Name": "userZones",
+      "Type": "Custom:0P9b"
+    },
+    {
+      "Id": "tHfA",
+      "Name": "wednesdayClosingTime",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "Io0X",
+      "Name": "wednesdayOpened",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "rxji",
+      "Name": "wednesdayOpeningTime",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "HOds",
+      "Name": "canEditValidatedTransactions",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "kuGE",
+      "Name": "interfaceCode",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "ml0W",
+      "Name": "canModifyCashflowActualDescription",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "su7v",
+      "Name": "canModifyCashflowActualReference",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "Mps4",
+      "Name": "canGenerateInterestStatementCashflows",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "Ga4T",
+      "Name": "canCopyListSettingsToOtherUsers",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "2jWm",
+      "Name": "canUseOnetimeThirdParties",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "0M4u",
+      "Name": "canViewTransactionSummaryRoutedFiles",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "qFME",
+      "Name": "canViewAverageAndMaxTransactions",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "WHqn",
+      "Name": "canRequestDeletionTransactions",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "ijTW",
+      "Name": "defaultReportCategory",
+      "Type": "Custom:JnOV"
+    }
+  ]
+}

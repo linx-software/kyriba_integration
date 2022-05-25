@@ -1,0 +1,16 @@
+{
+  "Id": "JnOV",
+  "Name": "CreateUserRequest_Type",
+  "Properties": [
+    {
+      "Id": "FpaN",
+      "Name": "code",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "j4yN",
+      "Name": "uuid",
+      "Type": "Compiled:String"
+    }
+  ]
+}

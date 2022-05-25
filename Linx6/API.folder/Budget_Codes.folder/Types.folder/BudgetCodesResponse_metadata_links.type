@@ -1,0 +1,21 @@
+{
+  "Id": "jnpv",
+  "Name": "BudgetCodesResponse_metadata_links",
+  "Properties": [
+    {
+      "Id": "cag9",
+      "Name": "current",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "12T8",
+      "Name": "next",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "sbEB",
+      "Name": "prev",
+      "Type": "Compiled:String"
+    }
+  ]
+}

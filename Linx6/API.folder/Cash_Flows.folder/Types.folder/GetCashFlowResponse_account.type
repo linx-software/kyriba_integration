@@ -1,0 +1,16 @@
+{
+  "Id": "Sgwd",
+  "Name": "GetCashFlowResponse_account",
+  "Properties": [
+    {
+      "Id": "dQFK",
+      "Name": "code",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "dv5q",
+      "Name": "uuid",
+      "Type": "Compiled:String"
+    }
+  ]
+}

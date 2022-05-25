@@ -1,0 +1,16 @@
+{
+  "Id": "2DVb",
+  "Name": "ListDataPermissionResponse",
+  "Properties": [
+    {
+      "Id": "z4Fi",
+      "Name": "metadata",
+      "Type": "Custom:AjZx"
+    },
+    {
+      "Id": "hHQI",
+      "Name": "results",
+      "Type": "List:Custom:cKW3"
+    }
+  ]
+}

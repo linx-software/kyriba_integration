@@ -1,0 +1,81 @@
+{
+  "Id": "u0tG",
+  "Name": "CreateSupplierServiceAccessRequest",
+  "Properties": [
+    {
+      "Id": "Nx7B",
+      "Name": "buyer",
+      "Type": "Custom:g6B7"
+    },
+    {
+      "Id": "yDaH",
+      "Name": "thirdParty",
+      "Type": "Custom:g6B7"
+    },
+    {
+      "Id": "vm6e",
+      "Name": "invoiceInformation",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "O7Lt",
+      "Name": "dateInvoiceInformation",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "a4YH",
+      "Name": "disputeManagement",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "TPT2",
+      "Name": "dateDisputeManagement",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "y8bY",
+      "Name": "reverseFactoring",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "xEgc",
+      "Name": "dateReverseFactoring",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "A19V",
+      "Name": "reverseFactoringSimulationOnly",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "9iNy",
+      "Name": "reverseFactoringAutomaticFinancing",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "1Zpu",
+      "Name": "invoiceDiscounting",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "421o",
+      "Name": "dateInvoiceDiscounting",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "zgEY",
+      "Name": "invoiceAuction",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "ZNxA",
+      "Name": "dateInvoiceAuction",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "0o5h",
+      "Name": "companyOwnership",
+      "Type": "Custom:g6B7"
+    }
+  ]
+}

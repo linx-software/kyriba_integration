@@ -1,0 +1,31 @@
+{
+  "Id": "ZEDm",
+  "Name": "ListCompanyGroupsResponse_metadata",
+  "Properties": [
+    {
+      "Id": "26pr",
+      "Name": "links",
+      "Type": "Custom:rMhK"
+    },
+    {
+      "Id": "Av7U",
+      "Name": "pageResults",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "3Kud",
+      "Name": "numberOfTotalResults",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "KFqw",
+      "Name": "pageLimit",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "VOH4",
+      "Name": "pageOffset",
+      "Type": "Compiled:Int64"
+    }
+  ]
+}

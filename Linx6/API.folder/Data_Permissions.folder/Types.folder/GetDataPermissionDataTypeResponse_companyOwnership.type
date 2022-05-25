@@ -1,0 +1,16 @@
+{
+  "Id": "UL4q",
+  "Name": "GetDataPermissionDataTypeResponse_companyOwnership",
+  "Properties": [
+    {
+      "Id": "aJRU",
+      "Name": "code",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "6G54",
+      "Name": "uuid",
+      "Type": "Compiled:String"
+    }
+  ]
+}

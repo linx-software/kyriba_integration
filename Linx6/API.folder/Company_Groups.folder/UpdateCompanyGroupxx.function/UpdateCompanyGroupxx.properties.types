@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "wRiv",
+      "Properties": [
+        {
+          "Id": "BmvE",
+          "Name": "CompanyGroup",
+          "Type": "Custom:QMQh",
+          "Access": "ReadWrite"
+        },
+        {
+          "Id": "3Emx",
+          "Name": "CompanyCode",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "PjKZ",
+      "Properties": [
+        {
+          "Id": "DvaR",
+          "Name": "Response",
+          "Type": "Custom:llVy",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  }
+]

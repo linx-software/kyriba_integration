@@ -1,0 +1,41 @@
+{
+  "Id": "npS9",
+  "Name": "GetThirdPartyResponse_address",
+  "Properties": [
+    {
+      "Id": "RJUK",
+      "Name": "city",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "BKgw",
+      "Name": "country",
+      "Type": "Custom:Y1ZB"
+    },
+    {
+      "Id": "Udo2",
+      "Name": "homepage",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "jdqd",
+      "Name": "state",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "1yWu",
+      "Name": "street1",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "TeHd",
+      "Name": "street2",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "XqBR",
+      "Name": "zipCode",
+      "Type": "Compiled:Int64"
+    }
+  ]
+}

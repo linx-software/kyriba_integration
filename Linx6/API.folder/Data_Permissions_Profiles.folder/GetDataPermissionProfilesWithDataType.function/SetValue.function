@@ -1,0 +1,26 @@
+{
+  "Properties": [
+    {
+      "Id": "Source",
+      "Type": "List:Custom:6HwI",
+      "ValueUsage": "RuntimeRead",
+      "Value": {
+        "Expression": "CallGetDataPermissionProfiles.ResponseBody",
+        "CompiledExpression": "={0}",
+        "Type": "List:Custom:6HwI"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    },
+    {
+      "Id": "Target",
+      "Type": "List:Custom:6HwI",
+      "ValueUsage": "RuntimeWrite",
+      "Value": {
+        "Expression": "$.Result.DataPermissionProfiles",
+        "CompiledExpression": "={0}",
+        "Type": "List:Custom:6HwI"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    }
+  ]
+}

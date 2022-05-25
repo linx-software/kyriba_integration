@@ -1,0 +1,21 @@
+{
+  "Id": "Dn01",
+  "Name": "GetDataPersmissionResponse",
+  "Properties": [
+    {
+      "Id": "9tM3",
+      "Name": "code",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "LTS8",
+      "Name": "description",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "Qi8h",
+      "Name": "uuid",
+      "Type": "Compiled:String"
+    }
+  ]
+}

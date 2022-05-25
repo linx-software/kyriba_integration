@@ -1,0 +1,16 @@
+{
+  "Id": "h8jv",
+  "Name": "CashFlowAggregationResponse_accountAmountAggregationTotal",
+  "Properties": [
+    {
+      "Id": "ltdf",
+      "Name": "amount",
+      "Type": "Compiled:Double"
+    },
+    {
+      "Id": "mfQg",
+      "Name": "count",
+      "Type": "Compiled:Int64"
+    }
+  ]
+}

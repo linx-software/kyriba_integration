@@ -1,0 +1,41 @@
+{
+  "Id": "9klq",
+  "Name": "GetTaskResponse",
+  "Properties": [
+    {
+      "Id": "0Ce3",
+      "Name": "taskDescription",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "8UIb",
+      "Name": "taskEndTime",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "aR1i",
+      "Name": "taskLog",
+      "Type": "List:Compiled:String"
+    },
+    {
+      "Id": "VciZ",
+      "Name": "taskStartTime",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "BrY4",
+      "Name": "taskStatus",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "2L3S",
+      "Name": "taskType",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "JuR1",
+      "Name": "uuid",
+      "Type": "Compiled:String"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "Id": "7rix",
+  "Name": "CashBalanceRequest_entities",
+  "Properties": [
+    {
+      "Id": "urjL",
+      "Name": "code",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "7cI0",
+      "Name": "uuid",
+      "Type": "Compiled:String"
+    }
+  ]
+}

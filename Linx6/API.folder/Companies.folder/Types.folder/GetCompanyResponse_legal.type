@@ -1,0 +1,61 @@
+{
+  "Id": "QzfJ",
+  "Name": "GetCompanyResponse_legal",
+  "Properties": [
+    {
+      "Id": "Yiyi",
+      "Name": "capital",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "Qjje",
+      "Name": "form",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "oKKd",
+      "Name": "freeText1",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "41AU",
+      "Name": "freeText2",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "IQcs",
+      "Name": "freeText3",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "AlpF",
+      "Name": "freeText4",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "6xHo",
+      "Name": "freeText5",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "EqJY",
+      "Name": "representative1",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "j5TT",
+      "Name": "representative1Position",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "dhci",
+      "Name": "representative2",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "72iF",
+      "Name": "representative2Position",
+      "Type": "Compiled:String"
+    }
+  ]
+}

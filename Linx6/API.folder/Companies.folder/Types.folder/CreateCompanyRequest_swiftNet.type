@@ -1,0 +1,16 @@
+{
+  "Id": "UOXw",
+  "Name": "CreateCompanyRequest_swiftNet",
+  "Properties": [
+    {
+      "Id": "w0Vp",
+      "Name": "bei",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "9c7i",
+      "Name": "distinguishedName",
+      "Type": "Compiled:String"
+    }
+  ]
+}

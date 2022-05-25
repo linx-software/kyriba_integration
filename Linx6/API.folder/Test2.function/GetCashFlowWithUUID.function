@@ -1,0 +1,34 @@
+{
+  "Properties": [
+    {
+      "Id": "8g79",
+      "Type": "Compiled:String",
+      "ValueUsage": "RuntimeRead",
+      "Value": "bf59cae0-1958-411e-9f3b-aea4f574a116"
+    },
+    {
+      "Id": "ParameterNameMapping",
+      "Type": "Compiled:System.Collections.Generic.IDictionary`2[[System.String, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]], System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+      "ValueUsage": "DesignTime",
+      "Value": {
+        "8g79": "CashFlowUUID"
+      },
+      "ValueType": "System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]], System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e"
+    },
+    {
+      "Id": "Process",
+      "Type": "Compiled:Linx.IProcessReference",
+      "ValueUsage": "DesignTime",
+      "Value": {
+        "Id": "bkpf",
+        "Name": "API.Cash_Flows.GetCashFlowWithUUID",
+        "Parameters": "Generated:0e3K",
+        "Result": "Generated:6B6m",
+        "IsValid": true,
+        "QualifiedPath": "FL:API→FL:Cash_Flows→PC:GetCashFlowWithUUID"
+      },
+      "ValueType": "Linx.ProcessReference"
+    }
+  ],
+  "Result": "Generated:6B6m"
+}

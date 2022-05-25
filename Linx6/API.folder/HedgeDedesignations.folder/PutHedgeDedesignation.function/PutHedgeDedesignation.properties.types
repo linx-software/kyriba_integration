@@ -1,0 +1,42 @@
+[
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "q5qY",
+      "Properties": [
+        {
+          "Id": "UAWo",
+          "Name": "Dedesignation",
+          "Type": "Custom:P3Rd",
+          "Access": "ReadWrite"
+        },
+        {
+          "Id": "lKIL",
+          "Name": "RelationshipNumber",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        },
+        {
+          "Id": "h7N5",
+          "Name": "TransactionNumber",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "mrqC",
+      "Properties": [
+        {
+          "Id": "iR1P",
+          "Name": "Response",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  }
+]

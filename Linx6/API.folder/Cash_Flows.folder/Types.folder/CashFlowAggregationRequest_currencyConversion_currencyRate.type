@@ -1,0 +1,26 @@
+{
+  "Id": "WzRq",
+  "Name": "CashFlowAggregationRequest_currencyConversion_currencyRate",
+  "Properties": [
+    {
+      "Id": "lv8W",
+      "Name": "mode",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "vMoc",
+      "Name": "fixingDate",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "vIjg",
+      "Name": "historicalDateType",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "3fip",
+      "Name": "type",
+      "Type": "Custom:tgja"
+    }
+  ]
+}

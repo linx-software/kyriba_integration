@@ -1,0 +1,16 @@
+{
+  "Id": "PLwk",
+  "Name": "GetCashFlowAdditionalResponse_counterpartyFlow",
+  "Properties": [
+    {
+      "Id": "T1BK",
+      "Name": "company",
+      "Type": "Custom:LEsk"
+    },
+    {
+      "Id": "aCPS",
+      "Name": "consolidationCode",
+      "Type": "Compiled:String"
+    }
+  ]
+}

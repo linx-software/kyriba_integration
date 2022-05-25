@@ -1,0 +1,32 @@
+[
+  {
+    "Id": "qfu3",
+    "Name": "Kyriba_client_id",
+    "Type": "Compiled:String",
+    "Secret": true
+  },
+  {
+    "Id": "K06m",
+    "Name": "Kyriba_client_secret",
+    "Type": "Compiled:String",
+    "Secret": true
+  },
+  {
+    "Id": "CyWv",
+    "Name": "Kyriba_tokenURL",
+    "Type": "Compiled:String",
+    "Value": "https://demo.kyriba.com/gateway/oauth/token"
+  },
+  {
+    "Id": "Gqh9",
+    "Name": "Kyriba_baseURL",
+    "Type": "Compiled:String",
+    "Value": "https://demo.kyriba.com/gateway/api"
+  },
+  {
+    "Id": "RoIh",
+    "Name": "Kyriba_Reference",
+    "Type": "Compiled:String",
+    "Value": "https://developer.kyriba.com/site/documentation/quickstart/index.gsp"
+  }
+]

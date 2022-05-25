@@ -1,0 +1,56 @@
+{
+  "Id": "XyYb",
+  "Name": "UpdateCashFlowRequest",
+  "Properties": [
+    {
+      "Id": "MGQq",
+      "Name": "account",
+      "Type": "Custom:4R5N"
+    },
+    {
+      "Id": "4xOe",
+      "Name": "flowCode",
+      "Type": "Custom:4R5N"
+    },
+    {
+      "Id": "G674",
+      "Name": "budgetCode",
+      "Type": "Custom:4R5N"
+    },
+    {
+      "Id": "raac",
+      "Name": "status",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "FStw",
+      "Name": "date",
+      "Type": "Custom:2Ht0"
+    },
+    {
+      "Id": "6ENc",
+      "Name": "flowAmount",
+      "Type": "Custom:zUyM"
+    },
+    {
+      "Id": "eAW1",
+      "Name": "accountAmount",
+      "Type": "Custom:qYXd"
+    },
+    {
+      "Id": "lytw",
+      "Name": "description",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "3lEn",
+      "Name": "reference",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "QRQY",
+      "Name": "userZones",
+      "Type": "Custom:FblT"
+    }
+  ]
+}

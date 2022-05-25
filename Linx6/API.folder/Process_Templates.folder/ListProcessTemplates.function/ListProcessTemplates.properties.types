@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "Z421",
+      "Properties": [
+        {
+          "Id": "duio",
+          "Name": "filter",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        },
+        {
+          "Id": "8TSJ",
+          "Name": "sort",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "zflG",
+      "Properties": [
+        {
+          "Id": "z7nT",
+          "Name": "ProcessTemplates",
+          "Type": "List:Custom:gCme",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  }
+]

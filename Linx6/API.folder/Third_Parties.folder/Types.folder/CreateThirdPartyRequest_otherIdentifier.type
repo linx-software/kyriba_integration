@@ -1,0 +1,16 @@
+{
+  "Id": "Aa95",
+  "Name": "CreateThirdPartyRequest_otherIdentifier",
+  "Properties": [
+    {
+      "Id": "C2f3",
+      "Name": "otherIdentifierType",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "9mbK",
+      "Name": "otherIdentifierValue",
+      "Type": "Compiled:String"
+    }
+  ]
+}

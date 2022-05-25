@@ -1,0 +1,86 @@
+{
+  "Id": "bCy0",
+  "Name": "ListSupplierUsersResponse_results",
+  "Properties": [
+    {
+      "Id": "Ilcj",
+      "Name": "accessProfile",
+      "Type": "Custom:a9sw"
+    },
+    {
+      "Id": "KGEp",
+      "Name": "active",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "8uIp",
+      "Name": "code",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "PP7u",
+      "Name": "companyOwnership",
+      "Type": "Custom:a9sw"
+    },
+    {
+      "Id": "jjxF",
+      "Name": "creationDate",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "uvhF",
+      "Name": "description1",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "S3QH",
+      "Name": "email",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "A6oC",
+      "Name": "firstName",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "H3yk",
+      "Name": "interfaceCode",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "l5L9",
+      "Name": "lastName",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "Pb5h",
+      "Name": "lastUpdateDate",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "lx4g",
+      "Name": "ssoIdentity",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "Mpls",
+      "Name": "systemAdministrator",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "gliZ",
+      "Name": "thirdParty",
+      "Type": "Custom:a9sw"
+    },
+    {
+      "Id": "xXuV",
+      "Name": "thirdPartyName",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "2lgt",
+      "Name": "uuid",
+      "Type": "Compiled:String"
+    }
+  ]
+}

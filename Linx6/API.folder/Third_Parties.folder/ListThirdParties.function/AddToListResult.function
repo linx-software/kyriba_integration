@@ -1,0 +1,26 @@
+{
+  "Properties": [
+    {
+      "Id": "List",
+      "Type": "List:Custom:tiZ6",
+      "ValueUsage": "RuntimeRead",
+      "Value": {
+        "Expression": "$.Result.ThirdParties",
+        "CompiledExpression": "={0}",
+        "Type": "List:Custom:tiZ6"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    },
+    {
+      "Id": "Value",
+      "Type": "Custom:tiZ6",
+      "ValueUsage": "RuntimeRead",
+      "Value": {
+        "Expression": "ForEachResult.Loop",
+        "CompiledExpression": "={0}",
+        "Type": "Custom:tiZ6"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    }
+  ]
+}

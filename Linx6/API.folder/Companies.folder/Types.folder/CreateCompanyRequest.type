@@ -1,0 +1,106 @@
+{
+  "Id": "Gbui",
+  "Name": "CreateCompanyRequest",
+  "Properties": [
+    {
+      "Id": "IEGN",
+      "Name": "address",
+      "Type": "Custom:VMlj"
+    },
+    {
+      "Id": "e5gc",
+      "Name": "auditor",
+      "Type": "Custom:Jrmq"
+    },
+    {
+      "Id": "xyyO",
+      "Name": "businessIdentifiers",
+      "Type": "Custom:WqYd"
+    },
+    {
+      "Id": "tMne",
+      "Name": "code",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "RuX3",
+      "Name": "companyOwnershipPercentage",
+      "Type": "List:Custom:UJas"
+    },
+    {
+      "Id": "boC2",
+      "Name": "contact",
+      "Type": "Custom:hYEt"
+    },
+    {
+      "Id": "EePS",
+      "Name": "currencies",
+      "Type": "Custom:lVvD"
+    },
+    {
+      "Id": "ad1V",
+      "Name": "deals",
+      "Type": "Custom:wCug"
+    },
+    {
+      "Id": "s5z8",
+      "Name": "defaultGroup",
+      "Type": "Custom:Fq9q"
+    },
+    {
+      "Id": "l0U7",
+      "Name": "description1",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "9Lmr",
+      "Name": "description2",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "OgxN",
+      "Name": "geoMap",
+      "Type": "Custom:C9JI"
+    },
+    {
+      "Id": "R2sn",
+      "Name": "hideInList",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "m9kV",
+      "Name": "interfaceCode",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "A0eB",
+      "Name": "issuerOfInterchange",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "AkaL",
+      "Name": "legal",
+      "Type": "Custom:JqHo"
+    },
+    {
+      "Id": "eEte",
+      "Name": "nonResident",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "LwEU",
+      "Name": "shortCode",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "Id2V",
+      "Name": "swiftNet",
+      "Type": "Custom:UOXw"
+    },
+    {
+      "Id": "FdQE",
+      "Name": "userZones",
+      "Type": "Custom:s35S"
+    }
+  ]
+}

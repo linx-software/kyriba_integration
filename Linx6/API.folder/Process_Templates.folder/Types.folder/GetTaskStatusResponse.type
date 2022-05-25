@@ -1,0 +1,16 @@
+{
+  "Id": "7MBk",
+  "Name": "GetTaskStatusResponse",
+  "Properties": [
+    {
+      "Id": "7lXo",
+      "Name": "status",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "J0jC",
+      "Name": "subTasks",
+      "Type": "List:Custom:URS1"
+    }
+  ]
+}

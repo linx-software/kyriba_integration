@@ -1,0 +1,26 @@
+{
+  "Properties": [
+    {
+      "Id": "Source",
+      "Type": "Custom:5iAc",
+      "ValueUsage": "RuntimeRead",
+      "Value": {
+        "Expression": "CallGetCompany.ResponseBody",
+        "CompiledExpression": "={0}",
+        "Type": "Custom:5iAc"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    },
+    {
+      "Id": "Target",
+      "Type": "Custom:5iAc",
+      "ValueUsage": "RuntimeWrite",
+      "Value": {
+        "Expression": "$.Result.Company",
+        "CompiledExpression": "={0}",
+        "Type": "Custom:5iAc"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    }
+  ]
+}

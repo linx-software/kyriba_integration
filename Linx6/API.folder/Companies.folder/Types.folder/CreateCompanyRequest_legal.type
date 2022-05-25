@@ -1,0 +1,61 @@
+{
+  "Id": "JqHo",
+  "Name": "CreateCompanyRequest_legal",
+  "Properties": [
+    {
+      "Id": "MQ8P",
+      "Name": "capital",
+      "Type": "Compiled:Double"
+    },
+    {
+      "Id": "nYlB",
+      "Name": "form",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "xOrq",
+      "Name": "freeText1",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "B0dQ",
+      "Name": "freeText2",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "P6ry",
+      "Name": "freeText3",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "HKcV",
+      "Name": "freeText4",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "Y78G",
+      "Name": "freeText5",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "XxOr",
+      "Name": "representative1",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "1DLY",
+      "Name": "representative1Position",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "Y8HL",
+      "Name": "representative2",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "0Q3A",
+      "Name": "representative2Position",
+      "Type": "Compiled:String"
+    }
+  ]
+}

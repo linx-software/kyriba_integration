@@ -1,0 +1,16 @@
+{
+  "Id": "D6AN",
+  "Name": "ListOfCompaniesResponse",
+  "Properties": [
+    {
+      "Id": "Sdgp",
+      "Name": "metadata",
+      "Type": "Custom:6NL2"
+    },
+    {
+      "Id": "7cIV",
+      "Name": "results",
+      "Type": "List:Custom:u2xl"
+    }
+  ]
+}

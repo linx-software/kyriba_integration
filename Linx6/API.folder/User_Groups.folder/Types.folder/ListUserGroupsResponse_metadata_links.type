@@ -1,0 +1,21 @@
+{
+  "Id": "6N8H",
+  "Name": "ListUserGroupsResponse_metadata_links",
+  "Properties": [
+    {
+      "Id": "ycXW",
+      "Name": "current",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "dqf4",
+      "Name": "next",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "a4b9",
+      "Name": "prev",
+      "Type": "Compiled:String"
+    }
+  ]
+}

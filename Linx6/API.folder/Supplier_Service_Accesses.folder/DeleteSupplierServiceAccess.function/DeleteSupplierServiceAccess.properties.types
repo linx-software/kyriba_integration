@@ -1,0 +1,30 @@
+[
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "TweH",
+      "Properties": [
+        {
+          "Id": "Q5RN",
+          "Name": "UUID",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "NqBD",
+      "Properties": [
+        {
+          "Id": "N4wg",
+          "Name": "Response",
+          "Type": "Custom:llVy",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  }
+]

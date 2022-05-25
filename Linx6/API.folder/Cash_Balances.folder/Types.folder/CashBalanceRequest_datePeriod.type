@@ -1,0 +1,21 @@
+{
+  "Id": "58im",
+  "Name": "CashBalanceRequest_datePeriod",
+  "Properties": [
+    {
+      "Id": "V8sO",
+      "Name": "dateType",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "TVLV",
+      "Name": "endDate",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "t0Qp",
+      "Name": "startDate",
+      "Type": "Compiled:String"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "Id": "cKW3",
+  "Name": "ListDataPermissionResponse_results",
+  "Properties": [
+    {
+      "Id": "BwSA",
+      "Name": "code",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "lJQv",
+      "Name": "companyOwnership",
+      "Type": "Custom:7jnp"
+    },
+    {
+      "Id": "yjRP",
+      "Name": "description",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "84zh",
+      "Name": "uuid",
+      "Type": "Compiled:String"
+    }
+  ]
+}

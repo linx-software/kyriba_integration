@@ -1,0 +1,31 @@
+{
+  "Id": "5E3B",
+  "Name": "UpdateCompanyRequest_contact",
+  "Properties": [
+    {
+      "Id": "8ZCp",
+      "Name": "department",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "eh0W",
+      "Name": "email",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "1cz1",
+      "Name": "fax",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "GDbl",
+      "Name": "name",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "ppiu",
+      "Name": "phone",
+      "Type": "Compiled:String"
+    }
+  ]
+}

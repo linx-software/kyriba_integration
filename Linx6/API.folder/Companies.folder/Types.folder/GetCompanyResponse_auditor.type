@@ -1,0 +1,21 @@
+{
+  "Id": "4omL",
+  "Name": "GetCompanyResponse_auditor",
+  "Properties": [
+    {
+      "Id": "47dI",
+      "Name": "address",
+      "Type": "Custom:5E4U"
+    },
+    {
+      "Id": "wy8O",
+      "Name": "advisoryFirm",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "3HKF",
+      "Name": "name",
+      "Type": "Compiled:String"
+    }
+  ]
+}

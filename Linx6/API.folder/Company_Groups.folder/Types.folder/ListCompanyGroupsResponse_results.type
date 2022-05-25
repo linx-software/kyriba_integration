@@ -1,0 +1,36 @@
+{
+  "Id": "R2nS",
+  "Name": "ListCompanyGroupsResponse_results",
+  "Properties": [
+    {
+      "Id": "DL1Q",
+      "Name": "uuid",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "uXHS",
+      "Name": "code",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "KjCc",
+      "Name": "description",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "S4zN",
+      "Name": "leader",
+      "Type": "Custom:vSAR"
+    },
+    {
+      "Id": "BzT8",
+      "Name": "counterparty",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "Qvam",
+      "Name": "intermediary",
+      "Type": "Compiled:Boolean"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+[
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "OdXy",
+      "Properties": [
+        {
+          "Id": "Ewox",
+          "Name": "CashBalanceRequest",
+          "Type": "Custom:0BDJ",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "vMuk",
+      "Properties": [
+        {
+          "Id": "8bMR",
+          "Name": "CashBalances",
+          "Type": "List:Custom:Gtk8",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,31 @@
+{
+  "Id": "A2qp",
+  "Name": "ListSupplierServiceAccessResponse_metadata",
+  "Properties": [
+    {
+      "Id": "PEqA",
+      "Name": "links",
+      "Type": "Custom:ky1s"
+    },
+    {
+      "Id": "YICi",
+      "Name": "numberOfTotalResults",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "PW1g",
+      "Name": "pageLimit",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "xfBw",
+      "Name": "pageOffset",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "kKSx",
+      "Name": "pageResults",
+      "Type": "Compiled:Int64"
+    }
+  ]
+}

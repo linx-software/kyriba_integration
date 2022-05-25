@@ -1,0 +1,36 @@
+{
+  "Id": "XheO",
+  "Name": "GetThirdPartyResponse_thirdPartyBankBranchAccountIDs_OneTimeCorrespondent",
+  "Properties": [
+    {
+      "Id": "WEoy",
+      "Name": "oneTime",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "b94Q",
+      "Name": "correspondentDescription",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "hmVm",
+      "Name": "correspondentBIC",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "jCgp",
+      "Name": "country",
+      "Type": "Custom:Y1ZB"
+    },
+    {
+      "Id": "T6J7",
+      "Name": "correspondentOtherIdentifier",
+      "Type": "Custom:yuyG"
+    },
+    {
+      "Id": "HRjz",
+      "Name": "account",
+      "Type": "Compiled:String"
+    }
+  ]
+}

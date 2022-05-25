@@ -1,0 +1,41 @@
+{
+  "Id": "x90S",
+  "Name": "UpdateThirdPartyRequest_address",
+  "Properties": [
+    {
+      "Id": "NSmM",
+      "Name": "city",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "KvEc",
+      "Name": "country",
+      "Type": "Custom:V1NA"
+    },
+    {
+      "Id": "uiHi",
+      "Name": "homepage",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "wJ0n",
+      "Name": "state",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "2ifC",
+      "Name": "street1",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "2Lsz",
+      "Name": "street2",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "MZg2",
+      "Name": "zipCode",
+      "Type": "Compiled:Int64"
+    }
+  ]
+}

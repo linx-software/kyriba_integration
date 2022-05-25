@@ -1,0 +1,31 @@
+{
+  "Id": "hYEt",
+  "Name": "CreateCompanyRequest_contact",
+  "Properties": [
+    {
+      "Id": "u7qV",
+      "Name": "department",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "TlTF",
+      "Name": "email",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "t4UB",
+      "Name": "fax",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "YzKT",
+      "Name": "name",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "7Ykv",
+      "Name": "phone",
+      "Type": "Compiled:String"
+    }
+  ]
+}

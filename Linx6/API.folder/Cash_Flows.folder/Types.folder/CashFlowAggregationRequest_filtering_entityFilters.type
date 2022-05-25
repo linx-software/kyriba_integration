@@ -1,0 +1,16 @@
+{
+  "Id": "OJuz",
+  "Name": "CashFlowAggregationRequest_filtering_entityFilters",
+  "Properties": [
+    {
+      "Id": "A129",
+      "Name": "entityType",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "NT4q",
+      "Name": "entities",
+      "Type": "List:Custom:tgja"
+    }
+  ]
+}

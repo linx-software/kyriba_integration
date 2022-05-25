@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "ihwq",
+      "Properties": [
+        {
+          "Id": "KXdM",
+          "Name": "CompanyGroupCode",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        },
+        {
+          "Id": "UTf9",
+          "Name": "Companies",
+          "Type": "List:Custom:TfHd",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "3kxQ",
+      "Properties": [
+        {
+          "Id": "zNDO",
+          "Name": "Response",
+          "Type": "Custom:llVy",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,31 @@
+{
+  "Id": "jqis",
+  "Name": "ListThirdPartyResponse_metadata",
+  "Properties": [
+    {
+      "Id": "EkoS",
+      "Name": "links",
+      "Type": "Custom:e6hy"
+    },
+    {
+      "Id": "cD5G",
+      "Name": "numberOfTotalResults",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "V6iS",
+      "Name": "pageLimit",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "Tosk",
+      "Name": "pageOffset",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "4jJO",
+      "Name": "pageResults",
+      "Type": "Compiled:Int64"
+    }
+  ]
+}

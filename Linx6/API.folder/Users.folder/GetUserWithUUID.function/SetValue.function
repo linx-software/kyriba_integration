@@ -1,0 +1,26 @@
+{
+  "Properties": [
+    {
+      "Id": "Source",
+      "Type": "Custom:GYh9",
+      "ValueUsage": "RuntimeRead",
+      "Value": {
+        "Expression": "GetUserResponse",
+        "CompiledExpression": "={0}",
+        "Type": "Custom:GYh9"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    },
+    {
+      "Id": "Target",
+      "Type": "Custom:GYh9",
+      "ValueUsage": "RuntimeWrite",
+      "Value": {
+        "Expression": "$.Result.User",
+        "CompiledExpression": "={0}",
+        "Type": "Custom:GYh9"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    }
+  ]
+}

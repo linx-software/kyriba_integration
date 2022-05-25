@@ -1,0 +1,16 @@
+{
+  "Id": "tXQT",
+  "Name": "BudgetCodesResponse",
+  "Properties": [
+    {
+      "Id": "Ct0N",
+      "Name": "metadata",
+      "Type": "Custom:25W5"
+    },
+    {
+      "Id": "qWei",
+      "Name": "results",
+      "Type": "List:Custom:IRo9"
+    }
+  ]
+}

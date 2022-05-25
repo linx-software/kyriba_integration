@@ -1,0 +1,30 @@
+[
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "dVPi",
+      "Properties": [
+        {
+          "Id": "hm8P",
+          "Name": "DataType",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "GIjd",
+      "Properties": [
+        {
+          "Id": "HGD8",
+          "Name": "DataPermissionProfiles",
+          "Type": "List:Custom:6HwI",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  }
+]

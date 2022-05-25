@@ -1,0 +1,30 @@
+[
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "oZbJ",
+      "Properties": [
+        {
+          "Id": "5Hf6",
+          "Name": "DataPermissionCode",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "Phh6",
+      "Properties": [
+        {
+          "Id": "FdXY",
+          "Name": "DataPermissions",
+          "Type": "List:Custom:Dn01",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  }
+]

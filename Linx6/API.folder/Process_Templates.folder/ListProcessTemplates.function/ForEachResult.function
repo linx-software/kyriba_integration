@@ -1,0 +1,24 @@
+{
+  "ExecutionPaths": [
+    {
+      "PluginId": "Loop",
+      "Name": "Loop",
+      "Result": "List:Custom:gCme",
+      "Order": 0,
+      "IterationHint": "ZeroOrMore"
+    }
+  ],
+  "Properties": [
+    {
+      "Id": "List",
+      "Type": "List:Custom:gCme",
+      "ValueUsage": "RuntimeRead",
+      "Value": {
+        "Expression": "GetProcessTemplates.ResponseBody.results",
+        "CompiledExpression": "={0}",
+        "Type": "List:Custom:gCme"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    }
+  ]
+}

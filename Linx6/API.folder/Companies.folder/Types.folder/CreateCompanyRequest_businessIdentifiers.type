@@ -1,0 +1,46 @@
+{
+  "Id": "WqYd",
+  "Name": "CreateCompanyRequest_businessIdentifiers",
+  "Properties": [
+    {
+      "Id": "W9AQ",
+      "Name": "consolidationCode",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "WLU7",
+      "Name": "corpIDCode",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "YSQD",
+      "Name": "lei",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "Ahr8",
+      "Name": "otherIdentifierType",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "8rV0",
+      "Name": "otherIdentifierValue",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "qt5L",
+      "Name": "sepaCreditorIdentifier",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "fReJ",
+      "Name": "taxIDs",
+      "Type": "List:Custom:CArc"
+    },
+    {
+      "Id": "XJRs",
+      "Name": "txp",
+      "Type": "Compiled:String"
+    }
+  ]
+}

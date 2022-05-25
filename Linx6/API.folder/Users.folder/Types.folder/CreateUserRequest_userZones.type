@@ -1,0 +1,31 @@
+{
+  "Id": "0P9b",
+  "Name": "CreateUserRequest_userZones",
+  "Properties": [
+    {
+      "Id": "e0uQ",
+      "Name": "userZone1",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "3qjH",
+      "Name": "userZone2",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "8irw",
+      "Name": "userZone3",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "S8jZ",
+      "Name": "userZone4",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "XFf0",
+      "Name": "userZone5",
+      "Type": "Compiled:String"
+    }
+  ]
+}

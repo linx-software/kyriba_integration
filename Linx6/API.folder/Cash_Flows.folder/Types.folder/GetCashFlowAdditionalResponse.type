@@ -1,0 +1,86 @@
+{
+  "Id": "Nmap",
+  "Name": "GetCashFlowAdditionalResponse",
+  "Properties": [
+    {
+      "Id": "OZTE",
+      "Name": "currency",
+      "Type": "Custom:LEsk"
+    },
+    {
+      "Id": "TvEK",
+      "Name": "feeAmount",
+      "Type": "Compiled:Double"
+    },
+    {
+      "Id": "gbTF",
+      "Name": "interestAmount",
+      "Type": "Compiled:Double"
+    },
+    {
+      "Id": "Lk11",
+      "Name": "commissionAmount",
+      "Type": "Compiled:Double"
+    },
+    {
+      "Id": "0jTd",
+      "Name": "lastUpdateDate",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "BHyT",
+      "Name": "flowID",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "QjLl",
+      "Name": "companyConsolidationCode",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "3sgI",
+      "Name": "company",
+      "Type": "Custom:LEsk"
+    },
+    {
+      "Id": "WYpC",
+      "Name": "bank",
+      "Type": "Custom:LEsk"
+    },
+    {
+      "Id": "cdrT",
+      "Name": "branch",
+      "Type": "Custom:LEsk"
+    },
+    {
+      "Id": "1H8d",
+      "Name": "forecastGlCountervalue",
+      "Type": "Custom:YKix"
+    },
+    {
+      "Id": "6XkG",
+      "Name": "companyGlAmount",
+      "Type": "Custom:YKix"
+    },
+    {
+      "Id": "e3MF",
+      "Name": "debitCreditType",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "K2Mz",
+      "Name": "counterpartyFlow",
+      "Type": "Custom:PLwk"
+    },
+    {
+      "Id": "Png0",
+      "Name": "account",
+      "Type": "Custom:LEsk"
+    },
+    {
+      "Id": "iIsy",
+      "Name": "flowCode",
+      "Type": "Custom:LEsk"
+    }
+  ]
+}

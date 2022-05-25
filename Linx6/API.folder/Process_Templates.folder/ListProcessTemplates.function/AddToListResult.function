@@ -1,0 +1,26 @@
+{
+  "Properties": [
+    {
+      "Id": "List",
+      "Type": "List:Custom:gCme",
+      "ValueUsage": "RuntimeRead",
+      "Value": {
+        "Expression": "$.Result.ProcessTemplates",
+        "CompiledExpression": "={0}",
+        "Type": "List:Custom:gCme"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    },
+    {
+      "Id": "Value",
+      "Type": "Custom:gCme",
+      "ValueUsage": "RuntimeRead",
+      "Value": {
+        "Expression": "ForEachResult.Loop",
+        "CompiledExpression": "={0}",
+        "Type": "Custom:gCme"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    }
+  ]
+}

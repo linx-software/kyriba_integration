@@ -1,0 +1,16 @@
+{
+  "Id": "rMhK",
+  "Name": "ListCompanyGroupsResponse_metadata_links",
+  "Properties": [
+    {
+      "Id": "Lmwq",
+      "Name": "current",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "8Tu2",
+      "Name": "next",
+      "Type": "Compiled:String"
+    }
+  ]
+}

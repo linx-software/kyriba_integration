@@ -1,0 +1,21 @@
+{
+  "Id": "UJas",
+  "Name": "CreateCompanyRequest_companyOwnershipPercentage",
+  "Properties": [
+    {
+      "Id": "OBMT",
+      "Name": "ownershipDate",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "JG0F",
+      "Name": "ownershipParentCompany",
+      "Type": "Custom:Fq9q"
+    },
+    {
+      "Id": "HfLk",
+      "Name": "ownershipPercentage",
+      "Type": "Compiled:Double"
+    }
+  ]
+}

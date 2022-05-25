@@ -1,0 +1,31 @@
+{
+  "Id": "cLmx",
+  "Name": "CreateThirdPartyRequest_contact",
+  "Properties": [
+    {
+      "Id": "XkMg",
+      "Name": "name",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "vpVk",
+      "Name": "department",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "mgtG",
+      "Name": "phoneNumber",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "vPNR",
+      "Name": "faxNumber",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "vc7w",
+      "Name": "email",
+      "Type": "Compiled:String"
+    }
+  ]
+}

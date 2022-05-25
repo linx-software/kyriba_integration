@@ -1,0 +1,31 @@
+{
+  "Id": "UB4U",
+  "Name": "ListProcessTemplatesResponse_metadata",
+  "Properties": [
+    {
+      "Id": "55Gg",
+      "Name": "links",
+      "Type": "Custom:L1je"
+    },
+    {
+      "Id": "XnXG",
+      "Name": "numberOfTotalResults",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "zaKs",
+      "Name": "pageLimit",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "Gq8G",
+      "Name": "pageOffset",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "tUdI",
+      "Name": "pageResults",
+      "Type": "Compiled:Int64"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "Id": "7KV3",
+  "Name": "CreateCashFlowRequest_account",
+  "Properties": [
+    {
+      "Id": "Xgn3",
+      "Name": "code",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "EOKo",
+      "Name": "uuid",
+      "Type": "Compiled:String"
+    }
+  ]
+}

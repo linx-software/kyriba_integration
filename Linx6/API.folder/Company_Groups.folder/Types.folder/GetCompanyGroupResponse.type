@@ -1,0 +1,51 @@
+{
+  "Id": "kUEK",
+  "Name": "GetCompanyGroupResponse",
+  "Properties": [
+    {
+      "Id": "571j",
+      "Name": "uuid",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "Q0P0",
+      "Name": "code",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "pnzY",
+      "Name": "description",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "Tvm2",
+      "Name": "description2",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "Pvcz",
+      "Name": "leader",
+      "Type": "Custom:M5hU"
+    },
+    {
+      "Id": "8ih2",
+      "Name": "counterparty",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "A7Wr",
+      "Name": "intermediary",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "Zs7c",
+      "Name": "contact",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "N7gU",
+      "Name": "companies",
+      "Type": "List:Custom:TfHd"
+    }
+  ]
+}

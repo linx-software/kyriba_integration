@@ -1,0 +1,16 @@
+{
+  "Id": "dtxn",
+  "Name": "CreateCashFlowRequest_flowAmount",
+  "Properties": [
+    {
+      "Id": "eTh8",
+      "Name": "currency",
+      "Type": "Custom:7KV3"
+    },
+    {
+      "Id": "VcTa",
+      "Name": "amount",
+      "Type": "Compiled:Double"
+    }
+  ]
+}

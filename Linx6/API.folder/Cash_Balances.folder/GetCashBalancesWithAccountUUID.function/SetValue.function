@@ -1,0 +1,26 @@
+{
+  "Properties": [
+    {
+      "Id": "Source",
+      "Type": "Custom:vXqz",
+      "ValueUsage": "RuntimeRead",
+      "Value": {
+        "Expression": "CallGetCashBalance.ResponseBody",
+        "CompiledExpression": "={0}",
+        "Type": "Custom:vXqz"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    },
+    {
+      "Id": "Target",
+      "Type": "Custom:vXqz",
+      "ValueUsage": "RuntimeWrite",
+      "Value": {
+        "Expression": "$.Result.CashBalances",
+        "CompiledExpression": "={0}",
+        "Type": "Custom:vXqz"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    }
+  ]
+}

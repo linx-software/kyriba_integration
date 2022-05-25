@@ -1,0 +1,24 @@
+{
+  "ExecutionPaths": [
+    {
+      "PluginId": "Loop",
+      "Name": "Loop",
+      "Result": "List:Custom:jQbN",
+      "Order": 0,
+      "IterationHint": "ZeroOrMore"
+    }
+  ],
+  "Properties": [
+    {
+      "Id": "List",
+      "Type": "List:Custom:jQbN",
+      "ValueUsage": "RuntimeRead",
+      "Value": {
+        "Expression": "GetUsers.ResponseBody.results",
+        "CompiledExpression": "={0}",
+        "Type": "List:Custom:jQbN"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "Id": "lVvD",
+  "Name": "CreateCompanyRequest_currencies",
+  "Properties": [
+    {
+      "Id": "Kf4X",
+      "Name": "accountingCalendar",
+      "Type": "Custom:Fq9q"
+    },
+    {
+      "Id": "OCAz",
+      "Name": "currency",
+      "Type": "Custom:Fq9q"
+    },
+    {
+      "Id": "aXou",
+      "Name": "glCurrency",
+      "Type": "Custom:Fq9q"
+    },
+    {
+      "Id": "36wJ",
+      "Name": "glCurrencyRateType",
+      "Type": "Custom:Fq9q"
+    },
+    {
+      "Id": "MK10",
+      "Name": "ndfSettlementCurrency",
+      "Type": "Compiled:String"
+    }
+  ]
+}

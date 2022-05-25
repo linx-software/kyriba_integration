@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "TyeF",
+      "Properties": [
+        {
+          "Id": "3yVX",
+          "Name": "TaskUUID",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        },
+        {
+          "Id": "Leci",
+          "Name": "TemplateRef",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "hF3t",
+      "Properties": [
+        {
+          "Id": "IVO2",
+          "Name": "File",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  }
+]

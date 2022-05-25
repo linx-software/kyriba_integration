@@ -1,0 +1,11 @@
+{
+  "Id": "NOLd",
+  "Name": "ListThirdPartyResponse_results_address",
+  "Properties": [
+    {
+      "Id": "9Dz6",
+      "Name": "country",
+      "Type": "Custom:X4sX"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "Id": "yuyG",
+  "Name": "GetThirdPartyResponse_otherIdentifier",
+  "Properties": [
+    {
+      "Id": "ILzc",
+      "Name": "otherIdentifierType",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "Eep7",
+      "Name": "otherIdentifierValue",
+      "Type": "Compiled:String"
+    }
+  ]
+}

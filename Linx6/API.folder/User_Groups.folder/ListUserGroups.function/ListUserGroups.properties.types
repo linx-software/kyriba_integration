@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "Q02t",
+      "Properties": [
+        {
+          "Id": "Z1EV",
+          "Name": "filter",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        },
+        {
+          "Id": "GBpE",
+          "Name": "sort",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "151I",
+      "Properties": [
+        {
+          "Id": "1cEv",
+          "Name": "UserGroups",
+          "Type": "List:Custom:wgsD",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "Id": "Gjdm",
+  "Name": "GetCompanyResponse_companyOwnershipPercentage",
+  "Properties": [
+    {
+      "Id": "Ctww",
+      "Name": "ownershipDate",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "jG7c",
+      "Name": "ownershipParentCompany",
+      "Type": "Custom:hMmD"
+    },
+    {
+      "Id": "zoPT",
+      "Name": "ownershipPercentage",
+      "Type": "Compiled:String"
+    }
+  ]
+}

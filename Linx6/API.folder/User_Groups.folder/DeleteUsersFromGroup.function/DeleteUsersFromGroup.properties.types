@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "g1nU",
+      "Properties": [
+        {
+          "Id": "Qabq",
+          "Name": "Users",
+          "Type": "List:Custom:llVy",
+          "Access": "ReadWrite"
+        },
+        {
+          "Id": "pCfq",
+          "Name": "GroupUUID",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "3pk7",
+      "Properties": [
+        {
+          "Id": "nvoE",
+          "Name": "Response",
+          "Type": "Custom:llVy",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  }
+]

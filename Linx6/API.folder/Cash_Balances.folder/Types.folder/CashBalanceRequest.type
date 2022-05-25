@@ -1,0 +1,46 @@
+{
+  "Id": "0BDJ",
+  "Name": "CashBalanceRequest",
+  "Properties": [
+    {
+      "Id": "O6EA",
+      "Name": "accountType",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "LHhr",
+      "Name": "cashFlowStatus",
+      "Type": "Custom:yprm"
+    },
+    {
+      "Id": "MF7X",
+      "Name": "currency",
+      "Type": "Custom:ttcG"
+    },
+    {
+      "Id": "1XtG",
+      "Name": "currencyRate",
+      "Type": "Custom:AM5p"
+    },
+    {
+      "Id": "JMTq",
+      "Name": "datePeriod",
+      "Type": "Custom:58im"
+    },
+    {
+      "Id": "0zKa",
+      "Name": "displayEntity",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "vPZQ",
+      "Name": "entities",
+      "Type": "List:Custom:7rix"
+    },
+    {
+      "Id": "TS0D",
+      "Name": "entityType",
+      "Type": "Compiled:String"
+    }
+  ]
+}

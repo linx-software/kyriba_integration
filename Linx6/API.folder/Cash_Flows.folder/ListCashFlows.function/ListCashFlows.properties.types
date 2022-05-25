@@ -1,0 +1,54 @@
+[
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "cftH",
+      "Properties": [
+        {
+          "Id": "ID3t",
+          "Name": "filter",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        },
+        {
+          "Id": "xXos",
+          "Name": "sort",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        },
+        {
+          "Id": "OWOJ",
+          "Name": "dateType",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        },
+        {
+          "Id": "i6Gk",
+          "Name": "endDate",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        },
+        {
+          "Id": "KMMR",
+          "Name": "startDate",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "GhEM",
+      "Properties": [
+        {
+          "Id": "dYxC",
+          "Name": "CashFlows",
+          "Type": "List:Custom:Hi5V",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  }
+]

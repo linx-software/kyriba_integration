@@ -1,0 +1,146 @@
+{
+  "Id": "qKLr",
+  "Name": "UpdateThirdPartyRequest_thirdPartyBankBranchAccountIDs",
+  "Properties": [
+    {
+      "Id": "pZcj",
+      "Name": "uuid",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "kYKb",
+      "Name": "usedByCompany",
+      "Type": "Custom:V1NA"
+    },
+    {
+      "Id": "AMsM",
+      "Name": "defaultAccount",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "XzlS",
+      "Name": "defaultAccountForFinancedInvoices",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "xH2O",
+      "Name": "address",
+      "Type": "Custom:x90S"
+    },
+    {
+      "Id": "nxCf",
+      "Name": "name",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "BMIm",
+      "Name": "bic",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "K2tD",
+      "Name": "otherIdentifier",
+      "Type": "Custom:tg1Z"
+    },
+    {
+      "Id": "WoiF",
+      "Name": "currency",
+      "Type": "Custom:V1NA"
+    },
+    {
+      "Id": "qKik",
+      "Name": "bankAccountID",
+      "Type": "Custom:5O3X"
+    },
+    {
+      "Id": "sJrd",
+      "Name": "accountLocation",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "Ynz7",
+      "Name": "notAccountHolder",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "O1Rm",
+      "Name": "defaultReason1",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "xDhX",
+      "Name": "defaultReason2",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "8NIa",
+      "Name": "defaultReason3",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "hVrg",
+      "Name": "defaultReason4",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "4n37",
+      "Name": "ffc1",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "wjFr",
+      "Name": "ffc2",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "VdhK",
+      "Name": "ffc3",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "UjAQ",
+      "Name": "ffc4",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "fgo5",
+      "Name": "recipientInfo",
+      "Type": "Custom:Vbze"
+    },
+    {
+      "Id": "ZKcP",
+      "Name": "contact",
+      "Type": "Custom:M0mI"
+    },
+    {
+      "Id": "qRTJ",
+      "Name": "mainCorrespondentBankBranch",
+      "Type": "Custom:V1NA"
+    },
+    {
+      "Id": "6FtW",
+      "Name": "mainOneTimeCorrespondent",
+      "Type": "Custom:GkKz"
+    },
+    {
+      "Id": "8Fem",
+      "Name": "additionalCorrespondentBankBranch",
+      "Type": "Custom:V1NA"
+    },
+    {
+      "Id": "NPvl",
+      "Name": "additionalOneTimeCorrespondent",
+      "Type": "Custom:GkKz"
+    },
+    {
+      "Id": "ysQD",
+      "Name": "hidden",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "42oQ",
+      "Name": "closureDate",
+      "Type": "Compiled:String"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "Properties": [
+    {
+      "Id": "List",
+      "Type": "List:Custom:wgsD",
+      "ValueUsage": "RuntimeRead",
+      "Value": {
+        "Expression": "$.Result.UserGroups",
+        "CompiledExpression": "={0}",
+        "Type": "List:Custom:wgsD"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    },
+    {
+      "Id": "Value",
+      "Type": "Custom:wgsD",
+      "ValueUsage": "RuntimeRead",
+      "Value": {
+        "Expression": "ForEachResult.Loop",
+        "CompiledExpression": "={0}",
+        "Type": "Custom:wgsD"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "Id": "cpc8",
+  "Name": "UpdateCompanyRequest_address_country",
+  "Properties": [
+    {
+      "Id": "5biv",
+      "Name": "code",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "qgSk",
+      "Name": "uuid",
+      "Type": "Compiled:String"
+    }
+  ]
+}

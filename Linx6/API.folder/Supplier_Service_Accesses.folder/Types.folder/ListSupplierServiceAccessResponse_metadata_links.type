@@ -1,0 +1,21 @@
+{
+  "Id": "ky1s",
+  "Name": "ListSupplierServiceAccessResponse_metadata_links",
+  "Properties": [
+    {
+      "Id": "Mg8o",
+      "Name": "current",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "hLnN",
+      "Name": "next",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "U1vP",
+      "Name": "prev",
+      "Type": "Compiled:String"
+    }
+  ]
+}

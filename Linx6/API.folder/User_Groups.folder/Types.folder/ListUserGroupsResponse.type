@@ -1,0 +1,16 @@
+{
+  "Id": "QKjC",
+  "Name": "ListUserGroupsResponse",
+  "Properties": [
+    {
+      "Id": "Rx9M",
+      "Name": "metadata",
+      "Type": "Custom:QWsP"
+    },
+    {
+      "Id": "mY2h",
+      "Name": "results",
+      "Type": "List:Custom:wgsD"
+    }
+  ]
+}

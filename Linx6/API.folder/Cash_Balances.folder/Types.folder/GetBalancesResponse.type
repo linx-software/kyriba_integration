@@ -1,0 +1,21 @@
+{
+  "Id": "vXqz",
+  "Name": "GetBalancesResponse",
+  "Properties": [
+    {
+      "Id": "ZFHo",
+      "Name": "account",
+      "Type": "Custom:BzA7"
+    },
+    {
+      "Id": "fxfE",
+      "Name": "cashBalance",
+      "Type": "List:Custom:bXh0"
+    },
+    {
+      "Id": "v5yK",
+      "Name": "cashFlowStatus",
+      "Type": "Custom:ErdF"
+    }
+  ]
+}

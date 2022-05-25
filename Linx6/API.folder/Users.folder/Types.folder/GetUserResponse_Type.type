@@ -1,0 +1,16 @@
+{
+  "Id": "j6ou",
+  "Name": "GetUserResponse_Type",
+  "Properties": [
+    {
+      "Id": "aTJW",
+      "Name": "code",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "7ora",
+      "Name": "uuid",
+      "Type": "Compiled:String"
+    }
+  ]
+}

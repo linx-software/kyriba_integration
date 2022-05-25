@@ -1,0 +1,26 @@
+{
+  "Id": "wlB7",
+  "Name": "GetThirdPartyResponse_thirdPartyBankBranchAccountIDs_bankAccountID",
+  "Properties": [
+    {
+      "Id": "r527",
+      "Name": "banStructure",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "ukU2",
+      "Name": "value",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "Lo0T",
+      "Name": "accountNature",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "KRbb",
+      "Name": "description",
+      "Type": "Compiled:String"
+    }
+  ]
+}

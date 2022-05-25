@@ -1,0 +1,16 @@
+{
+  "Id": "a9sw",
+  "Name": "ListSupplierUsersResponse_results_Type",
+  "Properties": [
+    {
+      "Id": "bZLW",
+      "Name": "code",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "pE9K",
+      "Name": "uuid",
+      "Type": "Compiled:String"
+    }
+  ]
+}

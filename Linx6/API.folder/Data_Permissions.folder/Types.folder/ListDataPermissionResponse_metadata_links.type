@@ -1,0 +1,21 @@
+{
+  "Id": "xU3N",
+  "Name": "ListDataPermissionResponse_metadata_links",
+  "Properties": [
+    {
+      "Id": "UFJJ",
+      "Name": "current",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "z53i",
+      "Name": "next",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "PxGc",
+      "Name": "prev",
+      "Type": "Compiled:String"
+    }
+  ]
+}

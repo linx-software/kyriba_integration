@@ -1,0 +1,16 @@
+{
+  "Id": "nhlN",
+  "Name": "ListUserGroupsResponse_results_ownershipCompany",
+  "Properties": [
+    {
+      "Id": "QLay",
+      "Name": "code",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "WSMX",
+      "Name": "uuid",
+      "Type": "Compiled:String"
+    }
+  ]
+}

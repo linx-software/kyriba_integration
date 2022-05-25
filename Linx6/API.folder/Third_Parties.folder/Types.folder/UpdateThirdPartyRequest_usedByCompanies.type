@@ -1,0 +1,16 @@
+{
+  "Id": "GnWD",
+  "Name": "UpdateThirdPartyRequest_usedByCompanies",
+  "Properties": [
+    {
+      "Id": "7hjs",
+      "Name": "code",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "vsd6",
+      "Name": "uuid",
+      "Type": "Compiled:String"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "ftUS",
+      "Properties": [
+        {
+          "Id": "oYGP",
+          "Name": "CashFlow",
+          "Type": "Custom:XyYb",
+          "Access": "ReadWrite"
+        },
+        {
+          "Id": "VjBC",
+          "Name": "CashFlowUUID",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "AL4X",
+      "Properties": [
+        {
+          "Id": "bPuG",
+          "Name": "UUID",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,26 @@
+{
+  "Properties": [
+    {
+      "Id": "List",
+      "Type": "List:Custom:04NV",
+      "ValueUsage": "RuntimeRead",
+      "Value": {
+        "Expression": "$.Result.DataPermissionProfiles",
+        "CompiledExpression": "={0}",
+        "Type": "List:Custom:04NV"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    },
+    {
+      "Id": "Value",
+      "Type": "Custom:04NV",
+      "ValueUsage": "RuntimeRead",
+      "Value": {
+        "Expression": "ForEachResult.Loop",
+        "CompiledExpression": "={0}",
+        "Type": "Custom:04NV"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "Id": "UupV",
+  "Name": "CashFlowAggregationResponse",
+  "Properties": [
+    {
+      "Id": "oYY7",
+      "Name": "accountAmountAggregationTotal",
+      "Type": "Custom:h8jv"
+    },
+    {
+      "Id": "Djte",
+      "Name": "currency",
+      "Type": "Custom:WURK"
+    },
+    {
+      "Id": "rvHo",
+      "Name": "aggregationLevel",
+      "Type": "Custom:VshD"
+    }
+  ]
+}

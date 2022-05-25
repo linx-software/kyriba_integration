@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "Ye6k",
+      "Properties": [
+        {
+          "Id": "lqb9",
+          "Name": "sort",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        },
+        {
+          "Id": "Ojp2",
+          "Name": "filter",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "w1wk",
+      "Properties": [
+        {
+          "Id": "87uP",
+          "Name": "CompanyGroups",
+          "Type": "List:Custom:R2nS",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  }
+]

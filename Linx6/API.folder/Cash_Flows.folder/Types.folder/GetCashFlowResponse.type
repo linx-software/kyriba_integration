@@ -1,0 +1,71 @@
+{
+  "Id": "7gtt",
+  "Name": "GetCashFlowResponse",
+  "Properties": [
+    {
+      "Id": "S3Ul",
+      "Name": "account",
+      "Type": "Custom:Sgwd"
+    },
+    {
+      "Id": "6Skn",
+      "Name": "flowCode",
+      "Type": "Custom:Sgwd"
+    },
+    {
+      "Id": "pqCJ",
+      "Name": "budgetCode",
+      "Type": "Custom:Sgwd"
+    },
+    {
+      "Id": "nXgk",
+      "Name": "date",
+      "Type": "Custom:gJ3i"
+    },
+    {
+      "Id": "roN7",
+      "Name": "description",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "aYlp",
+      "Name": "flowAmount",
+      "Type": "Custom:ioYT"
+    },
+    {
+      "Id": "NtNc",
+      "Name": "accountAmount",
+      "Type": "Custom:ioYT"
+    },
+    {
+      "Id": "0akJ",
+      "Name": "status",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "NAh0",
+      "Name": "reference",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "amwp",
+      "Name": "origin",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "JCIx",
+      "Name": "number",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "nZGG",
+      "Name": "glStatus",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "UgiY",
+      "Name": "userZones",
+      "Type": "Custom:MReq"
+    }
+  ]
+}

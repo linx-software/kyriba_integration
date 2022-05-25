@@ -1,0 +1,26 @@
+{
+  "Properties": [
+    {
+      "Id": "Source",
+      "Type": "Custom:JFTE",
+      "ValueUsage": "RuntimeRead",
+      "Value": {
+        "Expression": "CallGetSupplierServiceAccess.ResponseBody",
+        "CompiledExpression": "={0}",
+        "Type": "Custom:JFTE"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    },
+    {
+      "Id": "Target",
+      "Type": "Custom:JFTE",
+      "ValueUsage": "RuntimeWrite",
+      "Value": {
+        "Expression": "$.Result.Response",
+        "CompiledExpression": "={0}",
+        "Type": "Custom:JFTE"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    }
+  ]
+}

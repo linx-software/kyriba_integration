@@ -1,0 +1,16 @@
+{
+  "Id": "Opme",
+  "Name": "CreateTaskResponse",
+  "Properties": [
+    {
+      "Id": "sCG4",
+      "Name": "fileId",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "mA0P",
+      "Name": "taskId",
+      "Type": "Compiled:String"
+    }
+  ]
+}

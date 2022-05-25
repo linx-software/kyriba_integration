@@ -1,0 +1,16 @@
+{
+  "Id": "4OmL",
+  "Name": "UpdateCompanyRequest_swiftNet",
+  "Properties": [
+    {
+      "Id": "FqAG",
+      "Name": "bei",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "ivh8",
+      "Name": "distinguishedName",
+      "Type": "Compiled:String"
+    }
+  ]
+}

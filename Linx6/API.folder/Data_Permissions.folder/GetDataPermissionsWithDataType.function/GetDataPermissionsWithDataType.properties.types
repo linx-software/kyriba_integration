@@ -1,0 +1,30 @@
+[
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "7W3G",
+      "Properties": [
+        {
+          "Id": "LTzV",
+          "Name": "DataType",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "Tnbj",
+      "Properties": [
+        {
+          "Id": "onVD",
+          "Name": "DataPermissions",
+          "Type": "List:Custom:0zP5",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  }
+]

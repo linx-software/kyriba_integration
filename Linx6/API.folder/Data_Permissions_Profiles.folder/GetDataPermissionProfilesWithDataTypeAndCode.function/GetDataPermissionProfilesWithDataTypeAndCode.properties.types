@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "a0bn",
+      "Properties": [
+        {
+          "Id": "UzkQ",
+          "Name": "DataType",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        },
+        {
+          "Id": "rU9z",
+          "Name": "Code",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "77Rw",
+      "Properties": [
+        {
+          "Id": "n9yu",
+          "Name": "DataPermissionProfiles",
+          "Type": "List:Custom:PLYk",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "Id": "C9JI",
+  "Name": "CreateCompanyRequest_geoMap",
+  "Properties": [
+    {
+      "Id": "q1Lw",
+      "Name": "latitude",
+      "Type": "Compiled:Double"
+    },
+    {
+      "Id": "EXbV",
+      "Name": "longitude",
+      "Type": "Compiled:Double"
+    }
+  ]
+}

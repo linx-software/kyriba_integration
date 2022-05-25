@@ -1,0 +1,16 @@
+{
+  "Id": "2M3p",
+  "Name": "CreateThirdPartyRequest_thirdPartyBankBranchAccountIDs_recipientInfo",
+  "Properties": [
+    {
+      "Id": "3kQ7",
+      "Name": "recipientId",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "3XAE",
+      "Name": "status",
+      "Type": "Compiled:String"
+    }
+  ]
+}

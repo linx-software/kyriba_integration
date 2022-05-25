@@ -1,0 +1,21 @@
+{
+  "Id": "VshD",
+  "Name": "CashFlowAggregationResponse_aggregationLevel",
+  "Properties": [
+    {
+      "Id": "EYs5",
+      "Name": "level",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "0jZh",
+      "Name": "groupingCriterion",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "YTmK",
+      "Name": "groups",
+      "Type": "List:Custom:n8ss"
+    }
+  ]
+}

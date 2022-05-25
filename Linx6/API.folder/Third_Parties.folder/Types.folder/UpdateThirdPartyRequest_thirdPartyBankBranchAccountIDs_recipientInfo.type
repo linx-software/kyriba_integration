@@ -1,0 +1,16 @@
+{
+  "Id": "Vbze",
+  "Name": "UpdateThirdPartyRequest_thirdPartyBankBranchAccountIDs_recipientInfo",
+  "Properties": [
+    {
+      "Id": "OHAs",
+      "Name": "recipientId",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "BmpN",
+      "Name": "status",
+      "Type": "Compiled:String"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "Id": "Hi5V",
+  "Name": "CashFlowListResponse_results",
+  "Properties": [
+    {
+      "Id": "a1YU",
+      "Name": "account",
+      "Type": "Custom:D5t5"
+    },
+    {
+      "Id": "hrqO",
+      "Name": "flowCode",
+      "Type": "Custom:D5t5"
+    },
+    {
+      "Id": "HnvG",
+      "Name": "budgetCode",
+      "Type": "Custom:D5t5"
+    },
+    {
+      "Id": "5mJE",
+      "Name": "date",
+      "Type": "Custom:tpS6"
+    },
+    {
+      "Id": "E938",
+      "Name": "status",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "r4OF",
+      "Name": "flowAmount",
+      "Type": "Custom:v1ET"
+    },
+    {
+      "Id": "aC2H",
+      "Name": "accountAmount",
+      "Type": "Custom:v1ET"
+    },
+    {
+      "Id": "8T8R",
+      "Name": "description",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "XoBT",
+      "Name": "reference",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "hP26",
+      "Name": "origin",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "eAjT",
+      "Name": "number",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "5O1i",
+      "Name": "glStatus",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "a1W8",
+      "Name": "userZones",
+      "Type": "Custom:BTDH"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "Id": "xWdV",
+  "Name": "ListOfCompaniesResponse_results_address",
+  "Properties": [
+    {
+      "Id": "4e7X",
+      "Name": "country",
+      "Type": "Custom:XLjj"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "Id": "g6B7",
+  "Name": "CreateSupplierServiceAccessRequest_Type",
+  "Properties": [
+    {
+      "Id": "rBfR",
+      "Name": "code",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "5u3S",
+      "Name": "uuid",
+      "Type": "Compiled:String"
+    }
+  ]
+}

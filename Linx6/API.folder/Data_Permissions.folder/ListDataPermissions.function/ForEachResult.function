@@ -1,0 +1,24 @@
+{
+  "ExecutionPaths": [
+    {
+      "PluginId": "Loop",
+      "Name": "Loop",
+      "Result": "List:Custom:cKW3",
+      "Order": 0,
+      "IterationHint": "ZeroOrMore"
+    }
+  ],
+  "Properties": [
+    {
+      "Id": "List",
+      "Type": "List:Custom:cKW3",
+      "ValueUsage": "RuntimeRead",
+      "Value": {
+        "Expression": "GetDataPermissions.ResponseBody.results",
+        "CompiledExpression": "={0}",
+        "Type": "List:Custom:cKW3"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    }
+  ]
+}

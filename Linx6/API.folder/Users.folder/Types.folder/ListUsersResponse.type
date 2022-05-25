@@ -1,0 +1,16 @@
+{
+  "Id": "tYA6",
+  "Name": "ListUsersResponse",
+  "Properties": [
+    {
+      "Id": "ke6a",
+      "Name": "metadata",
+      "Type": "Custom:DF9l"
+    },
+    {
+      "Id": "45Ym",
+      "Name": "results",
+      "Type": "List:Custom:jQbN"
+    }
+  ]
+}

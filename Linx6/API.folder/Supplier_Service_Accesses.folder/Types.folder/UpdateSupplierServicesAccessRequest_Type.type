@@ -1,0 +1,16 @@
+{
+  "Id": "P1GV",
+  "Name": "UpdateSupplierServicesAccessRequest_Type",
+  "Properties": [
+    {
+      "Id": "nJy6",
+      "Name": "code",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "diF6",
+      "Name": "uuid",
+      "Type": "Compiled:String"
+    }
+  ]
+}

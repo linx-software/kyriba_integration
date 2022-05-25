@@ -1,0 +1,21 @@
+{
+  "Id": "L1je",
+  "Name": "ListProcessTemplatesResponse_metadata_links",
+  "Properties": [
+    {
+      "Id": "eKbj",
+      "Name": "current",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "qzwe",
+      "Name": "next",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "SpMc",
+      "Name": "prev",
+      "Type": "Compiled:String"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "Id": "wCug",
+  "Name": "CreateCompanyRequest_deals",
+  "Properties": [
+    {
+      "Id": "O1zT",
+      "Name": "contact",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "5jtw",
+      "Name": "counterparty",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "sYOS",
+      "Name": "fundCode",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "712a",
+      "Name": "intermediary",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "iyOw",
+      "Name": "netSettlementsForThisCounterparty",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "g8gm",
+      "Name": "revaluationIssuerSpread",
+      "Type": "Compiled:Double"
+    }
+  ]
+}

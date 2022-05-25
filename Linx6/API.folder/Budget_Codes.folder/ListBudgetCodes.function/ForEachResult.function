@@ -1,0 +1,24 @@
+{
+  "ExecutionPaths": [
+    {
+      "PluginId": "Loop",
+      "Name": "Loop",
+      "Result": "List:Custom:IRo9",
+      "Order": 0,
+      "IterationHint": "ZeroOrMore"
+    }
+  ],
+  "Properties": [
+    {
+      "Id": "List",
+      "Type": "List:Custom:IRo9",
+      "ValueUsage": "RuntimeRead",
+      "Value": {
+        "Expression": "GetListOfBudgetCodes.ResponseBody.results",
+        "CompiledExpression": "={0}",
+        "Type": "List:Custom:IRo9"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    }
+  ]
+}

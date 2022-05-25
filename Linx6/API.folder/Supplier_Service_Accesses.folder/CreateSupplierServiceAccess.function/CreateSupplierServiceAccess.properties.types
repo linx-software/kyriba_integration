@@ -1,0 +1,30 @@
+[
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "asHR",
+      "Properties": [
+        {
+          "Id": "ELay",
+          "Name": "SupplierServiceAccess",
+          "Type": "Custom:u0tG",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "I4hO",
+      "Properties": [
+        {
+          "Id": "4eS9",
+          "Name": "Response",
+          "Type": "Custom:xXpl",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  }
+]

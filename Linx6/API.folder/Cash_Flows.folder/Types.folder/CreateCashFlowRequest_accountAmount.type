@@ -1,0 +1,26 @@
+{
+  "Id": "2ByP",
+  "Name": "CreateCashFlowRequest_accountAmount",
+  "Properties": [
+    {
+      "Id": "4Yn4",
+      "Name": "accountAmount",
+      "Type": "Compiled:Double"
+    },
+    {
+      "Id": "pKuj",
+      "Name": "feeAmount",
+      "Type": "Compiled:Double"
+    },
+    {
+      "Id": "fyuM",
+      "Name": "interestAmount",
+      "Type": "Compiled:Double"
+    },
+    {
+      "Id": "h0NC",
+      "Name": "commissionAmount",
+      "Type": "Compiled:Double"
+    }
+  ]
+}

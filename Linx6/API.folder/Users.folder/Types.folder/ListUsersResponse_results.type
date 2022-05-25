@@ -1,0 +1,76 @@
+{
+  "Id": "jQbN",
+  "Name": "ListUsersResponse_results",
+  "Properties": [
+    {
+      "Id": "yytp",
+      "Name": "accessProfile",
+      "Type": "Custom:mGgW"
+    },
+    {
+      "Id": "o1QQ",
+      "Name": "code",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "X6e8",
+      "Name": "companyOwnership",
+      "Type": "Custom:mGgW"
+    },
+    {
+      "Id": "hjOc",
+      "Name": "dataPermissionProfile",
+      "Type": "Custom:mGgW"
+    },
+    {
+      "Id": "yLM1",
+      "Name": "description",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "lgV7",
+      "Name": "email",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "NkMN",
+      "Name": "emailRecipient",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "cafQ",
+      "Name": "firstName",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "EhR1",
+      "Name": "interfaceCode",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "pH0t",
+      "Name": "lastName",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "Hw2q",
+      "Name": "paymentAdministrator",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "plMx",
+      "Name": "ssoIdentity",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "PtZA",
+      "Name": "systemAdministrator",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "bpmT",
+      "Name": "uuid",
+      "Type": "Compiled:String"
+    }
+  ]
+}

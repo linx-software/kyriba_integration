@@ -1,0 +1,276 @@
+{
+  "Id": "TA8m",
+  "Name": "GetSupplierUserResponse",
+  "Properties": [
+    {
+      "Id": "upWE",
+      "Name": "code",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "4itc",
+      "Name": "interfaceCode",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "J6rb",
+      "Name": "description1",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "wH1q",
+      "Name": "description2",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "rfF6",
+      "Name": "ssoIdentity",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "5xZC",
+      "Name": "thirdParty",
+      "Type": "Custom:vZVt"
+    },
+    {
+      "Id": "Ww0C",
+      "Name": "defaultGroup",
+      "Type": "Custom:vZVt"
+    },
+    {
+      "Id": "8Cr9",
+      "Name": "companyOwnership",
+      "Type": "Custom:vZVt"
+    },
+    {
+      "Id": "CdkU",
+      "Name": "active",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "V2QH",
+      "Name": "accessProfile",
+      "Type": "Custom:vZVt"
+    },
+    {
+      "Id": "vTJn",
+      "Name": "canAccessEarlyPayments",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "dm5v",
+      "Name": "canApproveEarlyPayments",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "0AS7",
+      "Name": "analyticalTree",
+      "Type": "Custom:vZVt"
+    },
+    {
+      "Id": "lzKM",
+      "Name": "canAccessDisputeManagement",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "RSTf",
+      "Name": "systemAdministrator",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "SpXO",
+      "Name": "canReceiveSupplierStatements",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "HmlK",
+      "Name": "canReceiveEarlyPaymentApprovalNotifications",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "BOtU",
+      "Name": "canReceiveMaturityPaymentNotifications",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "TEta",
+      "Name": "title",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "aBSJ",
+      "Name": "firstName",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "kBja",
+      "Name": "middleName",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "RN9n",
+      "Name": "lastName",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "B68U",
+      "Name": "birthDate",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "HRXd",
+      "Name": "provinceOfBirth",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "ZMwE",
+      "Name": "cityOfBirth",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "VN3n",
+      "Name": "countryOfBirth",
+      "Type": "Custom:vZVt"
+    },
+    {
+      "Id": "Kk8a",
+      "Name": "identifier1",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "7dT4",
+      "Name": "identifier2",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "PuS2",
+      "Name": "position",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "pnZ5",
+      "Name": "department",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "eVgs",
+      "Name": "subDepartment",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "lafo",
+      "Name": "preferredContactChannel",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "tC8U",
+      "Name": "officePhone",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "woSI",
+      "Name": "mobilePhone",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "Ci9S",
+      "Name": "email",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "LZwO",
+      "Name": "fax",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "nV2Q",
+      "Name": "timeZone",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "Kb4L",
+      "Name": "location",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "r3h2",
+      "Name": "city",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "1MOO",
+      "Name": "country",
+      "Type": "Custom:vZVt"
+    },
+    {
+      "Id": "5Wqe",
+      "Name": "language",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "CGS3",
+      "Name": "dateFormat",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "El3m",
+      "Name": "thousandSeparator",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "022V",
+      "Name": "decimalSeparator",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "j5T4",
+      "Name": "acceleratorForThousands",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "3Jfu",
+      "Name": "acceleratorForMillions",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "tpLJ",
+      "Name": "mobilePhoneCountry",
+      "Type": "Custom:vZVt"
+    },
+    {
+      "Id": "8Evb",
+      "Name": "mobilePhoneNumber",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "ykMn",
+      "Name": "tokenSeed",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "xTe4",
+      "Name": "tokenSecretKey",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "9CGV",
+      "Name": "creationDate",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "FrUJ",
+      "Name": "lastUpdateDate",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "61eG",
+      "Name": "fontCode",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "Q43w",
+      "Name": "fontSize",
+      "Type": "Compiled:Int64"
+    }
+  ]
+}

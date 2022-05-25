@@ -1,0 +1,16 @@
+{
+  "Id": "XLjj",
+  "Name": "ListOfCompaniesResponse_results_address_country",
+  "Properties": [
+    {
+      "Id": "q68D",
+      "Name": "uuid",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "86Jj",
+      "Name": "code",
+      "Type": "Compiled:String"
+    }
+  ]
+}

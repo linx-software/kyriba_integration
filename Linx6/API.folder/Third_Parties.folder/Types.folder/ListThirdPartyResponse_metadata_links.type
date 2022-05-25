@@ -1,0 +1,21 @@
+{
+  "Id": "e6hy",
+  "Name": "ListThirdPartyResponse_metadata_links",
+  "Properties": [
+    {
+      "Id": "Jr8L",
+      "Name": "current",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "GNqa",
+      "Name": "next",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "y2FV",
+      "Name": "prev",
+      "Type": "Compiled:String"
+    }
+  ]
+}

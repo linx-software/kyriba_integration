@@ -1,0 +1,26 @@
+{
+  "Properties": [
+    {
+      "Id": "List",
+      "Type": "List:Custom:u2xl",
+      "ValueUsage": "RuntimeRead",
+      "Value": {
+        "Expression": "$.Result.Companies",
+        "CompiledExpression": "={0}",
+        "Type": "List:Custom:u2xl"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    },
+    {
+      "Id": "Value",
+      "Type": "Custom:u2xl",
+      "ValueUsage": "RuntimeRead",
+      "Value": {
+        "Expression": "ForEachResult.Loop",
+        "CompiledExpression": "={0}",
+        "Type": "Custom:u2xl"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    }
+  ]
+}

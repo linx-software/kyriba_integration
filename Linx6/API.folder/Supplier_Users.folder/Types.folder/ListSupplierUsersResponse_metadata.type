@@ -1,0 +1,31 @@
+{
+  "Id": "vQty",
+  "Name": "ListSupplierUsersResponse_metadata",
+  "Properties": [
+    {
+      "Id": "vtOT",
+      "Name": "links",
+      "Type": "Custom:C5mv"
+    },
+    {
+      "Id": "S427",
+      "Name": "numberOfTotalResults",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "6OFL",
+      "Name": "pageLimit",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "SkK6",
+      "Name": "pageOffset",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "I43o",
+      "Name": "pageResults",
+      "Type": "Compiled:Int64"
+    }
+  ]
+}

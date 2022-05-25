@@ -1,0 +1,30 @@
+[
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "8WQ8",
+      "Properties": [
+        {
+          "Id": "GUrC",
+          "Name": "CashFlowUUID",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "tE71",
+      "Properties": [
+        {
+          "Id": "N12F",
+          "Name": "UUID",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  }
+]

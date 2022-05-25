@@ -1,0 +1,41 @@
+{
+  "Id": "VMlj",
+  "Name": "CreateCompanyRequest_address",
+  "Properties": [
+    {
+      "Id": "5wlV",
+      "Name": "city",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "QJDl",
+      "Name": "country",
+      "Type": "Custom:Fq9q"
+    },
+    {
+      "Id": "Z1As",
+      "Name": "homepage",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "JZP5",
+      "Name": "state",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "0gAG",
+      "Name": "street1",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "69YW",
+      "Name": "street2",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "Ydqo",
+      "Name": "zipCode",
+      "Type": "Compiled:Int64"
+    }
+  ]
+}

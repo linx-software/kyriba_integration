@@ -1,0 +1,16 @@
+{
+  "Id": "EOQX",
+  "Name": "GetCompanyResponse_swiftNet",
+  "Properties": [
+    {
+      "Id": "MuUt",
+      "Name": "bei",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "9ekP",
+      "Name": "distinguishedName",
+      "Type": "Compiled:String"
+    }
+  ]
+}

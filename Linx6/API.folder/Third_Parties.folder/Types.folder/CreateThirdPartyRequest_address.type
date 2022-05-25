@@ -1,0 +1,41 @@
+{
+  "Id": "OwaL",
+  "Name": "CreateThirdPartyRequest_address",
+  "Properties": [
+    {
+      "Id": "5YKt",
+      "Name": "city",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "syfz",
+      "Name": "country",
+      "Type": "Custom:Uotv"
+    },
+    {
+      "Id": "AutF",
+      "Name": "homepage",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "WvlF",
+      "Name": "state",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "fkRa",
+      "Name": "street1",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "ogtq",
+      "Name": "street2",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "RERZ",
+      "Name": "zipCode",
+      "Type": "Compiled:Int64"
+    }
+  ]
+}

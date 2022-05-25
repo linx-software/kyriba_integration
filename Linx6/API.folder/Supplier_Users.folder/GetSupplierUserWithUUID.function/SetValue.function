@@ -1,0 +1,26 @@
+{
+  "Properties": [
+    {
+      "Id": "Source",
+      "Type": "Custom:TA8m",
+      "ValueUsage": "RuntimeRead",
+      "Value": {
+        "Expression": "CallGetSupplierUser.ResponseBody",
+        "CompiledExpression": "={0}",
+        "Type": "Custom:TA8m"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    },
+    {
+      "Id": "Target",
+      "Type": "Custom:TA8m",
+      "ValueUsage": "RuntimeWrite",
+      "Value": {
+        "Expression": "$.Result.SupplierUser",
+        "CompiledExpression": "={0}",
+        "Type": "Custom:TA8m"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+[
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "c6Sh",
+      "Properties": [
+        {
+          "Id": "RkPP",
+          "Name": "AccountCode",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        },
+        {
+          "Id": "Pcah",
+          "Name": "actual",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        },
+        {
+          "Id": "sIOU",
+          "Name": "confirmedForecasts",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        },
+        {
+          "Id": "OUVh",
+          "Name": "dateType",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        },
+        {
+          "Id": "Rlrp",
+          "Name": "endDate",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        },
+        {
+          "Id": "FnD5",
+          "Name": "estimatedForecasts",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        },
+        {
+          "Id": "iGVC",
+          "Name": "intraday",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        },
+        {
+          "Id": "yLFF",
+          "Name": "startDate",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "rtzs",
+      "Properties": [
+        {
+          "Id": "6CsR",
+          "Name": "CashBalances",
+          "Type": "Custom:vXqz",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  }
+]

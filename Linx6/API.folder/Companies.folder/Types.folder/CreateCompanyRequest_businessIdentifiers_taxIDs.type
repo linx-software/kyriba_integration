@@ -1,0 +1,21 @@
+{
+  "Id": "CArc",
+  "Name": "CreateCompanyRequest_businessIdentifiers_taxIDs",
+  "Properties": [
+    {
+      "Id": "9OFD",
+      "Name": "country",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "ain6",
+      "Name": "taxId",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "PLE8",
+      "Name": "taxIdType",
+      "Type": "Compiled:String"
+    }
+  ]
+}

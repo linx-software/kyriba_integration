@@ -1,0 +1,111 @@
+{
+  "Id": "5iAc",
+  "Name": "GetCompanyResponse",
+  "Properties": [
+    {
+      "Id": "fnMb",
+      "Name": "address",
+      "Type": "Custom:5E4U"
+    },
+    {
+      "Id": "GHIZ",
+      "Name": "auditor",
+      "Type": "Custom:4omL"
+    },
+    {
+      "Id": "f1ne",
+      "Name": "businessIdentifiers",
+      "Type": "Custom:ralj"
+    },
+    {
+      "Id": "UKJQ",
+      "Name": "code",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "MIpE",
+      "Name": "companyOwnershipPercentage",
+      "Type": "List:Custom:Gjdm"
+    },
+    {
+      "Id": "k5gH",
+      "Name": "contact",
+      "Type": "Custom:FWCp"
+    },
+    {
+      "Id": "KWnW",
+      "Name": "currencies",
+      "Type": "Custom:iMLO"
+    },
+    {
+      "Id": "YFku",
+      "Name": "deals",
+      "Type": "Custom:1kHE"
+    },
+    {
+      "Id": "DHRK",
+      "Name": "defaultGroup",
+      "Type": "Custom:hMmD"
+    },
+    {
+      "Id": "tQY9",
+      "Name": "description1",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "m9vX",
+      "Name": "description2",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "Ih6E",
+      "Name": "geoMap",
+      "Type": "Custom:Caly"
+    },
+    {
+      "Id": "Epie",
+      "Name": "hideInList",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "ceNJ",
+      "Name": "interfaceCode",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "WgFV",
+      "Name": "issuerOfInterchange",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "Cjey",
+      "Name": "legal",
+      "Type": "Custom:QzfJ"
+    },
+    {
+      "Id": "a7oy",
+      "Name": "nonResident",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "F2f4",
+      "Name": "shortCode",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "YPyP",
+      "Name": "swiftNet",
+      "Type": "Custom:EOQX"
+    },
+    {
+      "Id": "LZG9",
+      "Name": "userZones",
+      "Type": "Custom:DZep"
+    },
+    {
+      "Id": "OTDd",
+      "Name": "uuid",
+      "Type": "Compiled:String"
+    }
+  ]
+}

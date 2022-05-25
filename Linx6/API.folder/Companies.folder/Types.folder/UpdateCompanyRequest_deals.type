@@ -1,0 +1,36 @@
+{
+  "Id": "n5Cl",
+  "Name": "UpdateCompanyRequest_deals",
+  "Properties": [
+    {
+      "Id": "gpNv",
+      "Name": "contact",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "8elI",
+      "Name": "counterparty",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "yrQa",
+      "Name": "fundCode",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "SCrO",
+      "Name": "intermediary",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "Lw0W",
+      "Name": "netSettlementsForThisCounterparty",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "jcQ6",
+      "Name": "revaluationIssuerSpread",
+      "Type": "Compiled:Double"
+    }
+  ]
+}

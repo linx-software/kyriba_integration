@@ -1,0 +1,16 @@
+{
+  "Id": "gk14",
+  "Name": "ListThirdPartyResponse",
+  "Properties": [
+    {
+      "Id": "htCV",
+      "Name": "metadata",
+      "Type": "Custom:jqis"
+    },
+    {
+      "Id": "uhyu",
+      "Name": "results",
+      "Type": "List:Custom:tiZ6"
+    }
+  ]
+}

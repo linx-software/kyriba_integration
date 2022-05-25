@@ -1,0 +1,16 @@
+{
+  "Id": "4R5N",
+  "Name": "UpdateCashFlowRequest_account",
+  "Properties": [
+    {
+      "Id": "3NRG",
+      "Name": "code",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "5fv1",
+      "Name": "uuid",
+      "Type": "Compiled:String"
+    }
+  ]
+}

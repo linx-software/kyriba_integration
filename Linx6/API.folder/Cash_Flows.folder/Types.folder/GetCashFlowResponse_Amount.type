@@ -1,0 +1,16 @@
+{
+  "Id": "ioYT",
+  "Name": "GetCashFlowResponse_Amount",
+  "Properties": [
+    {
+      "Id": "79UP",
+      "Name": "amount",
+      "Type": "Compiled:Double"
+    },
+    {
+      "Id": "rali",
+      "Name": "currency",
+      "Type": "Custom:Sgwd"
+    }
+  ]
+}

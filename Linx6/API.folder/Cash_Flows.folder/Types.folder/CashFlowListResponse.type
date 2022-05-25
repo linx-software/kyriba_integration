@@ -1,0 +1,16 @@
+{
+  "Id": "VexD",
+  "Name": "CashFlowListResponse",
+  "Properties": [
+    {
+      "Id": "M6WC",
+      "Name": "metadata",
+      "Type": "Custom:rKdr"
+    },
+    {
+      "Id": "XxFR",
+      "Name": "results",
+      "Type": "List:Custom:Hi5V"
+    }
+  ]
+}

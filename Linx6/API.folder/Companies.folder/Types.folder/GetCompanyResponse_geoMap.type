@@ -1,0 +1,16 @@
+{
+  "Id": "Caly",
+  "Name": "GetCompanyResponse_geoMap",
+  "Properties": [
+    {
+      "Id": "Wafl",
+      "Name": "latitude",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "A74S",
+      "Name": "longitude",
+      "Type": "Compiled:String"
+    }
+  ]
+}

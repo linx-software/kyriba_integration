@@ -1,0 +1,21 @@
+{
+  "Id": "Za6O",
+  "Name": "CashFlowAggregationRequest_filtering_period",
+  "Properties": [
+    {
+      "Id": "JnCh",
+      "Name": "dateType",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "Y2bU",
+      "Name": "startDate",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "tr1h",
+      "Name": "endDate",
+      "Type": "Compiled:String"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+[
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "cL4Y",
+      "Properties": [
+        {
+          "Id": "thIr",
+          "Name": "User",
+          "Type": "Custom:hcG3",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "zyo8",
+      "Properties": [
+        {
+          "Id": "LcCZ",
+          "Name": "Response",
+          "Type": "Custom:llVy",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  }
+]

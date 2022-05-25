@@ -1,0 +1,31 @@
+{
+  "Id": "Pxtl",
+  "Name": "UpdateThirdPartyRequest_userZones",
+  "Properties": [
+    {
+      "Id": "h9om",
+      "Name": "userZone1",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "n7EG",
+      "Name": "userZone2",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "MYQA",
+      "Name": "userZone3",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "V9Bs",
+      "Name": "userZone4",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "7Qrd",
+      "Name": "userZone5",
+      "Type": "Compiled:String"
+    }
+  ]
+}

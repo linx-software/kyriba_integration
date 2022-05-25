@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "oLpE",
+      "Properties": [
+        {
+          "Id": "E6An",
+          "Name": "Filename",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        },
+        {
+          "Id": "H7ap",
+          "Name": "Payload",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "2Dnk",
+      "Properties": [
+        {
+          "Id": "96M7",
+          "Name": "DataUpload",
+          "Type": "Custom:8QP4",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  }
+]

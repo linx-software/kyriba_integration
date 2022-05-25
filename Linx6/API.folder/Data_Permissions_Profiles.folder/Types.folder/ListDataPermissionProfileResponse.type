@@ -1,0 +1,16 @@
+{
+  "Id": "X3Ol",
+  "Name": "ListDataPermissionProfileResponse",
+  "Properties": [
+    {
+      "Id": "1Wzl",
+      "Name": "metadata",
+      "Type": "Custom:bOQ4"
+    },
+    {
+      "Id": "5f6M",
+      "Name": "results",
+      "Type": "List:Custom:04NV"
+    }
+  ]
+}

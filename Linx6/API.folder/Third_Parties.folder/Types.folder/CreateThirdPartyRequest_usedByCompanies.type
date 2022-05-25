@@ -1,0 +1,16 @@
+{
+  "Id": "Ugpl",
+  "Name": "CreateThirdPartyRequest_usedByCompanies",
+  "Properties": [
+    {
+      "Id": "nkXg",
+      "Name": "code",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "ODqC",
+      "Name": "uuid",
+      "Type": "Compiled:String"
+    }
+  ]
+}

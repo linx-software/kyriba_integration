@@ -1,0 +1,16 @@
+{
+  "Id": "icjP",
+  "Name": "UpdateSupplierUserRequest_Type",
+  "Properties": [
+    {
+      "Id": "wO8P",
+      "Name": "code",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "Shfc",
+      "Name": "uuid",
+      "Type": "Compiled:String"
+    }
+  ]
+}

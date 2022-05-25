@@ -1,0 +1,16 @@
+{
+  "Id": "Y1ZB",
+  "Name": "GetThirdPartyResponse_thirdPartyCategories",
+  "Properties": [
+    {
+      "Id": "RrKD",
+      "Name": "code",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "xUsb",
+      "Name": "uuid",
+      "Type": "Compiled:String"
+    }
+  ]
+}

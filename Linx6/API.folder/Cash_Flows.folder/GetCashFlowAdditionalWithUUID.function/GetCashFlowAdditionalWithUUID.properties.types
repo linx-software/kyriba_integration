@@ -1,0 +1,30 @@
+[
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "YfBy",
+      "Properties": [
+        {
+          "Id": "Vxfy",
+          "Name": "CashFlowUUID",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "wXov",
+      "Properties": [
+        {
+          "Id": "5DuY",
+          "Name": "CashFlowAdditional",
+          "Type": "Custom:Nmap",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "Id": "P5WA",
+  "Name": "GetDataPermissionProfileWithDataTypeReponse_companyOwnership",
+  "Properties": [
+    {
+      "Id": "caiU",
+      "Name": "code",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "j1Ov",
+      "Name": "uuid",
+      "Type": "Compiled:String"
+    }
+  ]
+}

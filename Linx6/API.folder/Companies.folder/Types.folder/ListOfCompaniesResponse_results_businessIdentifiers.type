@@ -1,0 +1,16 @@
+{
+  "Id": "jR9L",
+  "Name": "ListOfCompaniesResponse_results_businessIdentifiers",
+  "Properties": [
+    {
+      "Id": "dNav",
+      "Name": "otherIdentifierType",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "juZ1",
+      "Name": "otherIdentifierValue",
+      "Type": "Compiled:String"
+    }
+  ]
+}

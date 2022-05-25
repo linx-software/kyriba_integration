@@ -1,0 +1,61 @@
+{
+  "Id": "Zs5K",
+  "Name": "CashFlowAggregationRequest_filtering",
+  "Properties": [
+    {
+      "Id": "X8Ak",
+      "Name": "entityFilters",
+      "Type": "List:Custom:OJuz"
+    },
+    {
+      "Id": "WdRA",
+      "Name": "accountType",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "3ynW",
+      "Name": "period",
+      "Type": "Custom:Za6O"
+    },
+    {
+      "Id": "a0aU",
+      "Name": "flowCode",
+      "Type": "Custom:tgja"
+    },
+    {
+      "Id": "jD7u",
+      "Name": "budgetCode",
+      "Type": "Custom:tgja"
+    },
+    {
+      "Id": "60b4",
+      "Name": "origin",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "xjEj",
+      "Name": "description",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "ZTGT",
+      "Name": "reference",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "DV5F",
+      "Name": "status",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "8v8T",
+      "Name": "actualMode",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "gQDJ",
+      "Name": "glStatus",
+      "Type": "Compiled:String"
+    }
+  ]
+}

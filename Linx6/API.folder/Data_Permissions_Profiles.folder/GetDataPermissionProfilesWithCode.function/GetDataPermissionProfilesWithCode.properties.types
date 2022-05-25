@@ -1,0 +1,30 @@
+[
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "q4zu",
+      "Properties": [
+        {
+          "Id": "CsQk",
+          "Name": "Code",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "mlXO",
+      "Properties": [
+        {
+          "Id": "ZuFv",
+          "Name": "DataPermissionProfiles",
+          "Type": "List:Custom:5dv3",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,26 @@
+{
+  "Properties": [
+    {
+      "Id": "Source",
+      "Type": "Custom:9klq",
+      "ValueUsage": "RuntimeRead",
+      "Value": {
+        "Expression": "CallGetTask.ResponseBody",
+        "CompiledExpression": "={0}",
+        "Type": "Custom:9klq"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    },
+    {
+      "Id": "Target",
+      "Type": "Custom:9klq",
+      "ValueUsage": "RuntimeWrite",
+      "Value": {
+        "Expression": "$.Result.Task",
+        "CompiledExpression": "={0}",
+        "Type": "Custom:9klq"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    }
+  ]
+}

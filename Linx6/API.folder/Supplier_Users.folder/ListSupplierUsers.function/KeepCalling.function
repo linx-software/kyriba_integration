@@ -1,0 +1,11 @@
+{
+  "Properties": [
+    {
+      "Id": "Value",
+      "Type": "Compiled:Boolean",
+      "ValueUsage": "RuntimeRead",
+      "Value": true
+    }
+  ],
+  "Result": "Compiled:Boolean"
+}

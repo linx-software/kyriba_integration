@@ -1,0 +1,42 @@
+[
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "UW9k",
+      "Properties": [
+        {
+          "Id": "UFFq",
+          "Name": "sort",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        },
+        {
+          "Id": "7KkD",
+          "Name": "filter",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        },
+        {
+          "Id": "XWns",
+          "Name": "ActiveStatus",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "VvFI",
+      "Properties": [
+        {
+          "Id": "hHxF",
+          "Name": "ThirdParties",
+          "Type": "List:Custom:tiZ6",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  }
+]

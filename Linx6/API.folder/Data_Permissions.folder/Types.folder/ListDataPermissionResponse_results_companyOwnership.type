@@ -1,0 +1,16 @@
+{
+  "Id": "7jnp",
+  "Name": "ListDataPermissionResponse_results_companyOwnership",
+  "Properties": [
+    {
+      "Id": "Dhip",
+      "Name": "code",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "tvFE",
+      "Name": "uuid",
+      "Type": "Compiled:String"
+    }
+  ]
+}

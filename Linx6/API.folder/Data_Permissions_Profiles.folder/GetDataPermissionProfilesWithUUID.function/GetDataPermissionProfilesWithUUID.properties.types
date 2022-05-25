@@ -1,0 +1,30 @@
+[
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "OM5C",
+      "Properties": [
+        {
+          "Id": "cXzW",
+          "Name": "UUID",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "pP42",
+      "Properties": [
+        {
+          "Id": "WHBo",
+          "Name": "DataPermissionProfiles",
+          "Type": "List:Custom:5dv3",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "Id": "bXh0",
+  "Name": "GetBalancesResponse_cashBalance",
+  "Properties": [
+    {
+      "Id": "gxer",
+      "Name": "amount",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "MdPI",
+      "Name": "balanceDate",
+      "Type": "Custom:RUr9"
+    },
+    {
+      "Id": "sZQj",
+      "Name": "currencyCode",
+      "Type": "Compiled:String"
+    }
+  ]
+}

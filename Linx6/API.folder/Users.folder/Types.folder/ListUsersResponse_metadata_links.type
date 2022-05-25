@@ -1,0 +1,21 @@
+{
+  "Id": "LNp2",
+  "Name": "ListUsersResponse_metadata_links",
+  "Properties": [
+    {
+      "Id": "w87E",
+      "Name": "current",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "nZCE",
+      "Name": "next",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "1OBt",
+      "Name": "prev",
+      "Type": "Compiled:String"
+    }
+  ]
+}

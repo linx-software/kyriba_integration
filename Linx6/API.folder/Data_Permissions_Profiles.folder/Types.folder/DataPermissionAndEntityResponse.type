@@ -1,0 +1,21 @@
+{
+  "Id": "PLYk",
+  "Name": "DataPermissionAndEntityResponse",
+  "Properties": [
+    {
+      "Id": "HvG1",
+      "Name": "code",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "AaFp",
+      "Name": "description",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "paen",
+      "Name": "uuid",
+      "Type": "Compiled:String"
+    }
+  ]
+}

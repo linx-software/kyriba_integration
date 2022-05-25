@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "psf4",
+      "Properties": [
+        {
+          "Id": "gHiw",
+          "Name": "filter",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        },
+        {
+          "Id": "wMXI",
+          "Name": "sort",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "Dq3u",
+      "Properties": [
+        {
+          "Id": "GirQ",
+          "Name": "DataPermissionProfiles",
+          "Type": "List:Custom:04NV",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  }
+]

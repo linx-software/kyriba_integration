@@ -1,0 +1,16 @@
+{
+  "Id": "z0G4",
+  "Name": "GetSupplierServiceAccessResponse_Type",
+  "Properties": [
+    {
+      "Id": "7XY2",
+      "Name": "code",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "Mb04",
+      "Name": "uuid",
+      "Type": "Compiled:String"
+    }
+  ]
+}

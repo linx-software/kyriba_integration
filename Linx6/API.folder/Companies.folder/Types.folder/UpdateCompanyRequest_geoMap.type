@@ -1,0 +1,16 @@
+{
+  "Id": "B8Tv",
+  "Name": "UpdateCompanyRequest_geoMap",
+  "Properties": [
+    {
+      "Id": "mo3t",
+      "Name": "latitude",
+      "Type": "Compiled:Double"
+    },
+    {
+      "Id": "RIRK",
+      "Name": "longitude",
+      "Type": "Compiled:Double"
+    }
+  ]
+}

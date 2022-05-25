@@ -1,0 +1,26 @@
+{
+  "Properties": [
+    {
+      "Id": "List",
+      "Type": "List:Custom:cKW3",
+      "ValueUsage": "RuntimeRead",
+      "Value": {
+        "Expression": "$.Result.DataPermissions",
+        "CompiledExpression": "={0}",
+        "Type": "List:Custom:cKW3"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    },
+    {
+      "Id": "Value",
+      "Type": "Custom:cKW3",
+      "ValueUsage": "RuntimeRead",
+      "Value": {
+        "Expression": "ForEachResult.Loop",
+        "CompiledExpression": "={0}",
+        "Type": "Custom:cKW3"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    }
+  ]
+}

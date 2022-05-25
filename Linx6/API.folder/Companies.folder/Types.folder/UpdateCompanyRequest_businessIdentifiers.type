@@ -1,0 +1,46 @@
+{
+  "Id": "OAnG",
+  "Name": "UpdateCompanyRequest_businessIdentifiers",
+  "Properties": [
+    {
+      "Id": "VzmC",
+      "Name": "consolidationCode",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "DTe5",
+      "Name": "corpIDCode",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "W2Ql",
+      "Name": "lei",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "ufTk",
+      "Name": "otherIdentifierType",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "7N7s",
+      "Name": "otherIdentifierValue",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "pDbj",
+      "Name": "sepaCreditorIdentifier",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "4AhO",
+      "Name": "taxIDs",
+      "Type": "List:Custom:nQuj"
+    },
+    {
+      "Id": "lGCn",
+      "Name": "txp",
+      "Type": "Compiled:String"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+[
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "ybDb",
+      "Properties": [
+        {
+          "Id": "6dEb",
+          "Name": "CompanyUUID",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "ZAmq",
+      "Properties": [
+        {
+          "Id": "7LTz",
+          "Name": "Company",
+          "Type": "Custom:5iAc",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  }
+]

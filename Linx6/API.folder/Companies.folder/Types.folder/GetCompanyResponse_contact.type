@@ -1,0 +1,31 @@
+{
+  "Id": "FWCp",
+  "Name": "GetCompanyResponse_contact",
+  "Properties": [
+    {
+      "Id": "9AXD",
+      "Name": "department",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "j2d0",
+      "Name": "email",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "aEfD",
+      "Name": "fax",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "1Xb8",
+      "Name": "name",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "QnRN",
+      "Name": "phone",
+      "Type": "Compiled:String"
+    }
+  ]
+}

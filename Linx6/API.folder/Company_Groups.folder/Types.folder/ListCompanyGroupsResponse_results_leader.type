@@ -1,0 +1,16 @@
+{
+  "Id": "vSAR",
+  "Name": "ListCompanyGroupsResponse_results_leader",
+  "Properties": [
+    {
+      "Id": "y45Z",
+      "Name": "uuid",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "2lX1",
+      "Name": "code",
+      "Type": "Compiled:String"
+    }
+  ]
+}

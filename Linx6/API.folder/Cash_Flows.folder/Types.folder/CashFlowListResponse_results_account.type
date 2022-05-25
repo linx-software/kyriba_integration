@@ -1,0 +1,16 @@
+{
+  "Id": "D5t5",
+  "Name": "CashFlowListResponse_results_account",
+  "Properties": [
+    {
+      "Id": "XeqR",
+      "Name": "code",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "Fn8e",
+      "Name": "uuid",
+      "Type": "Compiled:String"
+    }
+  ]
+}

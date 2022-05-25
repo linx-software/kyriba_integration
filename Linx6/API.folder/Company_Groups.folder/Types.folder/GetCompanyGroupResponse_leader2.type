@@ -1,0 +1,16 @@
+{
+  "Id": "M5hU",
+  "Name": "GetCompanyGroupResponse_leader2",
+  "Properties": [
+    {
+      "Id": "PnRI",
+      "Name": "uuid",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "asCn",
+      "Name": "code",
+      "Type": "Compiled:String"
+    }
+  ]
+}

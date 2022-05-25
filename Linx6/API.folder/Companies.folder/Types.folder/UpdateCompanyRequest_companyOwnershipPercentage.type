@@ -1,0 +1,21 @@
+{
+  "Id": "2Hdh",
+  "Name": "UpdateCompanyRequest_companyOwnershipPercentage",
+  "Properties": [
+    {
+      "Id": "uu3T",
+      "Name": "ownershipDate",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "MhtJ",
+      "Name": "ownershipParentCompany",
+      "Type": "Custom:cpc8"
+    },
+    {
+      "Id": "Zhsu",
+      "Name": "ownershipPercentage",
+      "Type": "Compiled:Double"
+    }
+  ]
+}

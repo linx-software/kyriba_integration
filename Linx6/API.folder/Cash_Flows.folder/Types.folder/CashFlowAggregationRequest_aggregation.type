@@ -1,0 +1,21 @@
+{
+  "Id": "ZM6d",
+  "Name": "CashFlowAggregationRequest_aggregation",
+  "Properties": [
+    {
+      "Id": "UEF2",
+      "Name": "level1",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "icbF",
+      "Name": "level2",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "e2Kw",
+      "Name": "level3",
+      "Type": "Compiled:String"
+    }
+  ]
+}

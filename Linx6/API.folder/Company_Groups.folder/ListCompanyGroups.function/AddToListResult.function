@@ -1,0 +1,26 @@
+{
+  "Properties": [
+    {
+      "Id": "List",
+      "Type": "List:Custom:R2nS",
+      "ValueUsage": "RuntimeRead",
+      "Value": {
+        "Expression": "$.Result.CompanyGroups",
+        "CompiledExpression": "={0}",
+        "Type": "List:Custom:R2nS"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    },
+    {
+      "Id": "Value",
+      "Type": "Custom:R2nS",
+      "ValueUsage": "RuntimeRead",
+      "Value": {
+        "Expression": "ForEachResult.Loop",
+        "CompiledExpression": "={0}",
+        "Type": "Custom:R2nS"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    }
+  ]
+}

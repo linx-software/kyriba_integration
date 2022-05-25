@@ -1,0 +1,31 @@
+{
+  "Id": "6NL2",
+  "Name": "ListOfCompaniesResponse_metadata",
+  "Properties": [
+    {
+      "Id": "VOG5",
+      "Name": "links",
+      "Type": "Custom:mXDb"
+    },
+    {
+      "Id": "0c5Z",
+      "Name": "pageResults",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "IEqX",
+      "Name": "numberOfTotalResults",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "YVCI",
+      "Name": "pageLimit",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "Yjwd",
+      "Name": "pageOffset",
+      "Type": "Compiled:Int64"
+    }
+  ]
+}

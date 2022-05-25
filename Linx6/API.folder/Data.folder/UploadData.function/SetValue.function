@@ -1,0 +1,26 @@
+{
+  "Properties": [
+    {
+      "Id": "Source",
+      "Type": "Custom:8QP4",
+      "ValueUsage": "RuntimeRead",
+      "Value": {
+        "Expression": "UploadData.ResponseBody",
+        "CompiledExpression": "={0}",
+        "Type": "Custom:8QP4"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    },
+    {
+      "Id": "Target",
+      "Type": "Custom:8QP4",
+      "ValueUsage": "RuntimeWrite",
+      "Value": {
+        "Expression": "$.Result.DataUpload",
+        "CompiledExpression": "={0}",
+        "Type": "Custom:8QP4"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+[
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "Z0sb",
+      "Properties": [
+        {
+          "Id": "WQd4",
+          "Name": "CreateCompany",
+          "Type": "Custom:pdTL",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "kWlQ",
+      "Properties": [
+        {
+          "Id": "XGgC",
+          "Name": "Response",
+          "Type": "Custom:llVy",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  }
+]

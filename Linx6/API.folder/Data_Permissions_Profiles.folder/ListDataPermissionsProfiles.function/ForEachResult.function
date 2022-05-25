@@ -1,0 +1,24 @@
+{
+  "ExecutionPaths": [
+    {
+      "PluginId": "Loop",
+      "Name": "Loop",
+      "Result": "List:Custom:04NV",
+      "Order": 0,
+      "IterationHint": "ZeroOrMore"
+    }
+  ],
+  "Properties": [
+    {
+      "Id": "List",
+      "Type": "List:Custom:04NV",
+      "ValueUsage": "RuntimeRead",
+      "Value": {
+        "Expression": "GetDataPermissionProfiles.ResponseBody.results",
+        "CompiledExpression": "={0}",
+        "Type": "List:Custom:04NV"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    }
+  ]
+}

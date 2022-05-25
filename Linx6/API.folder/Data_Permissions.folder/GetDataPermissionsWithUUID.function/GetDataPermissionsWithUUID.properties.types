@@ -1,0 +1,30 @@
+[
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "cpit",
+      "Properties": [
+        {
+          "Id": "PVyC",
+          "Name": "DataPermissionUUID",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "pbyz",
+      "Properties": [
+        {
+          "Id": "VZSI",
+          "Name": "DataPermissions",
+          "Type": "List:Custom:Dn01",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "Id": "JmgR",
+  "Name": "CashFlowListResponse_metadata_links",
+  "Properties": [
+    {
+      "Id": "nzKz",
+      "Name": "current",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "Gh7v",
+      "Name": "next",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "nRqA",
+      "Name": "prev",
+      "Type": "Compiled:String"
+    }
+  ]
+}

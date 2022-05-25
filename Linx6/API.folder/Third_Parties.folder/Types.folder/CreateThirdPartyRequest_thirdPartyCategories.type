@@ -1,0 +1,16 @@
+{
+  "Id": "Uotv",
+  "Name": "CreateThirdPartyRequest_thirdPartyCategories",
+  "Properties": [
+    {
+      "Id": "SsgE",
+      "Name": "code",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "oX6Q",
+      "Name": "uuid",
+      "Type": "Compiled:String"
+    }
+  ]
+}

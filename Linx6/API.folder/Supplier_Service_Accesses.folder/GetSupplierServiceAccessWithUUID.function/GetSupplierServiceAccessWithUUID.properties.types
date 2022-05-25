@@ -1,0 +1,30 @@
+[
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "BATp",
+      "Properties": [
+        {
+          "Id": "OsMs",
+          "Name": "SupplierServiceAccessUUID",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "qXzy",
+      "Properties": [
+        {
+          "Id": "rYRB",
+          "Name": "Response",
+          "Type": "Custom:JFTE",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  }
+]

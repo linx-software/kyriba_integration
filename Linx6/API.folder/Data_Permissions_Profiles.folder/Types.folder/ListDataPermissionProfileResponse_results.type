@@ -1,0 +1,26 @@
+{
+  "Id": "04NV",
+  "Name": "ListDataPermissionProfileResponse_results",
+  "Properties": [
+    {
+      "Id": "XrA2",
+      "Name": "code",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "rC2u",
+      "Name": "companyOwnership",
+      "Type": "Custom:6A4b"
+    },
+    {
+      "Id": "GvyQ",
+      "Name": "description",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "0adh",
+      "Name": "uuid",
+      "Type": "Compiled:String"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "Id": "gJ3i",
+  "Name": "GetCashFlowResponse_date",
+  "Properties": [
+    {
+      "Id": "pOKp",
+      "Name": "transactionDate",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "kJvO",
+      "Name": "valueDate",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "EXax",
+      "Name": "accountingDate",
+      "Type": "Compiled:String"
+    }
+  ]
+}

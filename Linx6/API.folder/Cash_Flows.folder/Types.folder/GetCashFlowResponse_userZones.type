@@ -1,0 +1,31 @@
+{
+  "Id": "MReq",
+  "Name": "GetCashFlowResponse_userZones",
+  "Properties": [
+    {
+      "Id": "nUt4",
+      "Name": "userZone1",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "L9rZ",
+      "Name": "userZone2",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "tXa8",
+      "Name": "userZone3",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "fWuk",
+      "Name": "userZone4",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "V48H",
+      "Name": "userZone5",
+      "Type": "Compiled:String"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "Id": "DLjv",
+  "Name": "GetThirdPartyResponse_usedByCompanies",
+  "Properties": [
+    {
+      "Id": "6RcP",
+      "Name": "code",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "nI69",
+      "Name": "uuid",
+      "Type": "Compiled:String"
+    }
+  ]
+}

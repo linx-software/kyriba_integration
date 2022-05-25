@@ -1,0 +1,16 @@
+{
+  "Id": "CYQN",
+  "Name": "ListThirdPartyResponse_results_businessIdentifiers",
+  "Properties": [
+    {
+      "Id": "SbXo",
+      "Name": "otherIdentifierType",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "j4cw",
+      "Name": "otherIdentifierValue",
+      "Type": "Compiled:String"
+    }
+  ]
+}

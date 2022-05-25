@@ -1,0 +1,21 @@
+{
+  "Id": "Gtk8",
+  "Name": "CashBalanceAggregationResponse",
+  "Properties": [
+    {
+      "Id": "45QJ",
+      "Name": "balances",
+      "Type": "List:Custom:wuLe"
+    },
+    {
+      "Id": "fjn9",
+      "Name": "currency",
+      "Type": "Custom:fg75"
+    },
+    {
+      "Id": "ls32",
+      "Name": "displayEntity",
+      "Type": "Custom:fg75"
+    }
+  ]
+}

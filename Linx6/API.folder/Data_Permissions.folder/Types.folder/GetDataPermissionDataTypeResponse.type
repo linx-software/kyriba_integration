@@ -1,0 +1,26 @@
+{
+  "Id": "0zP5",
+  "Name": "GetDataPermissionDataTypeResponse",
+  "Properties": [
+    {
+      "Id": "nrLV",
+      "Name": "code",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "5mkU",
+      "Name": "companyOwnership",
+      "Type": "Custom:UL4q"
+    },
+    {
+      "Id": "BL4T",
+      "Name": "description",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "lJRi",
+      "Name": "uuid",
+      "Type": "Compiled:String"
+    }
+  ]
+}

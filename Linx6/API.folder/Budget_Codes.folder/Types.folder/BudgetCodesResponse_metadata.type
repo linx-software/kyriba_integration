@@ -1,0 +1,31 @@
+{
+  "Id": "25W5",
+  "Name": "BudgetCodesResponse_metadata",
+  "Properties": [
+    {
+      "Id": "FxKk",
+      "Name": "links",
+      "Type": "Custom:jnpv"
+    },
+    {
+      "Id": "YK9h",
+      "Name": "numberOfTotalResults",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "cNRZ",
+      "Name": "pageLimit",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "pMpe",
+      "Name": "pageOffset",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "h2z8",
+      "Name": "pageResults",
+      "Type": "Compiled:Int64"
+    }
+  ]
+}

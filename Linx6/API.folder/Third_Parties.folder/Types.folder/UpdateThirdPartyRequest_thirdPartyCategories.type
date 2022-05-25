@@ -1,0 +1,16 @@
+{
+  "Id": "V1NA",
+  "Name": "UpdateThirdPartyRequest_thirdPartyCategories",
+  "Properties": [
+    {
+      "Id": "OV3S",
+      "Name": "code",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "EKup",
+      "Name": "uuid",
+      "Type": "Compiled:String"
+    }
+  ]
+}

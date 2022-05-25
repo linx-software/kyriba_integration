@@ -1,0 +1,171 @@
+{
+  "Id": "8tnc",
+  "Name": "GetThirdPartyResponse",
+  "Properties": [
+    {
+      "Id": "MO37",
+      "Name": "uuid",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "1ldm",
+      "Name": "code",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "fIwB",
+      "Name": "name",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "vgj2",
+      "Name": "name2",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "PMwK",
+      "Name": "hidden",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "k4dH",
+      "Name": "closureDate",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "jq3h",
+      "Name": "creditor",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "LzqB",
+      "Name": "debtor",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "1iEN",
+      "Name": "corpIDCode",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "88Di",
+      "Name": "otherIdentifier",
+      "Type": "Custom:yuyG"
+    },
+    {
+      "Id": "zXL6",
+      "Name": "nonResident",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "5bpj",
+      "Name": "thirdPartyCategories",
+      "Type": "List:Custom:Y1ZB"
+    },
+    {
+      "Id": "iWIt",
+      "Name": "linkNumber",
+      "Type": "Custom:Y1ZB"
+    },
+    {
+      "Id": "ndD9",
+      "Name": "portfolio",
+      "Type": "Custom:Y1ZB"
+    },
+    {
+      "Id": "lRWy",
+      "Name": "folder",
+      "Type": "Custom:Y1ZB"
+    },
+    {
+      "Id": "hSzK",
+      "Name": "limitCurrency",
+      "Type": "Custom:Y1ZB"
+    },
+    {
+      "Id": "422y",
+      "Name": "transactionEntryLimit",
+      "Type": "Compiled:Double"
+    },
+    {
+      "Id": "b04f",
+      "Name": "transactionMaxNumber",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "Hifj",
+      "Name": "creditorTaxId",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "6sWr",
+      "Name": "creditorTaxRegistrationId",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "kPrW",
+      "Name": "creditorTaxType",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "GKYY",
+      "Name": "creditorAgentInstruction",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "avia",
+      "Name": "address",
+      "Type": "Custom:npS9"
+    },
+    {
+      "Id": "XwaV",
+      "Name": "contact",
+      "Type": "Custom:klBm"
+    },
+    {
+      "Id": "51qF",
+      "Name": "thirdPartyBankBranchAccountIDs",
+      "Type": "List:Custom:pi9F"
+    },
+    {
+      "Id": "qNPN",
+      "Name": "companySelection",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "9pXR",
+      "Name": "usedByCompany",
+      "Type": "Custom:Y1ZB"
+    },
+    {
+      "Id": "fokb",
+      "Name": "usedByCompanies",
+      "Type": "List:Custom:DLjv"
+    },
+    {
+      "Id": "gizS",
+      "Name": "internalCounter",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "UNVK",
+      "Name": "internalCounterSuffix",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "iAgm",
+      "Name": "companyOwnership",
+      "Type": "Custom:Y1ZB"
+    },
+    {
+      "Id": "P2WL",
+      "Name": "memo",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "gdmN",
+      "Name": "userZones",
+      "Type": "Custom:bkYT"
+    }
+  ]
+}

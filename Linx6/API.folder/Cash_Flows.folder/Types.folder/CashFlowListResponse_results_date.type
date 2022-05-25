@@ -1,0 +1,21 @@
+{
+  "Id": "tpS6",
+  "Name": "CashFlowListResponse_results_date",
+  "Properties": [
+    {
+      "Id": "uC20",
+      "Name": "transactionDate",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "DxJP",
+      "Name": "valueDate",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "hcyY",
+      "Name": "accountingDate",
+      "Type": "Compiled:String"
+    }
+  ]
+}

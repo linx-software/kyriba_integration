@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "UlyH",
+      "Properties": [
+        {
+          "Id": "U1Zo",
+          "Name": "ThirdParty",
+          "Type": "Custom:B5kd",
+          "Access": "ReadWrite"
+        },
+        {
+          "Id": "61Fu",
+          "Name": "UUID",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "EGMQ",
+      "Properties": [
+        {
+          "Id": "wWlC",
+          "Name": "Response",
+          "Type": "Custom:llVy",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  }
+]

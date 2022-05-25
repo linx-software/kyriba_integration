@@ -1,0 +1,21 @@
+{
+  "Id": "C5mv",
+  "Name": "ListSupplierUsersResponse_metadata_links",
+  "Properties": [
+    {
+      "Id": "SZBm",
+      "Name": "current",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "nIS5",
+      "Name": "next",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "RNA4",
+      "Name": "prev",
+      "Type": "Compiled:String"
+    }
+  ]
+}

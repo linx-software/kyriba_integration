@@ -1,0 +1,16 @@
+{
+  "Id": "gm5P",
+  "Name": "ListSupplierUsersResponse",
+  "Properties": [
+    {
+      "Id": "Pwtb",
+      "Name": "metadata",
+      "Type": "Custom:vQty"
+    },
+    {
+      "Id": "Aj6R",
+      "Name": "results",
+      "Type": "List:Custom:bCy0"
+    }
+  ]
+}

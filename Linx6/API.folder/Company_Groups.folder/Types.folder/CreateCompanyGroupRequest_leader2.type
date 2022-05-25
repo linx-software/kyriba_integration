@@ -1,0 +1,16 @@
+{
+  "Id": "WCG0",
+  "Name": "CreateCompanyGroupRequest_leader2",
+  "Properties": [
+    {
+      "Id": "b00G",
+      "Name": "code",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "IsyA",
+      "Name": "uuid",
+      "Type": "Compiled:String"
+    }
+  ]
+}

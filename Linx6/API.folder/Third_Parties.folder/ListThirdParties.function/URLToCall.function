@@ -1,0 +1,16 @@
+{
+  "Properties": [
+    {
+      "Id": "Value",
+      "Type": "Compiled:String",
+      "ValueUsage": "RuntimeRead",
+      "Value": {
+        "Expression": "$.Settings.Kyriba_baseURL+\"/v1/third-parties?page.limit=100&page.offset=0&filter=\"+$.Parameters.filter+\"&sort=\"+$.Parameters.sort+\"&activeStatus=\"+$.Parameters.ActiveStatus",
+        "CompiledExpression": "={3}+\"/v1/third-parties?page.limit=100&page.offset=0&filter=\"+{2}+\"&sort=\"+{1}+\"&activeStatus=\"+{0}",
+        "Type": "Compiled:String"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    }
+  ],
+  "Result": "Compiled:String"
+}

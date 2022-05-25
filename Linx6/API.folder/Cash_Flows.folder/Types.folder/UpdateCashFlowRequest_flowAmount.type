@@ -1,0 +1,16 @@
+{
+  "Id": "zUyM",
+  "Name": "UpdateCashFlowRequest_flowAmount",
+  "Properties": [
+    {
+      "Id": "Flya",
+      "Name": "currency",
+      "Type": "Custom:4R5N"
+    },
+    {
+      "Id": "qqOy",
+      "Name": "amount",
+      "Type": "Compiled:Double"
+    }
+  ]
+}

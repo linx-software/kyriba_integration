@@ -1,0 +1,16 @@
+{
+  "Id": "mGgW",
+  "Name": "ListUsersResponse_results_Type",
+  "Properties": [
+    {
+      "Id": "UsKT",
+      "Name": "code",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "FFTA",
+      "Name": "uuid",
+      "Type": "Compiled:String"
+    }
+  ]
+}

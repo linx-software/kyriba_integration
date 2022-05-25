@@ -1,0 +1,16 @@
+{
+  "Id": "v1ET",
+  "Name": "CashFlowListResponse_results_Amount",
+  "Properties": [
+    {
+      "Id": "M6e3",
+      "Name": "currency",
+      "Type": "Custom:D5t5"
+    },
+    {
+      "Id": "KZoT",
+      "Name": "amount",
+      "Type": "Compiled:Double"
+    }
+  ]
+}

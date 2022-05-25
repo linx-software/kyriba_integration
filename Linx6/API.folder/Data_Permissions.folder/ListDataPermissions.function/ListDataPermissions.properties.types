@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "Xnp8",
+      "Properties": [
+        {
+          "Id": "xUt5",
+          "Name": "filter",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        },
+        {
+          "Id": "iBhb",
+          "Name": "sort",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "7BBl",
+      "Properties": [
+        {
+          "Id": "tQhw",
+          "Name": "DataPermissions",
+          "Type": "List:Custom:cKW3",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  }
+]

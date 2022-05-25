@@ -1,0 +1,16 @@
+{
+  "Id": "uYON",
+  "Name": "ListProcessTemplatesResponse",
+  "Properties": [
+    {
+      "Id": "ho7R",
+      "Name": "metadata",
+      "Type": "Custom:UB4U"
+    },
+    {
+      "Id": "GXMH",
+      "Name": "results",
+      "Type": "List:Custom:gCme"
+    }
+  ]
+}

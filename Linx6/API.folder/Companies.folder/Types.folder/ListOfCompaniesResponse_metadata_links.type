@@ -1,0 +1,16 @@
+{
+  "Id": "mXDb",
+  "Name": "ListOfCompaniesResponse_metadata_links",
+  "Properties": [
+    {
+      "Id": "rEu0",
+      "Name": "current",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "e6k0",
+      "Name": "next",
+      "Type": "Compiled:String"
+    }
+  ]
+}

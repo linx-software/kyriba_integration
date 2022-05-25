@@ -1,0 +1,26 @@
+{
+  "Properties": [
+    {
+      "Id": "Source",
+      "Type": "List:Custom:Dn01",
+      "ValueUsage": "RuntimeRead",
+      "Value": {
+        "Expression": "CallGetDataPermissions.ResponseBody",
+        "CompiledExpression": "={0}",
+        "Type": "List:Custom:Dn01"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    },
+    {
+      "Id": "Target",
+      "Type": "List:Custom:Dn01",
+      "ValueUsage": "RuntimeWrite",
+      "Value": {
+        "Expression": "$.Result.DataPermissions",
+        "CompiledExpression": "={0}",
+        "Type": "List:Custom:Dn01"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    }
+  ]
+}

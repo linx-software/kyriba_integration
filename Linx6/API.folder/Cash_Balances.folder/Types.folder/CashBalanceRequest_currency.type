@@ -1,0 +1,16 @@
+{
+  "Id": "ttcG",
+  "Name": "CashBalanceRequest_currency",
+  "Properties": [
+    {
+      "Id": "FMCw",
+      "Name": "code",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "KYFp",
+      "Name": "uuid",
+      "Type": "Compiled:String"
+    }
+  ]
+}

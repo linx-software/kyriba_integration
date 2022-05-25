@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "PlVO",
+      "Properties": [
+        {
+          "Id": "k1l6",
+          "Name": "ThirdParty",
+          "Type": "Custom:B5kd",
+          "Access": "ReadWrite"
+        },
+        {
+          "Id": "ZaaO",
+          "Name": "Code",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "s9RF",
+      "Properties": [
+        {
+          "Id": "1xAT",
+          "Name": "Response",
+          "Type": "Custom:llVy",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  }
+]

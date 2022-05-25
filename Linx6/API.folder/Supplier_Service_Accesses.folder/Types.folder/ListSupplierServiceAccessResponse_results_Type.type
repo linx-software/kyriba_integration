@@ -1,0 +1,16 @@
+{
+  "Id": "GeQs",
+  "Name": "ListSupplierServiceAccessResponse_results_Type",
+  "Properties": [
+    {
+      "Id": "iwh3",
+      "Name": "code",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "3edP",
+      "Name": "uuid",
+      "Type": "Compiled:String"
+    }
+  ]
+}

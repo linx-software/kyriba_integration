@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "mWJ4",
+      "Properties": [
+        {
+          "Id": "FUto",
+          "Name": "sort",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        },
+        {
+          "Id": "QjiL",
+          "Name": "filter",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "UrlT",
+      "Properties": [
+        {
+          "Id": "61iM",
+          "Name": "SupplierUsers",
+          "Type": "List:Custom:bCy0",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  }
+]

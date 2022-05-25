@@ -1,0 +1,16 @@
+{
+  "Id": "cnzR",
+  "Name": "CashFlowAggregationRequest_currencyConversion",
+  "Properties": [
+    {
+      "Id": "50GQ",
+      "Name": "currency",
+      "Type": "Custom:tgja"
+    },
+    {
+      "Id": "IdJX",
+      "Name": "currencyRate",
+      "Type": "Custom:WzRq"
+    }
+  ]
+}

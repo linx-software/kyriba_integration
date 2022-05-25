@@ -1,0 +1,36 @@
+{
+  "Id": "1kHE",
+  "Name": "GetCompanyResponse_deals",
+  "Properties": [
+    {
+      "Id": "N5Hi",
+      "Name": "contact",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "uOZE",
+      "Name": "counterparty",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "3b5N",
+      "Name": "fundCode",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "526k",
+      "Name": "intermediary",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "iHKZ",
+      "Name": "netSettlementsForThisCounterparty",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "V2x9",
+      "Name": "revaluationIssuerSpread",
+      "Type": "Compiled:String"
+    }
+  ]
+}

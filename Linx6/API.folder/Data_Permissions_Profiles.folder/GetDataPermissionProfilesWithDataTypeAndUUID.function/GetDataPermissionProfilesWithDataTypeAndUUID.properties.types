@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "20hw",
+      "Properties": [
+        {
+          "Id": "qGDe",
+          "Name": "DataType",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        },
+        {
+          "Id": "NUO3",
+          "Name": "UUID",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "7ZUg",
+      "Properties": [
+        {
+          "Id": "DxrQ",
+          "Name": "DataPermissionProfiles",
+          "Type": "List:Custom:PLYk",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  }
+]

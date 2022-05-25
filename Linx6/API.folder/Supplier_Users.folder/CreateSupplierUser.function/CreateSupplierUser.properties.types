@@ -1,0 +1,30 @@
+[
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "7uNw",
+      "Properties": [
+        {
+          "Id": "nu8Y",
+          "Name": "SupplierUser",
+          "Type": "Custom:xuCt",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "WpLg",
+      "Properties": [
+        {
+          "Id": "Reb5",
+          "Name": "Response",
+          "Type": "Custom:llVy",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  }
+]

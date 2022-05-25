@@ -1,0 +1,31 @@
+{
+  "Id": "DF9l",
+  "Name": "ListUsersResponse_metadata",
+  "Properties": [
+    {
+      "Id": "iOBF",
+      "Name": "links",
+      "Type": "Custom:LNp2"
+    },
+    {
+      "Id": "fFAM",
+      "Name": "numberOfTotalResults",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "tidN",
+      "Name": "pageLimit",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "DnXe",
+      "Name": "pageOffset",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "KGG2",
+      "Name": "pageResults",
+      "Type": "Compiled:Int64"
+    }
+  ]
+}

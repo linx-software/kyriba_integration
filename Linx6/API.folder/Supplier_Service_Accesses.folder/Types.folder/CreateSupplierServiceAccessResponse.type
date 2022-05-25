@@ -1,0 +1,16 @@
+{
+  "Id": "xXpl",
+  "Name": "CreateSupplierServiceAccessResponse",
+  "Properties": [
+    {
+      "Id": "6ToG",
+      "Name": "code",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "UTc6",
+      "Name": "uuid",
+      "Type": "Compiled:String"
+    }
+  ]
+}

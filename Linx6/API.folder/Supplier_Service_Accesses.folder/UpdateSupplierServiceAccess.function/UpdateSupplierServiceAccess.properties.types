@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "0pMY",
+      "Properties": [
+        {
+          "Id": "uzr7",
+          "Name": "SupplierServiceAccess",
+          "Type": "Custom:8Uhm",
+          "Access": "ReadWrite"
+        },
+        {
+          "Id": "F3KO",
+          "Name": "UUID",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "43oR",
+      "Properties": [
+        {
+          "Id": "IyBB",
+          "Name": "Response",
+          "Type": "Custom:llVy",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,24 @@
+{
+  "ExecutionPaths": [
+    {
+      "PluginId": "Loop",
+      "Name": "Loop",
+      "Result": "List:Custom:Hi5V",
+      "Order": 0,
+      "IterationHint": "ZeroOrMore"
+    }
+  ],
+  "Properties": [
+    {
+      "Id": "List",
+      "Type": "List:Custom:Hi5V",
+      "ValueUsage": "RuntimeRead",
+      "Value": {
+        "Expression": "GetCashFlows.ResponseBody.results",
+        "CompiledExpression": "={0}",
+        "Type": "List:Custom:Hi5V"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    }
+  ]
+}

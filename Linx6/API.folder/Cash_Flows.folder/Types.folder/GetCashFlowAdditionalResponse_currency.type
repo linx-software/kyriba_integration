@@ -1,0 +1,16 @@
+{
+  "Id": "LEsk",
+  "Name": "GetCashFlowAdditionalResponse_currency",
+  "Properties": [
+    {
+      "Id": "HvrO",
+      "Name": "code",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "Tz7B",
+      "Name": "uuid",
+      "Type": "Compiled:String"
+    }
+  ]
+}

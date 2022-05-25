@@ -1,0 +1,26 @@
+{
+  "Properties": [
+    {
+      "Id": "Source",
+      "Type": "Custom:Nmap",
+      "ValueUsage": "RuntimeRead",
+      "Value": {
+        "Expression": "CallGetCashFlow.ResponseBody",
+        "CompiledExpression": "={0}",
+        "Type": "Custom:Nmap"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    },
+    {
+      "Id": "Target",
+      "Type": "Custom:Nmap",
+      "ValueUsage": "RuntimeWrite",
+      "Value": {
+        "Expression": "$.Result.CashFlowAdditional",
+        "CompiledExpression": "={0}",
+        "Type": "Custom:Nmap"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    }
+  ]
+}

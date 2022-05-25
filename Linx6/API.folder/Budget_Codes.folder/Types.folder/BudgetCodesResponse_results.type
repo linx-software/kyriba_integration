@@ -1,0 +1,36 @@
+{
+  "Id": "IRo9",
+  "Name": "BudgetCodesResponse_results",
+  "Properties": [
+    {
+      "Id": "C83V",
+      "Name": "code",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "HU5Y",
+      "Name": "description",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "7pKY",
+      "Name": "groupingCode",
+      "Type": "Custom:4J2x"
+    },
+    {
+      "Id": "dzOI",
+      "Name": "hideInList",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "GWLm",
+      "Name": "type",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "Bhez",
+      "Name": "uuid",
+      "Type": "Compiled:String"
+    }
+  ]
+}

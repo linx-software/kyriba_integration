@@ -1,0 +1,30 @@
+[
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "embt",
+      "Properties": [
+        {
+          "Id": "N9G5",
+          "Name": "TaskUUID",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "Q4Qm",
+      "Properties": [
+        {
+          "Id": "jEfD",
+          "Name": "Task",
+          "Type": "Custom:9klq",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,26 @@
+{
+  "Properties": [
+    {
+      "Id": "Source",
+      "Type": "Custom:8tnc",
+      "ValueUsage": "RuntimeRead",
+      "Value": {
+        "Expression": "CallGetThirdParty.ResponseBody",
+        "CompiledExpression": "={0}",
+        "Type": "Custom:8tnc"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    },
+    {
+      "Id": "Target",
+      "Type": "Custom:8tnc",
+      "ValueUsage": "RuntimeWrite",
+      "Value": {
+        "Expression": "$.Result.ThirdParty",
+        "CompiledExpression": "={0}",
+        "Type": "Custom:8tnc"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    }
+  ]
+}

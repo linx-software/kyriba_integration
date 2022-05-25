@@ -1,0 +1,21 @@
+{
+  "Id": "wuLe",
+  "Name": "CashBalanceAggregationResponse_balances",
+  "Properties": [
+    {
+      "Id": "hwDL",
+      "Name": "amount",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "byUt",
+      "Name": "date",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "yZ7H",
+      "Name": "dateType",
+      "Type": "Compiled:String"
+    }
+  ]
+}

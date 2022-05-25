@@ -1,0 +1,161 @@
+{
+  "Id": "8ATN",
+  "Name": "CreateThirdPartyRequest",
+  "Properties": [
+    {
+      "Id": "dGHb",
+      "Name": "uuid",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "TAOm",
+      "Name": "code",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "nGy8",
+      "Name": "name",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "UJO9",
+      "Name": "name2",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "k2ZU",
+      "Name": "hidden",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "a3yM",
+      "Name": "closureDate",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "AgAN",
+      "Name": "creditor",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "0QHh",
+      "Name": "debtor",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "B7us",
+      "Name": "corpIDCode",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "u3Q5",
+      "Name": "otherIdentifier",
+      "Type": "Custom:Aa95"
+    },
+    {
+      "Id": "BIV4",
+      "Name": "nonResident",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "dZqI",
+      "Name": "thirdPartyCategories",
+      "Type": "List:Custom:Uotv"
+    },
+    {
+      "Id": "3vqB",
+      "Name": "linkNumber",
+      "Type": "Custom:Uotv"
+    },
+    {
+      "Id": "XQpw",
+      "Name": "portfolio",
+      "Type": "Custom:Uotv"
+    },
+    {
+      "Id": "t6Ts",
+      "Name": "folder",
+      "Type": "Custom:Uotv"
+    },
+    {
+      "Id": "2VuH",
+      "Name": "limitCurrency",
+      "Type": "Custom:Uotv"
+    },
+    {
+      "Id": "S2vN",
+      "Name": "transactionEntryLimit",
+      "Type": "Compiled:Double"
+    },
+    {
+      "Id": "ihkU",
+      "Name": "transactionMaxNumber",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "Z70l",
+      "Name": "creditorTaxId",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "zeSr",
+      "Name": "creditorTaxRegistrationId",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "sccz",
+      "Name": "creditorTaxType",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "XzdV",
+      "Name": "creditorAgentInstruction",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "XkyV",
+      "Name": "address",
+      "Type": "Custom:OwaL"
+    },
+    {
+      "Id": "5O2v",
+      "Name": "contact",
+      "Type": "Custom:cLmx"
+    },
+    {
+      "Id": "vFb6",
+      "Name": "thirdPartyBankBranchAccountIDs",
+      "Type": "List:Custom:jJST"
+    },
+    {
+      "Id": "HIjC",
+      "Name": "companySelection",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "4ge4",
+      "Name": "usedByCompany",
+      "Type": "Custom:Uotv"
+    },
+    {
+      "Id": "z8xQ",
+      "Name": "usedByCompanies",
+      "Type": "List:Custom:Ugpl"
+    },
+    {
+      "Id": "o44j",
+      "Name": "companyOwnership",
+      "Type": "Custom:Uotv"
+    },
+    {
+      "Id": "owJY",
+      "Name": "memo",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "nfDm",
+      "Name": "userZones",
+      "Type": "Custom:BqRL"
+    }
+  ]
+}

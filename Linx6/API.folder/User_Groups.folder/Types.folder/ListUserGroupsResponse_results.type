@@ -1,0 +1,26 @@
+{
+  "Id": "wgsD",
+  "Name": "ListUserGroupsResponse_results",
+  "Properties": [
+    {
+      "Id": "kG4y",
+      "Name": "code",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "UjXd",
+      "Name": "description",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "YzcH",
+      "Name": "ownershipCompany",
+      "Type": "Custom:nhlN"
+    },
+    {
+      "Id": "xZBB",
+      "Name": "uuid",
+      "Type": "Compiled:String"
+    }
+  ]
+}

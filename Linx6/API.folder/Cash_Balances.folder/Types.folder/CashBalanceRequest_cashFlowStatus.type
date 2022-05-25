@@ -1,0 +1,26 @@
+{
+  "Id": "yprm",
+  "Name": "CashBalanceRequest_cashFlowStatus",
+  "Properties": [
+    {
+      "Id": "zO2K",
+      "Name": "actual",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "d4CV",
+      "Name": "confirmedForecasts",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "amui",
+      "Name": "estimatedForecasts",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "fAuG",
+      "Name": "intraday",
+      "Type": "Compiled:Boolean"
+    }
+  ]
+}

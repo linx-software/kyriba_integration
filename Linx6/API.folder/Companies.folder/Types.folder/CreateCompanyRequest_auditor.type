@@ -1,0 +1,21 @@
+{
+  "Id": "Jrmq",
+  "Name": "CreateCompanyRequest_auditor",
+  "Properties": [
+    {
+      "Id": "I91Y",
+      "Name": "address",
+      "Type": "Custom:VMlj"
+    },
+    {
+      "Id": "IBQD",
+      "Name": "advisoryFirm",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "zW4M",
+      "Name": "name",
+      "Type": "Compiled:String"
+    }
+  ]
+}

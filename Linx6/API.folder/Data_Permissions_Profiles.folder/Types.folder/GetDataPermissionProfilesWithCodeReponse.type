@@ -1,0 +1,36 @@
+{
+  "Id": "5dv3",
+  "Name": "GetDataPermissionProfilesWithCodeReponse",
+  "Properties": [
+    {
+      "Id": "XY2b",
+      "Name": "code",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "IGrJ",
+      "Name": "dataType",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "7lG9",
+      "Name": "function",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "Ei6c",
+      "Name": "subtype",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "NbbN",
+      "Name": "type",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "SAV3",
+      "Name": "uuid",
+      "Type": "Compiled:String"
+    }
+  ]
+}

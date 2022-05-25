@@ -1,0 +1,51 @@
+{
+  "Id": "u2xl",
+  "Name": "ListOfCompaniesResponse_results",
+  "Properties": [
+    {
+      "Id": "WJlw",
+      "Name": "code",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "hvo4",
+      "Name": "shortCode",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "6lnG",
+      "Name": "interfaceCode",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "d0TU",
+      "Name": "description1",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "KcnU",
+      "Name": "description2",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "8xQH",
+      "Name": "defaultGroup",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "jQvV",
+      "Name": "uuid",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "T4Hj",
+      "Name": "address",
+      "Type": "Custom:xWdV"
+    },
+    {
+      "Id": "4vGB",
+      "Name": "businessIdentifiers",
+      "Type": "Custom:jR9L"
+    }
+  ]
+}

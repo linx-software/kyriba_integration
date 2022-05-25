@@ -1,0 +1,16 @@
+{
+  "Id": "4J2x",
+  "Name": "BudgetCodesResponse_results_groupingCode",
+  "Properties": [
+    {
+      "Id": "hd8S",
+      "Name": "code",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "hyBO",
+      "Name": "uuid",
+      "Type": "Compiled:String"
+    }
+  ]
+}

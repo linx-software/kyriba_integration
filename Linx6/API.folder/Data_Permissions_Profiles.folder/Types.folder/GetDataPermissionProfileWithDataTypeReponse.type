@@ -1,0 +1,26 @@
+{
+  "Id": "6HwI",
+  "Name": "GetDataPermissionProfileWithDataTypeReponse",
+  "Properties": [
+    {
+      "Id": "HYjO",
+      "Name": "code",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "yrAn",
+      "Name": "companyOwnership",
+      "Type": "Custom:P5WA"
+    },
+    {
+      "Id": "ny5n",
+      "Name": "description",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "v2Mg",
+      "Name": "uuid",
+      "Type": "Compiled:String"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "Id": "gCme",
+  "Name": "ListProcessTemplatesResponse_results",
+  "Properties": [
+    {
+      "Id": "JKPR",
+      "Name": "uuid",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "KST7",
+      "Name": "code",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "Qw83",
+      "Name": "interfaceCode",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "oiso",
+      "Name": "description",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "s7e2",
+      "Name": "module",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "COKV",
+      "Name": "category",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "jeZC",
+      "Name": "type",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "QFZN",
+      "Name": "canAdminOwnership",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "bLni",
+      "Name": "canAdminOwner",
+      "Type": "Custom:kkAA"
+    },
+    {
+      "Id": "SKNj",
+      "Name": "canLaunchOnlyOwnership",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "m5mz",
+      "Name": "canLaunchOnlyOwner",
+      "Type": "Custom:kkAA"
+    },
+    {
+      "Id": "ghpW",
+      "Name": "canUseOwnership",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "KRjS",
+      "Name": "canUseOwner",
+      "Type": "Custom:kkAA"
+    },
+    {
+      "Id": "S46v",
+      "Name": "displayByDefault",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "Rt8Q",
+      "Name": "launchWhenOpening",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "B6ca",
+      "Name": "initializedAutomatically",
+      "Type": "Compiled:Boolean"
+    }
+  ]
+}

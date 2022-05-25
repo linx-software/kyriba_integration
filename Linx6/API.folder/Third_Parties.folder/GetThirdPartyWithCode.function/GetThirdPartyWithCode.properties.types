@@ -1,0 +1,30 @@
+[
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "WRVF",
+      "Properties": [
+        {
+          "Id": "Nc8X",
+          "Name": "Code",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "Nell",
+      "Properties": [
+        {
+          "Id": "2AQv",
+          "Name": "ThirdParty",
+          "Type": "Custom:8tnc",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,26 @@
+{
+  "Properties": [
+    {
+      "Id": "List",
+      "Type": "List:Custom:hs78",
+      "ValueUsage": "RuntimeRead",
+      "Value": {
+        "Expression": "$.Result.SupplierServiceAccesses",
+        "CompiledExpression": "={0}",
+        "Type": "List:Custom:hs78"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    },
+    {
+      "Id": "Value",
+      "Type": "Custom:hs78",
+      "ValueUsage": "RuntimeRead",
+      "Value": {
+        "Expression": "ForEachResult.Loop",
+        "CompiledExpression": "={0}",
+        "Type": "Custom:hs78"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    }
+  ]
+}

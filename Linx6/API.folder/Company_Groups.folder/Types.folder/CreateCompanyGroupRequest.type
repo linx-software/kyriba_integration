@@ -1,0 +1,51 @@
+{
+  "Id": "pdTL",
+  "Name": "CreateCompanyGroupRequest",
+  "Properties": [
+    {
+      "Id": "k9sz",
+      "Name": "code",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "hTYf",
+      "Name": "companies",
+      "Type": "List:Custom:WCG0"
+    },
+    {
+      "Id": "7byu",
+      "Name": "leader",
+      "Type": "Custom:WCG0"
+    },
+    {
+      "Id": "nM39",
+      "Name": "uuid",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "oqlL",
+      "Name": "contact",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "OFDX",
+      "Name": "counterparty",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "JOb1",
+      "Name": "description",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "KysR",
+      "Name": "description2",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "ePCe",
+      "Name": "intermediary",
+      "Type": "Compiled:Boolean"
+    }
+  ]
+}

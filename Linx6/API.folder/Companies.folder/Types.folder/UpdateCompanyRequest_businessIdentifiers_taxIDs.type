@@ -1,0 +1,21 @@
+{
+  "Id": "nQuj",
+  "Name": "UpdateCompanyRequest_businessIdentifiers_taxIDs",
+  "Properties": [
+    {
+      "Id": "jq8s",
+      "Name": "country",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "wGnU",
+      "Name": "taxId",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "xcVL",
+      "Name": "taxIdType",
+      "Type": "Compiled:String"
+    }
+  ]
+}

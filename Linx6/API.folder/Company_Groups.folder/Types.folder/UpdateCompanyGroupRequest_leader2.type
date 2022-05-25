@@ -1,0 +1,16 @@
+{
+  "Id": "Iqf2",
+  "Name": "UpdateCompanyGroupRequest_leader2",
+  "Properties": [
+    {
+      "Id": "f71D",
+      "Name": "code",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "EI0T",
+      "Name": "uuid",
+      "Type": "Compiled:String"
+    }
+  ]
+}

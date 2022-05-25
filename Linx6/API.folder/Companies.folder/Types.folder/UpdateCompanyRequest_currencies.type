@@ -1,0 +1,31 @@
+{
+  "Id": "yfK9",
+  "Name": "UpdateCompanyRequest_currencies",
+  "Properties": [
+    {
+      "Id": "ZbXk",
+      "Name": "accountingCalendar",
+      "Type": "Custom:cpc8"
+    },
+    {
+      "Id": "FHcV",
+      "Name": "currency",
+      "Type": "Custom:cpc8"
+    },
+    {
+      "Id": "mQPo",
+      "Name": "glCurrency",
+      "Type": "Custom:cpc8"
+    },
+    {
+      "Id": "LTFz",
+      "Name": "glCurrencyRateType",
+      "Type": "Custom:cpc8"
+    },
+    {
+      "Id": "Pp2G",
+      "Name": "ndfSettlementCurrency",
+      "Type": "Compiled:String"
+    }
+  ]
+}

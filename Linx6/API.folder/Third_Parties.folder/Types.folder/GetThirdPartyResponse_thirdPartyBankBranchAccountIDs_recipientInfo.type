@@ -1,0 +1,16 @@
+{
+  "Id": "cEJK",
+  "Name": "GetThirdPartyResponse_thirdPartyBankBranchAccountIDs_recipientInfo",
+  "Properties": [
+    {
+      "Id": "LGW3",
+      "Name": "recipientId",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "HqO6",
+      "Name": "status",
+      "Type": "Compiled:String"
+    }
+  ]
+}

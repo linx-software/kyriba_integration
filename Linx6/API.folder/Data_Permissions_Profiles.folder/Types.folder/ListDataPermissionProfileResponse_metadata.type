@@ -1,0 +1,31 @@
+{
+  "Id": "bOQ4",
+  "Name": "ListDataPermissionProfileResponse_metadata",
+  "Properties": [
+    {
+      "Id": "9872",
+      "Name": "links",
+      "Type": "Custom:TPsC"
+    },
+    {
+      "Id": "58dq",
+      "Name": "numberOfTotalResults",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "32cR",
+      "Name": "pageLimit",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "1WPn",
+      "Name": "pageOffset",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "brUk",
+      "Name": "pageResults",
+      "Type": "Compiled:Int64"
+    }
+  ]
+}

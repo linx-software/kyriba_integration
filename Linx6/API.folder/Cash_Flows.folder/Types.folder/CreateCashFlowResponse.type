@@ -1,0 +1,11 @@
+{
+  "Id": "fVQY",
+  "Name": "CreateCashFlowResponse",
+  "Properties": [
+    {
+      "Id": "dAVY",
+      "Name": "uuid",
+      "Type": "Compiled:String"
+    }
+  ]
+}

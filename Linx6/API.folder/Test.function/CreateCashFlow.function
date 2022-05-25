@@ -1,0 +1,35 @@
+{
+  "Properties": [
+    {
+      "Id": "fcpO",
+      "Type": "Custom:9HSL",
+      "ValueUsage": "RuntimeRead",
+      "Value": "{\"account\":{\"code\":\"C01-SCB-USD\"}, \"flowCode\":{\"code\":\"+AR\"}, \"date\":{\"transactionDate\":\"2022-01-25\", \"valueDate\":\"2022-01-25\", \"accountingDate\":\"2022-01-25\"}, \"flowAmount\":{\"currency\":{\"code\":\"USD\"}, \"amount\":\"1002\"}, \"accountAmount\":{\"accountAmount\":\"1002\"}, \"description\":\"Testing2\", \"reference\":\"Testing2\"}",
+      "ValueType": "String"
+    },
+    {
+      "Id": "ParameterNameMapping",
+      "Type": "Compiled:System.Collections.Generic.IDictionary`2[[System.String, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]], System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+      "ValueUsage": "DesignTime",
+      "Value": {
+        "fcpO": "CashFlow"
+      },
+      "ValueType": "System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]], System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e"
+    },
+    {
+      "Id": "Process",
+      "Type": "Compiled:Linx.IProcessReference",
+      "ValueUsage": "DesignTime",
+      "Value": {
+        "Id": "pBRs",
+        "Name": "API.Cash_Flows.CreateCashFlow",
+        "Parameters": "Generated:UFJi",
+        "Result": "Generated:DOj8",
+        "IsValid": true,
+        "QualifiedPath": "FL:API→FL:Cash_Flows→PC:CreateCashFlow"
+      },
+      "ValueType": "Linx.ProcessReference"
+    }
+  ],
+  "Result": "Generated:DOj8"
+}

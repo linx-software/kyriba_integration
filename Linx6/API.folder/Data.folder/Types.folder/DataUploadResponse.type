@@ -1,0 +1,21 @@
+{
+  "Id": "8QP4",
+  "Name": "DataUploadResponse",
+  "Properties": [
+    {
+      "Id": "cxzp",
+      "Name": "fileId",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "dGEu",
+      "Name": "fileName",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "SmBz",
+      "Name": "hashSum",
+      "Type": "Compiled:String"
+    }
+  ]
+}

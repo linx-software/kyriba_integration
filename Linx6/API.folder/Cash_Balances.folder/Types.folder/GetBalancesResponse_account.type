@@ -1,0 +1,21 @@
+{
+  "Id": "BzA7",
+  "Name": "GetBalancesResponse_account",
+  "Properties": [
+    {
+      "Id": "aLRk",
+      "Name": "code",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "39YB",
+      "Name": "statementIdentifier",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "hA8n",
+      "Name": "uuid",
+      "Type": "Compiled:String"
+    }
+  ]
+}

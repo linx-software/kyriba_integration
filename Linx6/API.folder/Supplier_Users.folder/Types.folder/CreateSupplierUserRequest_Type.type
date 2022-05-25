@@ -1,0 +1,16 @@
+{
+  "Id": "iJDY",
+  "Name": "CreateSupplierUserRequest_Type",
+  "Properties": [
+    {
+      "Id": "kOpU",
+      "Name": "code",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "htFz",
+      "Name": "uuid",
+      "Type": "Compiled:String"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "Id": "QWsP",
+  "Name": "ListUserGroupsResponse_metadata",
+  "Properties": [
+    {
+      "Id": "umJK",
+      "Name": "links",
+      "Type": "Custom:6N8H"
+    },
+    {
+      "Id": "ZNGX",
+      "Name": "numberOfTotalResults",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "0EXE",
+      "Name": "pageLimit",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "xbyH",
+      "Name": "pageOffset",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "d9pz",
+      "Name": "pageResults",
+      "Type": "Compiled:Int64"
+    }
+  ]
+}

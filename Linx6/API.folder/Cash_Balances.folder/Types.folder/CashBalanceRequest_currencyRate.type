@@ -1,0 +1,21 @@
+{
+  "Id": "AM5p",
+  "Name": "CashBalanceRequest_currencyRate",
+  "Properties": [
+    {
+      "Id": "Zncl",
+      "Name": "date",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "Bpuv",
+      "Name": "mode",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "WPUx",
+      "Name": "type",
+      "Type": "Custom:ttcG"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "Id": "DGzx",
+  "Name": "UpdateCompanyRequest_auditor",
+  "Properties": [
+    {
+      "Id": "QqVb",
+      "Name": "address",
+      "Type": "Custom:nRzy"
+    },
+    {
+      "Id": "px1Q",
+      "Name": "advisoryFirm",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "pDqx",
+      "Name": "name",
+      "Type": "Compiled:String"
+    }
+  ]
+}

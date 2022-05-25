@@ -1,0 +1,16 @@
+{
+  "Id": "X4sX",
+  "Name": "ListThirdPartyResponse_results_address_country",
+  "Properties": [
+    {
+      "Id": "5VDL",
+      "Name": "code",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "nuXH",
+      "Name": "uuid",
+      "Type": "Compiled:String"
+    }
+  ]
+}

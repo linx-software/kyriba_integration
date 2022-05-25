@@ -1,0 +1,30 @@
+[
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "Nca3",
+      "Properties": [
+        {
+          "Id": "NFZX",
+          "Name": "Company",
+          "Type": "Custom:Gbui",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "ZOtg",
+      "Properties": [
+        {
+          "Id": "GGRx",
+          "Name": "Response",
+          "Type": "Custom:llVy",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  }
+]

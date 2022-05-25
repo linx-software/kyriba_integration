@@ -1,0 +1,31 @@
+{
+  "Id": "klBm",
+  "Name": "GetThirdPartyResponse_contact",
+  "Properties": [
+    {
+      "Id": "JBzd",
+      "Name": "name",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "CPOV",
+      "Name": "department",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "2jjz",
+      "Name": "phoneNumber",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "X07O",
+      "Name": "faxNumber",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "MCpU",
+      "Name": "email",
+      "Type": "Compiled:String"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "462U",
+      "Properties": [
+        {
+          "Id": "Hhjo",
+          "Name": "Fields",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        },
+        {
+          "Id": "1cBB",
+          "Name": "TemplateReference",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "Pjyo",
+      "Properties": [
+        {
+          "Id": "VfTG",
+          "Name": "Tasks",
+          "Type": "List:Custom:Opme",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  }
+]

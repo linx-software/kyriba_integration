@@ -1,0 +1,30 @@
+[
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "Q418",
+      "Properties": [
+        {
+          "Id": "AOlx",
+          "Name": "ThirdParty",
+          "Type": "Custom:8ATN",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "QPLD",
+      "Properties": [
+        {
+          "Id": "yjwk",
+          "Name": "Response",
+          "Type": "Custom:llVy",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  }
+]

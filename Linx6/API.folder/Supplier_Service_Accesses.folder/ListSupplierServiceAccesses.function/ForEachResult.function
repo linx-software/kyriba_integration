@@ -1,0 +1,24 @@
+{
+  "ExecutionPaths": [
+    {
+      "PluginId": "Loop",
+      "Name": "Loop",
+      "Result": "List:Custom:hs78",
+      "Order": 0,
+      "IterationHint": "ZeroOrMore"
+    }
+  ],
+  "Properties": [
+    {
+      "Id": "List",
+      "Type": "List:Custom:hs78",
+      "ValueUsage": "RuntimeRead",
+      "Value": {
+        "Expression": "GetSupplierServiceAccesses.ResponseBody.results",
+        "CompiledExpression": "={0}",
+        "Type": "List:Custom:hs78"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    }
+  ]
+}

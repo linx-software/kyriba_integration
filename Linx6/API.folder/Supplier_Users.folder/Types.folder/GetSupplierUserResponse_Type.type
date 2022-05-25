@@ -1,0 +1,16 @@
+{
+  "Id": "vZVt",
+  "Name": "GetSupplierUserResponse_Type",
+  "Properties": [
+    {
+      "Id": "wjh7",
+      "Name": "code",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "JLEE",
+      "Name": "uuid",
+      "Type": "Compiled:String"
+    }
+  ]
+}

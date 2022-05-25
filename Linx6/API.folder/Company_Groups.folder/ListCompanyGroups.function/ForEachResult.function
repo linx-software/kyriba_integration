@@ -1,0 +1,24 @@
+{
+  "ExecutionPaths": [
+    {
+      "PluginId": "Loop",
+      "Name": "Loop",
+      "Result": "List:Custom:R2nS",
+      "Order": 0,
+      "IterationHint": "ZeroOrMore"
+    }
+  ],
+  "Properties": [
+    {
+      "Id": "List",
+      "Type": "List:Custom:R2nS",
+      "ValueUsage": "RuntimeRead",
+      "Value": {
+        "Expression": "GetListOfCompanyGroups.ResponseBody.results",
+        "CompiledExpression": "={0}",
+        "Type": "List:Custom:R2nS"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    }
+  ]
+}

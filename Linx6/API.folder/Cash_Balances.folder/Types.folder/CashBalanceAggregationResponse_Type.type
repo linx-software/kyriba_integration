@@ -1,0 +1,16 @@
+{
+  "Id": "fg75",
+  "Name": "CashBalanceAggregationResponse_Type",
+  "Properties": [
+    {
+      "Id": "IBk8",
+      "Name": "code",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "xwa6",
+      "Name": "uuid",
+      "Type": "Compiled:String"
+    }
+  ]
+}

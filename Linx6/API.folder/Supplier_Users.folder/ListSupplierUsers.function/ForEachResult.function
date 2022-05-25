@@ -1,0 +1,24 @@
+{
+  "ExecutionPaths": [
+    {
+      "PluginId": "Loop",
+      "Name": "Loop",
+      "Result": "List:Custom:bCy0",
+      "Order": 0,
+      "IterationHint": "ZeroOrMore"
+    }
+  ],
+  "Properties": [
+    {
+      "Id": "List",
+      "Type": "List:Custom:bCy0",
+      "ValueUsage": "RuntimeRead",
+      "Value": {
+        "Expression": "GetSupplierUsers.ResponseBody.results",
+        "CompiledExpression": "={0}",
+        "Type": "List:Custom:bCy0"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    }
+  ]
+}

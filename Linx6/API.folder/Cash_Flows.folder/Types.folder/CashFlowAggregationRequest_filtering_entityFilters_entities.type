@@ -1,0 +1,16 @@
+{
+  "Id": "tgja",
+  "Name": "CashFlowAggregationRequest_filtering_entityFilters_entities",
+  "Properties": [
+    {
+      "Id": "UcTX",
+      "Name": "code",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "3k3H",
+      "Name": "uuid",
+      "Type": "Compiled:String"
+    }
+  ]
+}

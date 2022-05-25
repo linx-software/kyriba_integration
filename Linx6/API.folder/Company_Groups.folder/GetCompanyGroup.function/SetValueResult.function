@@ -1,0 +1,26 @@
+{
+  "Properties": [
+    {
+      "Id": "Source",
+      "Type": "Custom:kUEK",
+      "ValueUsage": "RuntimeRead",
+      "Value": {
+        "Expression": "CallGetCompanyGroup.ResponseBody",
+        "CompiledExpression": "={0}",
+        "Type": "Custom:kUEK"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    },
+    {
+      "Id": "Target",
+      "Type": "Custom:kUEK",
+      "ValueUsage": "RuntimeWrite",
+      "Value": {
+        "Expression": "$.Result.CompanyGroup",
+        "CompiledExpression": "={0}",
+        "Type": "Custom:kUEK"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    }
+  ]
+}

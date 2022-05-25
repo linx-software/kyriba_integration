@@ -1,0 +1,31 @@
+{
+  "Id": "rKdr",
+  "Name": "CashFlowListResponse_metadata",
+  "Properties": [
+    {
+      "Id": "9wpR",
+      "Name": "links",
+      "Type": "Custom:JmgR"
+    },
+    {
+      "Id": "EzL4",
+      "Name": "numberOfTotalResults",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "xVws",
+      "Name": "pageLimit",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "rSBm",
+      "Name": "pageOffset",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "NVC7",
+      "Name": "pageResults",
+      "Type": "Compiled:Int64"
+    }
+  ]
+}

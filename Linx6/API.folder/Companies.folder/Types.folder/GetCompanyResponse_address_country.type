@@ -1,0 +1,16 @@
+{
+  "Id": "hMmD",
+  "Name": "GetCompanyResponse_address_country",
+  "Properties": [
+    {
+      "Id": "8zYy",
+      "Name": "code",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "Rznr",
+      "Name": "uuid",
+      "Type": "Compiled:String"
+    }
+  ]
+}

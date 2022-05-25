@@ -1,0 +1,21 @@
+{
+  "Id": "TPsC",
+  "Name": "ListDataPermissionProfileResponse_metadata_links",
+  "Properties": [
+    {
+      "Id": "SncA",
+      "Name": "current",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "Eqhc",
+      "Name": "next",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "azF7",
+      "Name": "prev",
+      "Type": "Compiled:String"
+    }
+  ]
+}

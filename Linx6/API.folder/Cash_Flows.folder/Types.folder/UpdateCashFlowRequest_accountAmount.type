@@ -1,0 +1,26 @@
+{
+  "Id": "qYXd",
+  "Name": "UpdateCashFlowRequest_accountAmount",
+  "Properties": [
+    {
+      "Id": "voE3",
+      "Name": "accountAmount",
+      "Type": "Compiled:Double"
+    },
+    {
+      "Id": "0QmR",
+      "Name": "feeAmount",
+      "Type": "Compiled:Double"
+    },
+    {
+      "Id": "Bezk",
+      "Name": "interestAmount",
+      "Type": "Compiled:Double"
+    },
+    {
+      "Id": "V9yu",
+      "Name": "commissionAmount",
+      "Type": "Compiled:Double"
+    }
+  ]
+}

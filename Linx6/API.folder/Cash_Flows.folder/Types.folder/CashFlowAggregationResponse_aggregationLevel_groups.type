@@ -1,0 +1,21 @@
+{
+  "Id": "n8ss",
+  "Name": "CashFlowAggregationResponse_aggregationLevel_groups",
+  "Properties": [
+    {
+      "Id": "tC0j",
+      "Name": "entity",
+      "Type": "Custom:WURK"
+    },
+    {
+      "Id": "YaSG",
+      "Name": "date",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "1uic",
+      "Name": "aggregation",
+      "Type": "Custom:h8jv"
+    }
+  ]
+}

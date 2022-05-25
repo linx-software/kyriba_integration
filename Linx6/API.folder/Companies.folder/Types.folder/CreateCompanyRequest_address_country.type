@@ -1,0 +1,16 @@
+{
+  "Id": "Fq9q",
+  "Name": "CreateCompanyRequest_address_country",
+  "Properties": [
+    {
+      "Id": "XM41",
+      "Name": "code",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "U99e",
+      "Name": "uuid",
+      "Type": "Compiled:String"
+    }
+  ]
+}

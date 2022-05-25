@@ -1,0 +1,26 @@
+{
+  "Properties": [
+    {
+      "Id": "Source",
+      "Type": "List:Custom:Opme",
+      "ValueUsage": "RuntimeRead",
+      "Value": {
+        "Expression": "CallCreateTask.ResponseBody",
+        "CompiledExpression": "={0}",
+        "Type": "List:Custom:Opme"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    },
+    {
+      "Id": "Target",
+      "Type": "List:Custom:Opme",
+      "ValueUsage": "RuntimeWrite",
+      "Value": {
+        "Expression": "$.Result.Tasks",
+        "CompiledExpression": "={0}",
+        "Type": "List:Custom:Opme"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    }
+  ]
+}

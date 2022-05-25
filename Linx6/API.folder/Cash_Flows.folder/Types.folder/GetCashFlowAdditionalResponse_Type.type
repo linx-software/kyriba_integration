@@ -1,0 +1,16 @@
+{
+  "Id": "YKix",
+  "Name": "GetCashFlowAdditionalResponse_Type",
+  "Properties": [
+    {
+      "Id": "qHbq",
+      "Name": "amount",
+      "Type": "Compiled:Double"
+    },
+    {
+      "Id": "FuZG",
+      "Name": "currency",
+      "Type": "Custom:LEsk"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "Id": "aIeA",
+  "Name": "GetCompanyResponse_businessIdentifiers_taxIDs",
+  "Properties": [
+    {
+      "Id": "CMEt",
+      "Name": "country",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "9Pae",
+      "Name": "taxId",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "Lswl",
+      "Name": "taxIdType",
+      "Type": "Compiled:String"
+    }
+  ]
+}

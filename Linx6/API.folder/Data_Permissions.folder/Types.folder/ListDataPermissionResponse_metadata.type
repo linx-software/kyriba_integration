@@ -1,0 +1,31 @@
+{
+  "Id": "AjZx",
+  "Name": "ListDataPermissionResponse_metadata",
+  "Properties": [
+    {
+      "Id": "i9hs",
+      "Name": "links",
+      "Type": "Custom:xU3N"
+    },
+    {
+      "Id": "QA5W",
+      "Name": "numberOfTotalResults",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "slrc",
+      "Name": "pageLimit",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "u2gR",
+      "Name": "pageOffset",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "fT35",
+      "Name": "pageResults",
+      "Type": "Compiled:Int64"
+    }
+  ]
+}

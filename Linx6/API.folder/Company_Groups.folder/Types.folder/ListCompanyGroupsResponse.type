@@ -1,0 +1,16 @@
+{
+  "Id": "gmez",
+  "Name": "ListCompanyGroupsResponse",
+  "Properties": [
+    {
+      "Id": "u2gi",
+      "Name": "metadata",
+      "Type": "Custom:ZEDm"
+    },
+    {
+      "Id": "7n0t",
+      "Name": "results",
+      "Type": "List:Custom:R2nS"
+    }
+  ]
+}

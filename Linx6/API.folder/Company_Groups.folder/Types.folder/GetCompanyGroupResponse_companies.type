@@ -1,0 +1,16 @@
+{
+  "Id": "TfHd",
+  "Name": "GetCompanyGroupResponse_companies",
+  "Properties": [
+    {
+      "Id": "jfi8",
+      "Name": "uuid",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "Xqyn",
+      "Name": "code",
+      "Type": "Compiled:String"
+    }
+  ]
+}

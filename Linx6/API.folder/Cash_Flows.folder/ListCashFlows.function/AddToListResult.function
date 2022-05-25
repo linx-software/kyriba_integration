@@ -1,0 +1,26 @@
+{
+  "Properties": [
+    {
+      "Id": "List",
+      "Type": "List:Custom:Hi5V",
+      "ValueUsage": "RuntimeRead",
+      "Value": {
+        "Expression": "$.Result.CashFlows",
+        "CompiledExpression": "={0}",
+        "Type": "List:Custom:Hi5V"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    },
+    {
+      "Id": "Value",
+      "Type": "Custom:Hi5V",
+      "ValueUsage": "RuntimeRead",
+      "Value": {
+        "Expression": "ForEachResult.Loop",
+        "CompiledExpression": "={0}",
+        "Type": "Custom:Hi5V"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    }
+  ]
+}

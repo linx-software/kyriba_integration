@@ -1,0 +1,30 @@
+[
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "Ko5E",
+      "Properties": [
+        {
+          "Id": "2ncF",
+          "Name": "TaskUUID",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "9GRQ",
+      "Properties": [
+        {
+          "Id": "SZny",
+          "Name": "TaskStatus",
+          "Type": "Custom:7MBk",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  }
+]

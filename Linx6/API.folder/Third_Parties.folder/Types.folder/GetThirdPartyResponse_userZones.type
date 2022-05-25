@@ -1,0 +1,31 @@
+{
+  "Id": "bkYT",
+  "Name": "GetThirdPartyResponse_userZones",
+  "Properties": [
+    {
+      "Id": "2Mxs",
+      "Name": "userZone1",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "H6pU",
+      "Name": "userZone2",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "8rfG",
+      "Name": "userZone3",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "Jf4o",
+      "Name": "userZone4",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "7QM5",
+      "Name": "userZone5",
+      "Type": "Compiled:String"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "Id": "5O3X",
+  "Name": "UpdateThirdPartyRequest_thirdPartyBankBranchAccountIDs_bankAccountID",
+  "Properties": [
+    {
+      "Id": "NdCX",
+      "Name": "banStructure",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "L1Cj",
+      "Name": "value",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "81EJ",
+      "Name": "accountNature",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "8tz7",
+      "Name": "description",
+      "Type": "Compiled:String"
+    }
+  ]
+}

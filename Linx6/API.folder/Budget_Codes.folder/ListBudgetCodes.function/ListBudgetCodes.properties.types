@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "PZnS",
+      "Properties": [
+        {
+          "Id": "bVV7",
+          "Name": "filter",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        },
+        {
+          "Id": "MlOc",
+          "Name": "sort",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "MTpH",
+      "Properties": [
+        {
+          "Id": "K9aZ",
+          "Name": "BudgetCodes",
+          "Type": "List:Custom:IRo9",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  }
+]

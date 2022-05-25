@@ -1,0 +1,30 @@
+[
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "RHLW",
+      "Properties": [
+        {
+          "Id": "BENW",
+          "Name": "UUID",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "GidS",
+      "Properties": [
+        {
+          "Id": "4TAL",
+          "Name": "User",
+          "Type": "Custom:GYh9",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  }
+]

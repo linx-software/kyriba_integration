@@ -1,0 +1,31 @@
+{
+  "Id": "BqRL",
+  "Name": "CreateThirdPartyRequest_userZones",
+  "Properties": [
+    {
+      "Id": "fmSW",
+      "Name": "userZone1",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "DS3C",
+      "Name": "userZone2",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "bIls",
+      "Name": "userZone3",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "dxlU",
+      "Name": "userZone4",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "n43X",
+      "Name": "userZone5",
+      "Type": "Compiled:String"
+    }
+  ]
+}

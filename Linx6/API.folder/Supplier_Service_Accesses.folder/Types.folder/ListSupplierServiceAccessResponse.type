@@ -1,0 +1,16 @@
+{
+  "Id": "APap",
+  "Name": "ListSupplierServiceAccessResponse",
+  "Properties": [
+    {
+      "Id": "IRzO",
+      "Name": "metadata",
+      "Type": "Custom:A2qp"
+    },
+    {
+      "Id": "9EM8",
+      "Name": "results",
+      "Type": "List:Custom:hs78"
+    }
+  ]
+}

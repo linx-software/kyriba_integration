@@ -1,0 +1,16 @@
+{
+  "Id": "RUr9",
+  "Name": "GetBalancesResponse_cashBalance_balanceDate",
+  "Properties": [
+    {
+      "Id": "j4UT",
+      "Name": "date",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "T4yP",
+      "Name": "dateType",
+      "Type": "Compiled:String"
+    }
+  ]
+}

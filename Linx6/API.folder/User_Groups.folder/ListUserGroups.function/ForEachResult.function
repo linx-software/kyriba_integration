@@ -1,0 +1,24 @@
+{
+  "ExecutionPaths": [
+    {
+      "PluginId": "Loop",
+      "Name": "Loop",
+      "Result": "List:Custom:wgsD",
+      "Order": 0,
+      "IterationHint": "ZeroOrMore"
+    }
+  ],
+  "Properties": [
+    {
+      "Id": "List",
+      "Type": "List:Custom:wgsD",
+      "ValueUsage": "RuntimeRead",
+      "Value": {
+        "Expression": "GetUserGroups.ResponseBody.results",
+        "CompiledExpression": "={0}",
+        "Type": "List:Custom:wgsD"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    }
+  ]
+}

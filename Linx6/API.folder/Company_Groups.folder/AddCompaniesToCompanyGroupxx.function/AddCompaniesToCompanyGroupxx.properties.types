@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "x7NR",
+      "Properties": [
+        {
+          "Id": "1WSa",
+          "Name": "CompanyGroupCode",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        },
+        {
+          "Id": "PuZe",
+          "Name": "Companies",
+          "Type": "List:Custom:TfHd",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "S5o4",
+      "Properties": [
+        {
+          "Id": "Gl6j",
+          "Name": "Response",
+          "Type": "Custom:llVy",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  }
+]

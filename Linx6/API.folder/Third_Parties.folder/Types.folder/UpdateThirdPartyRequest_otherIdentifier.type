@@ -1,0 +1,16 @@
+{
+  "Id": "tg1Z",
+  "Name": "UpdateThirdPartyRequest_otherIdentifier",
+  "Properties": [
+    {
+      "Id": "y2gx",
+      "Name": "otherIdentifierType",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "AXFW",
+      "Name": "otherIdentifierValue",
+      "Type": "Compiled:String"
+    }
+  ]
+}

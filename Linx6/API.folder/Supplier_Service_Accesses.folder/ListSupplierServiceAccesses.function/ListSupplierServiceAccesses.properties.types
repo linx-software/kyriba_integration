@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "qPzl",
+      "Properties": [
+        {
+          "Id": "j1Fl",
+          "Name": "filter",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        },
+        {
+          "Id": "pfI0",
+          "Name": "sort",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "Z92T",
+      "Properties": [
+        {
+          "Id": "LFj3",
+          "Name": "SupplierServiceAccesses",
+          "Type": "List:Custom:hs78",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  }
+]

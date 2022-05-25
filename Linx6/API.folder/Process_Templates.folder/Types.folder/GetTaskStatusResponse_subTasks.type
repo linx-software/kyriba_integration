@@ -1,0 +1,26 @@
+{
+  "Id": "URS1",
+  "Name": "GetTaskStatusResponse_subTasks",
+  "Properties": [
+    {
+      "Id": "pbVv",
+      "Name": "label",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "738l",
+      "Name": "status",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "XR7F",
+      "Name": "subTasks",
+      "Type": "List:Compiled:String"
+    },
+    {
+      "Id": "5O4b",
+      "Name": "taskUuid",
+      "Type": "Compiled:String"
+    }
+  ]
+}

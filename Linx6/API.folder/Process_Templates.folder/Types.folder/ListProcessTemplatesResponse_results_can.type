@@ -1,0 +1,16 @@
+{
+  "Id": "kkAA",
+  "Name": "ListProcessTemplatesResponse_results_can",
+  "Properties": [
+    {
+      "Id": "kARJ",
+      "Name": "code",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "WQ56",
+      "Name": "uuid",
+      "Type": "Compiled:String"
+    }
+  ]
+}

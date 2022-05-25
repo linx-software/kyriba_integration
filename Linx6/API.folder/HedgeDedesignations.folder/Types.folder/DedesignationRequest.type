@@ -1,0 +1,16 @@
+{
+  "Id": "P3Rd",
+  "Name": "DedesignationRequest",
+  "Properties": [
+    {
+      "Id": "DEIq",
+      "Name": "date",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "LKM8",
+      "Name": "deDesignatedValue",
+      "Type": "Compiled:String"
+    }
+  ]
+}

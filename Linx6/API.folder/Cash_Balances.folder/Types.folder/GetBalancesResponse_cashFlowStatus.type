@@ -1,0 +1,26 @@
+{
+  "Id": "ErdF",
+  "Name": "GetBalancesResponse_cashFlowStatus",
+  "Properties": [
+    {
+      "Id": "pvlx",
+      "Name": "actual",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "TMdO",
+      "Name": "confirmedForecasts",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "VGpz",
+      "Name": "estimatedForecasts",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "MM5v",
+      "Name": "intraday",
+      "Type": "Compiled:Boolean"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "Id": "YN9s",
+  "Name": "UpdateCompanyRequest_legal",
+  "Properties": [
+    {
+      "Id": "4kxo",
+      "Name": "capital",
+      "Type": "Compiled:Double"
+    },
+    {
+      "Id": "q4QP",
+      "Name": "form",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "HypZ",
+      "Name": "freeText1",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "8YaN",
+      "Name": "freeText2",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "zIt0",
+      "Name": "freeText3",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "Eq75",
+      "Name": "freeText4",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "Tzmp",
+      "Name": "freeText5",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "yiZd",
+      "Name": "representative1",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "k6BD",
+      "Name": "representative1Position",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "vnAg",
+      "Name": "representative2",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "qdZg",
+      "Name": "representative2Position",
+      "Type": "Compiled:String"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "Id": "HMG6",
+  "Name": "CreateCashFlowRequest_date",
+  "Properties": [
+    {
+      "Id": "3XCX",
+      "Name": "transactionDate",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "HLrq",
+      "Name": "valueDate",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "zczn",
+      "Name": "accountingDate",
+      "Type": "Compiled:String"
+    }
+  ]
+}

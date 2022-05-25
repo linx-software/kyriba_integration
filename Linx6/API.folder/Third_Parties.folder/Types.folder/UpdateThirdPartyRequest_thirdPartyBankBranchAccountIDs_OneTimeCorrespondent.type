@@ -1,0 +1,36 @@
+{
+  "Id": "GkKz",
+  "Name": "UpdateThirdPartyRequest_thirdPartyBankBranchAccountIDs_OneTimeCorrespondent",
+  "Properties": [
+    {
+      "Id": "rd9C",
+      "Name": "oneTime",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "ihVQ",
+      "Name": "correspondentDescription",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "3nlb",
+      "Name": "correspondentBIC",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "MXPi",
+      "Name": "country",
+      "Type": "Custom:V1NA"
+    },
+    {
+      "Id": "ytDg",
+      "Name": "correspondentOtherIdentifier",
+      "Type": "Custom:tg1Z"
+    },
+    {
+      "Id": "lxs1",
+      "Name": "account",
+      "Type": "Compiled:String"
+    }
+  ]
+}

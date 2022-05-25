@@ -1,0 +1,46 @@
+{
+  "Id": "ralj",
+  "Name": "GetCompanyResponse_businessIdentifiers",
+  "Properties": [
+    {
+      "Id": "VPGZ",
+      "Name": "consolidationCode",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "zJO6",
+      "Name": "corpIDCode",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "PBoh",
+      "Name": "lei",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "vObG",
+      "Name": "otherIdentifierType",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "IWbA",
+      "Name": "otherIdentifierValue",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "zEWB",
+      "Name": "sepaCreditorIdentifier",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "uwiC",
+      "Name": "taxIDs",
+      "Type": "List:Custom:aIeA"
+    },
+    {
+      "Id": "NuhV",
+      "Name": "txp",
+      "Type": "Compiled:String"
+    }
+  ]
+}

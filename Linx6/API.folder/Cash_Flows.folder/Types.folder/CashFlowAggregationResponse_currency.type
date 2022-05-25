@@ -1,0 +1,16 @@
+{
+  "Id": "WURK",
+  "Name": "CashFlowAggregationResponse_currency",
+  "Properties": [
+    {
+      "Id": "Nq6A",
+      "Name": "code",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "7cpz",
+      "Name": "uuid",
+      "Type": "Compiled:String"
+    }
+  ]
+}
