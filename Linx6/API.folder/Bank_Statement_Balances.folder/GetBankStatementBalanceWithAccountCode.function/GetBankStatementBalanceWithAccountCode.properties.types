@@ -1,0 +1,42 @@
+[
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "i72N",
+      "Properties": [
+        {
+          "Id": "1gUh",
+          "Name": "AccountCode",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        },
+        {
+          "Id": "NLvF",
+          "Name": "Date",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        },
+        {
+          "Id": "ezFY",
+          "Name": "Type",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "a5cC",
+      "Properties": [
+        {
+          "Id": "3Npj",
+          "Name": "BankStatementBalance",
+          "Type": "Custom:10o4",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  }
+]

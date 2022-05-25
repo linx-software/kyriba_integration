@@ -1,0 +1,42 @@
+[
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "ZBXw",
+      "Properties": [
+        {
+          "Id": "GEox",
+          "Name": "StatementUUID",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        },
+        {
+          "Id": "OIPR",
+          "Name": "Date",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        },
+        {
+          "Id": "8Fqc",
+          "Name": "Type",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "nCff",
+      "Properties": [
+        {
+          "Id": "NJTc",
+          "Name": "BankStatementBalance",
+          "Type": "Custom:10o4",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  }
+]

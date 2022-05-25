@@ -1,0 +1,16 @@
+{
+  "Id": "CY3b",
+  "Name": "UpdateBankRequest_cashExposureLimit",
+  "Properties": [
+    {
+      "Id": "h8DE",
+      "Name": "currency",
+      "Type": "Custom:VuXl"
+    },
+    {
+      "Id": "8yBg",
+      "Name": "value",
+      "Type": "Compiled:Double"
+    }
+  ]
+}

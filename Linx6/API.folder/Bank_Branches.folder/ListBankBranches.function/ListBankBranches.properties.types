@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "dvR7",
+      "Properties": [
+        {
+          "Id": "y10K",
+          "Name": "sort",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        },
+        {
+          "Id": "LeJF",
+          "Name": "filter",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "gyJr",
+      "Properties": [
+        {
+          "Id": "P6xN",
+          "Name": "BankBranches",
+          "Type": "List:Custom:j29f",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  }
+]

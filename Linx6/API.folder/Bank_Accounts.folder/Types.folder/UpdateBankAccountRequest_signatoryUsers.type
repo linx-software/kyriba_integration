@@ -1,0 +1,16 @@
+{
+  "Id": "Pstp",
+  "Name": "UpdateBankAccountRequest_signatoryUsers",
+  "Properties": [
+    {
+      "Id": "BbrV",
+      "Name": "code",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "NqAv",
+      "Name": "uuid",
+      "Type": "Compiled:String"
+    }
+  ]
+}

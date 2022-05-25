@@ -1,0 +1,111 @@
+{
+  "Id": "DYLC",
+  "Name": "CreateBankBranchRequest",
+  "Properties": [
+    {
+      "Id": "SZlP",
+      "Name": "intercompany",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "xm7Y",
+      "Name": "intermediary",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "yeJl",
+      "Name": "mainCountryBranch",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "H3iF",
+      "Name": "code",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "O3DN",
+      "Name": "interfaceCode",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "nj7n",
+      "Name": "description",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "u7f5",
+      "Name": "description2",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "Fw52",
+      "Name": "bank",
+      "Type": "Custom:q9sl"
+    },
+    {
+      "Id": "Sxfv",
+      "Name": "accountLocation",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "Cuq6",
+      "Name": "bic",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "bKBp",
+      "Name": "corpIDCode",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "fNed",
+      "Name": "otherIdentifier",
+      "Type": "Custom:ajcf"
+    },
+    {
+      "Id": "uNx2",
+      "Name": "address",
+      "Type": "Custom:dx0s"
+    },
+    {
+      "Id": "zZLZ",
+      "Name": "contact",
+      "Type": "Custom:i1lO"
+    },
+    {
+      "Id": "F0oA",
+      "Name": "calendar",
+      "Type": "Custom:q9sl"
+    },
+    {
+      "Id": "AZRF",
+      "Name": "timeZone",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "pmlz",
+      "Name": "cutOffTime",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "3S5o",
+      "Name": "responderCode",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "oLcj",
+      "Name": "serviceName",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "PQI5",
+      "Name": "memo",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "XPKo",
+      "Name": "userZone",
+      "Type": "Custom:zHAs"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+[
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "4TdH",
+      "Properties": [
+        {
+          "Id": "ez3N",
+          "Name": "AccountGroup",
+          "Type": "Custom:QhPy",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "wu4o",
+      "Properties": [
+        {
+          "Id": "yx7R",
+          "Name": "Response",
+          "Type": "Custom:llVy",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  }
+]

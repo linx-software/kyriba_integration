@@ -1,0 +1,31 @@
+{
+  "Id": "h73c",
+  "Name": "CreateBankAccountRequest_contact",
+  "Properties": [
+    {
+      "Id": "AnWl",
+      "Name": "name",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "3VKZ",
+      "Name": "department",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "aL7s",
+      "Name": "phoneNumber",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "2KKI",
+      "Name": "faxNumber",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "QuXZ",
+      "Name": "email",
+      "Type": "Compiled:String"
+    }
+  ]
+}

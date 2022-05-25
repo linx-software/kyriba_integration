@@ -1,0 +1,16 @@
+{
+  "Id": "9nBa",
+  "Name": "CreateAccountGroupRequest_poolingAccount2",
+  "Properties": [
+    {
+      "Id": "5i9E",
+      "Name": "code",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "gQmb",
+      "Name": "uuid",
+      "Type": "Compiled:String"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "Id": "Td8S",
+  "Name": "UpdateBankAccountRequest_establishments",
+  "Properties": [
+    {
+      "Id": "aSUI",
+      "Name": "establishment",
+      "Type": "Custom:lulp"
+    },
+    {
+      "Id": "eR7j",
+      "Name": "account",
+      "Type": "Custom:lulp"
+    }
+  ]
+}

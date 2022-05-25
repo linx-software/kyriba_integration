@@ -1,0 +1,24 @@
+{
+  "ExecutionPaths": [
+    {
+      "PluginId": "Loop",
+      "Name": "Loop",
+      "Result": "List:Custom:4tgS",
+      "Order": 0,
+      "IterationHint": "ZeroOrMore"
+    }
+  ],
+  "Properties": [
+    {
+      "Id": "List",
+      "Type": "List:Custom:4tgS",
+      "ValueUsage": "RuntimeRead",
+      "Value": {
+        "Expression": "GetListOfBanks.ResponseBody.results",
+        "CompiledExpression": "={0}",
+        "Type": "List:Custom:4tgS"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    }
+  ]
+}

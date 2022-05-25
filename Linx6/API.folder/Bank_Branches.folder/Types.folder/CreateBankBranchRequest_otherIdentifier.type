@@ -1,0 +1,16 @@
+{
+  "Id": "ajcf",
+  "Name": "CreateBankBranchRequest_otherIdentifier",
+  "Properties": [
+    {
+      "Id": "Kp9z",
+      "Name": "otherIdentifierType",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "Z7Ze",
+      "Name": "otherIdentifierValue",
+      "Type": "Compiled:String"
+    }
+  ]
+}

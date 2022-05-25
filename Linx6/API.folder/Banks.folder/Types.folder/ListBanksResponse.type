@@ -1,0 +1,16 @@
+{
+  "Id": "FOiZ",
+  "Name": "ListBanksResponse",
+  "Properties": [
+    {
+      "Id": "5UQD",
+      "Name": "metadata",
+      "Type": "Custom:CJnH"
+    },
+    {
+      "Id": "6Wik",
+      "Name": "results",
+      "Type": "List:Custom:4tgS"
+    }
+  ]
+}

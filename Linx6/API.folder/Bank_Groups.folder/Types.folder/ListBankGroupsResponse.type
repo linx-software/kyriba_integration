@@ -1,0 +1,16 @@
+{
+  "Id": "n2Ax",
+  "Name": "ListBankGroupsResponse",
+  "Properties": [
+    {
+      "Id": "M8fD",
+      "Name": "metadata",
+      "Type": "Custom:wNo5"
+    },
+    {
+      "Id": "gDRX",
+      "Name": "results",
+      "Type": "List:Custom:DqwP"
+    }
+  ]
+}

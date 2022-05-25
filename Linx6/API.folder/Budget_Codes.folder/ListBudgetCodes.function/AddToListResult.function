@@ -1,0 +1,26 @@
+{
+  "Properties": [
+    {
+      "Id": "List",
+      "Type": "List:Custom:IRo9",
+      "ValueUsage": "RuntimeRead",
+      "Value": {
+        "Expression": "$.Result.BudgetCodes",
+        "CompiledExpression": "={0}",
+        "Type": "List:Custom:IRo9"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    },
+    {
+      "Id": "Value",
+      "Type": "Custom:IRo9",
+      "ValueUsage": "RuntimeRead",
+      "Value": {
+        "Expression": "ForEachResult.Loop",
+        "CompiledExpression": "={0}",
+        "Type": "Custom:IRo9"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    }
+  ]
+}

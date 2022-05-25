@@ -1,0 +1,31 @@
+{
+  "Id": "pV1H",
+  "Name": "UpdateBankAccountRequest_contact",
+  "Properties": [
+    {
+      "Id": "q2oj",
+      "Name": "name",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "r0UP",
+      "Name": "department",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "syVC",
+      "Name": "phoneNumber",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "9R9s",
+      "Name": "faxNumber",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "Acdc",
+      "Name": "email",
+      "Type": "Compiled:String"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "Id": "890n",
+  "Name": "GetBankBranchResponse_otherIdentifier",
+  "Properties": [
+    {
+      "Id": "GlEd",
+      "Name": "otherIdentifierType",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "2blz",
+      "Name": "otherIdentifierValue",
+      "Type": "Compiled:String"
+    }
+  ]
+}

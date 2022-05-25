@@ -1,0 +1,16 @@
+{
+  "Id": "tDyl",
+  "Name": "CreateBankAccountRequest_accountPaymentInstructions_mainOneTimeCorrespondent_correspondentOtherIdentifier",
+  "Properties": [
+    {
+      "Id": "un5D",
+      "Name": "otherIdentifierType",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "sH3m",
+      "Name": "otherIdentifierValue",
+      "Type": "Compiled:String"
+    }
+  ]
+}

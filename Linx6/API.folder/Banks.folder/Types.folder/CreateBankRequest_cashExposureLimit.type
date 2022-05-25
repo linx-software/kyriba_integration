@@ -1,0 +1,16 @@
+{
+  "Id": "VioT",
+  "Name": "CreateBankRequest_cashExposureLimit",
+  "Properties": [
+    {
+      "Id": "01C8",
+      "Name": "currency",
+      "Type": "Custom:xpe3"
+    },
+    {
+      "Id": "YfAl",
+      "Name": "value",
+      "Type": "Compiled:Double"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "Id": "yt5U",
+  "Name": "GetAccountGroupResponse_poolingAccount2",
+  "Properties": [
+    {
+      "Id": "Ls8q",
+      "Name": "code",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "b2BH",
+      "Name": "uuid",
+      "Type": "Compiled:String"
+    }
+  ]
+}

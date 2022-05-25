@@ -1,0 +1,111 @@
+{
+  "Id": "oklu",
+  "Name": "GetBankBranchResponse",
+  "Properties": [
+    {
+      "Id": "1Egv",
+      "Name": "intercompany",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "DV2F",
+      "Name": "intermediary",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "d000",
+      "Name": "mainCountryBranch",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "wLgj",
+      "Name": "code",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "c0RL",
+      "Name": "interfaceCode",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "6Ml6",
+      "Name": "description",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "sfIj",
+      "Name": "description2",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "MNWf",
+      "Name": "bank",
+      "Type": "Custom:Iaty"
+    },
+    {
+      "Id": "LWqn",
+      "Name": "accountLocation",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "y6qx",
+      "Name": "bic",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "fXe1",
+      "Name": "corpIDCode",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "fJwE",
+      "Name": "otherIdentifier",
+      "Type": "Custom:890n"
+    },
+    {
+      "Id": "aaP8",
+      "Name": "address",
+      "Type": "Custom:O485"
+    },
+    {
+      "Id": "H9v4",
+      "Name": "contact",
+      "Type": "Custom:az2s"
+    },
+    {
+      "Id": "wnVm",
+      "Name": "calendar",
+      "Type": "Custom:Iaty"
+    },
+    {
+      "Id": "nlbN",
+      "Name": "timeZone",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "7a0D",
+      "Name": "cutOffTime",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "vIpq",
+      "Name": "responderCode",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "Qzod",
+      "Name": "serviceName",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "nkFx",
+      "Name": "memo",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "PWVf",
+      "Name": "userZone",
+      "Type": "Custom:Azo3"
+    }
+  ]
+}

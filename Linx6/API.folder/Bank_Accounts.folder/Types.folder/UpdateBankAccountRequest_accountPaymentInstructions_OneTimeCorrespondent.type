@@ -1,0 +1,36 @@
+{
+  "Id": "W5Rp",
+  "Name": "UpdateBankAccountRequest_accountPaymentInstructions_OneTimeCorrespondent",
+  "Properties": [
+    {
+      "Id": "YfrS",
+      "Name": "oneTime",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "Hx5p",
+      "Name": "correspondentDescription",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "tg1W",
+      "Name": "correspondentBIC",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "DIr7",
+      "Name": "country",
+      "Type": "Custom:lulp"
+    },
+    {
+      "Id": "ZXF0",
+      "Name": "correspondentOtherIdentifier",
+      "Type": "Custom:ARFL"
+    },
+    {
+      "Id": "WuvQ",
+      "Name": "account",
+      "Type": "Compiled:String"
+    }
+  ]
+}

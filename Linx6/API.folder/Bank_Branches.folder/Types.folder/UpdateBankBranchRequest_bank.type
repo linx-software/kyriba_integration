@@ -1,0 +1,16 @@
+{
+  "Id": "0svP",
+  "Name": "UpdateBankBranchRequest_bank",
+  "Properties": [
+    {
+      "Id": "DAuP",
+      "Name": "code",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "mUlh",
+      "Name": "uuid",
+      "Type": "Compiled:String"
+    }
+  ]
+}

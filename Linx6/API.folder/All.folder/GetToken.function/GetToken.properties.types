@@ -1,0 +1,16 @@
+[
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "Pqvj",
+      "Properties": [
+        {
+          "Id": "6v7W",
+          "Name": "Token",
+          "Type": "Custom:y0Eu",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  }
+]

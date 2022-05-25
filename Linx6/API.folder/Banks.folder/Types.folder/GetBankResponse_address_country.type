@@ -1,0 +1,16 @@
+{
+  "Id": "V5ZS",
+  "Name": "GetBankResponse_address_country",
+  "Properties": [
+    {
+      "Id": "aHhe",
+      "Name": "code",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "3Ff8",
+      "Name": "uuid",
+      "Type": "Compiled:String"
+    }
+  ]
+}

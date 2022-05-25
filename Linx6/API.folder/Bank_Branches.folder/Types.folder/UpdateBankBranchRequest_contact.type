@@ -1,0 +1,31 @@
+{
+  "Id": "JmVg",
+  "Name": "UpdateBankBranchRequest_contact",
+  "Properties": [
+    {
+      "Id": "zc1C",
+      "Name": "name",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "OaMg",
+      "Name": "department",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "s8Ad",
+      "Name": "phoneNumber",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "zOnT",
+      "Name": "faxNumber",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "luR3",
+      "Name": "email",
+      "Type": "Compiled:String"
+    }
+  ]
+}

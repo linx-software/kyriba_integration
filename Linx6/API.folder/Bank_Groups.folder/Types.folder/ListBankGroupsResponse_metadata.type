@@ -1,0 +1,31 @@
+{
+  "Id": "wNo5",
+  "Name": "ListBankGroupsResponse_metadata",
+  "Properties": [
+    {
+      "Id": "lMEQ",
+      "Name": "links",
+      "Type": "Custom:RCJL"
+    },
+    {
+      "Id": "fD9R",
+      "Name": "numberOfTotalResults",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "gK6k",
+      "Name": "pageLimit",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "9UTm",
+      "Name": "pageOffset",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "EoEA",
+      "Name": "pageResults",
+      "Type": "Compiled:Int64"
+    }
+  ]
+}

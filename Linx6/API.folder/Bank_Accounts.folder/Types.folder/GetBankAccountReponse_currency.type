@@ -1,0 +1,16 @@
+{
+  "Id": "PhSX",
+  "Name": "GetBankAccountReponse_currency",
+  "Properties": [
+    {
+      "Id": "5ESK",
+      "Name": "code",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "SdEC",
+      "Name": "uuid",
+      "Type": "Compiled:String"
+    }
+  ]
+}

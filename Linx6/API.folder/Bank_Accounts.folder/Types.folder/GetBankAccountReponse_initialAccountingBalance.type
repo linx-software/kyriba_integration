@@ -1,0 +1,16 @@
+{
+  "Id": "8ymo",
+  "Name": "GetBankAccountReponse_initialAccountingBalance",
+  "Properties": [
+    {
+      "Id": "hJDg",
+      "Name": "currency",
+      "Type": "Custom:PhSX"
+    },
+    {
+      "Id": "Gv1o",
+      "Name": "value",
+      "Type": "Compiled:String"
+    }
+  ]
+}

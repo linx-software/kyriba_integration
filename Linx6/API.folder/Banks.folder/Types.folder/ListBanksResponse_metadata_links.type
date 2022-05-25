@@ -1,0 +1,21 @@
+{
+  "Id": "moYW",
+  "Name": "ListBanksResponse_metadata_links",
+  "Properties": [
+    {
+      "Id": "ebfx",
+      "Name": "current",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "yqDO",
+      "Name": "next",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "nG6f",
+      "Name": "prev",
+      "Type": "Compiled:String"
+    }
+  ]
+}

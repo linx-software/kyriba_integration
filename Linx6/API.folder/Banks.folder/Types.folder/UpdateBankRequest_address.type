@@ -1,0 +1,41 @@
+{
+  "Id": "j5nZ",
+  "Name": "UpdateBankRequest_address",
+  "Properties": [
+    {
+      "Id": "Mf9k",
+      "Name": "city",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "fJst",
+      "Name": "country",
+      "Type": "Custom:VuXl"
+    },
+    {
+      "Id": "ONFm",
+      "Name": "homepage",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "Te85",
+      "Name": "state",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "At1K",
+      "Name": "street1",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "2uCu",
+      "Name": "street2",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "Dz68",
+      "Name": "zipCode",
+      "Type": "Compiled:Int64"
+    }
+  ]
+}

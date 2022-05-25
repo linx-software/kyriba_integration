@@ -1,0 +1,16 @@
+{
+  "Id": "TEyV",
+  "Name": "CreateBankAccountRequest_establishments",
+  "Properties": [
+    {
+      "Id": "Kt52",
+      "Name": "establishment",
+      "Type": "Custom:Z85c"
+    },
+    {
+      "Id": "M65J",
+      "Name": "account",
+      "Type": "Custom:Z85c"
+    }
+  ]
+}

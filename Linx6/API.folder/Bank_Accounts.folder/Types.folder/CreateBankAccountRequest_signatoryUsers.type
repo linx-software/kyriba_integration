@@ -1,0 +1,16 @@
+{
+  "Id": "H7Cl",
+  "Name": "CreateBankAccountRequest_signatoryUsers",
+  "Properties": [
+    {
+      "Id": "yw9S",
+      "Name": "code",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "9QtE",
+      "Name": "uuid",
+      "Type": "Compiled:String"
+    }
+  ]
+}

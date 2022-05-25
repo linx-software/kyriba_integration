@@ -1,0 +1,26 @@
+{
+  "Properties": [
+    {
+      "Id": "Source",
+      "Type": "Custom:kths",
+      "ValueUsage": "RuntimeRead",
+      "Value": {
+        "Expression": "CallGetBankAccount.ResponseBody",
+        "CompiledExpression": "={0}",
+        "Type": "Custom:kths"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    },
+    {
+      "Id": "Target",
+      "Type": "Custom:kths",
+      "ValueUsage": "RuntimeWrite",
+      "Value": {
+        "Expression": "$.Result.BankAccount",
+        "CompiledExpression": "={0}",
+        "Type": "Custom:kths"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    }
+  ]
+}

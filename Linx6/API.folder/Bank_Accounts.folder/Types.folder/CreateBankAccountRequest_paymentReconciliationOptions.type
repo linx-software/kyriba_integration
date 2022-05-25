@@ -1,0 +1,16 @@
+{
+  "Id": "bpas",
+  "Name": "CreateBankAccountRequest_paymentReconciliationOptions",
+  "Properties": [
+    {
+      "Id": "dwAw",
+      "Name": "bankReportingPolicy",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "ccDm",
+      "Name": "separateReportingAccount",
+      "Type": "Custom:Z85c"
+    }
+  ]
+}

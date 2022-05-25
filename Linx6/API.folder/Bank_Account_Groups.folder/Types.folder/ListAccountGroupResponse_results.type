@@ -1,0 +1,31 @@
+{
+  "Id": "0dWU",
+  "Name": "ListAccountGroupResponse_results",
+  "Properties": [
+    {
+      "Id": "4nIS",
+      "Name": "attachments",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "vFNV",
+      "Name": "code",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "WXmj",
+      "Name": "description",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "roXw",
+      "Name": "poolingAccount",
+      "Type": "Custom:7xJu"
+    },
+    {
+      "Id": "MXvW",
+      "Name": "uuid",
+      "Type": "Compiled:String"
+    }
+  ]
+}

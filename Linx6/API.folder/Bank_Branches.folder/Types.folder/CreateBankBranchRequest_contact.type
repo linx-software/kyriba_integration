@@ -1,0 +1,31 @@
+{
+  "Id": "i1lO",
+  "Name": "CreateBankBranchRequest_contact",
+  "Properties": [
+    {
+      "Id": "Wgwo",
+      "Name": "name",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "Ms0A",
+      "Name": "department",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "Gha1",
+      "Name": "phoneNumber",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "V5lI",
+      "Name": "faxNumber",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "x6dy",
+      "Name": "email",
+      "Type": "Compiled:String"
+    }
+  ]
+}

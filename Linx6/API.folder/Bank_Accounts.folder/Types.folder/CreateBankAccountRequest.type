@@ -1,0 +1,376 @@
+{
+  "Id": "JneB",
+  "Name": "CreateBankAccountRequest",
+  "Properties": [
+    {
+      "Id": "jLJ1",
+      "Name": "uuid",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "B5ox",
+      "Name": "code",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "Zjz5",
+      "Name": "description",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "F4jy",
+      "Name": "description2",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "RKed",
+      "Name": "accountType",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "7ukj",
+      "Name": "closedAccount",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "Ud9w",
+      "Name": "closingDate",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "i0QM",
+      "Name": "hidden",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "waGD",
+      "Name": "openingDate",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "lE6Q",
+      "Name": "nonResident",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "2Vbe",
+      "Name": "currency",
+      "Type": "Custom:Z85c"
+    },
+    {
+      "Id": "JzgH",
+      "Name": "company",
+      "Type": "Custom:Z85c"
+    },
+    {
+      "Id": "UtN7",
+      "Name": "branch",
+      "Type": "Custom:Z85c"
+    },
+    {
+      "Id": "fZYr",
+      "Name": "defaultGroup",
+      "Type": "Custom:Z85c"
+    },
+    {
+      "Id": "lCiw",
+      "Name": "bankStatementLayout",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "hDd0",
+      "Name": "bankAccountID",
+      "Type": "Custom:5Eky"
+    },
+    {
+      "Id": "xebR",
+      "Name": "bankAccountIDs",
+      "Type": "List:Custom:OqSE"
+    },
+    {
+      "Id": "ZYq0",
+      "Name": "address",
+      "Type": "Custom:Drfv"
+    },
+    {
+      "Id": "bxrY",
+      "Name": "contact",
+      "Type": "Custom:h73c"
+    },
+    {
+      "Id": "nQCP",
+      "Name": "calendar",
+      "Type": "Custom:Z85c"
+    },
+    {
+      "Id": "SJb0",
+      "Name": "zbaGenerator",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "EEFl",
+      "Name": "zbaIdentifier",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "ecIS",
+      "Name": "generateZBAFlow",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "Usxl",
+      "Name": "settlementAccount",
+      "Type": "Custom:Z85c"
+    },
+    {
+      "Id": "buRS",
+      "Name": "counterpartySettlementAccount",
+      "Type": "Custom:Z85c"
+    },
+    {
+      "Id": "c8RC",
+      "Name": "chartOfAccounts",
+      "Type": "Custom:Z85c"
+    },
+    {
+      "Id": "Hsro",
+      "Name": "glAccount",
+      "Type": "Custom:Z85c"
+    },
+    {
+      "Id": "5Cjg",
+      "Name": "internalAccountCode",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "tbox",
+      "Name": "includeInGLReconciliation",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "yGIz",
+      "Name": "considerBankStatementsFrom",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "T2Ty",
+      "Name": "initialAccountingBalance",
+      "Type": "Custom:rzX7"
+    },
+    {
+      "Id": "ENYH",
+      "Name": "initialAccountingBalanceDate",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "DtHv",
+      "Name": "userZone",
+      "Type": "Custom:gDS8"
+    },
+    {
+      "Id": "Du76",
+      "Name": "considerOneDayFloatTransactions",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "fDKv",
+      "Name": "considerTwoDayFloatTransactions",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "dCxG",
+      "Name": "considerThreeDayFloatTransactions",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "ZJmE",
+      "Name": "considerInvestmentPositionTransactions",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "XLgO",
+      "Name": "integrateEndOfDayStatements",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "gsXy",
+      "Name": "integrateIntradayStatements",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "WY1z",
+      "Name": "timeZone",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "id3E",
+      "Name": "cutOffTime",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "VMJF",
+      "Name": "accountCategory1",
+      "Type": "Custom:Z85c"
+    },
+    {
+      "Id": "NKC0",
+      "Name": "accountCategory2",
+      "Type": "Custom:Z85c"
+    },
+    {
+      "Id": "mpui",
+      "Name": "accountCategory3",
+      "Type": "Custom:Z85c"
+    },
+    {
+      "Id": "M5lz",
+      "Name": "accountCategory4",
+      "Type": "Custom:Z85c"
+    },
+    {
+      "Id": "kuqz",
+      "Name": "accountCategory5",
+      "Type": "Custom:Z85c"
+    },
+    {
+      "Id": "JVXg",
+      "Name": "accountCategory6",
+      "Type": "Custom:Z85c"
+    },
+    {
+      "Id": "D83f",
+      "Name": "accountCategory7",
+      "Type": "Custom:Z85c"
+    },
+    {
+      "Id": "32Rh",
+      "Name": "accountCategory8",
+      "Type": "Custom:Z85c"
+    },
+    {
+      "Id": "80lj",
+      "Name": "accountCategory9",
+      "Type": "Custom:Z85c"
+    },
+    {
+      "Id": "AesJ",
+      "Name": "accountCategory10",
+      "Type": "Custom:Z85c"
+    },
+    {
+      "Id": "oK4p",
+      "Name": "memo",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "uIHv",
+      "Name": "interestBearing",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "KU9W",
+      "Name": "centrallyManaged",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "bsoB",
+      "Name": "ownerName",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "m3Zx",
+      "Name": "reconcilerName",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "lvWV",
+      "Name": "freeText1",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "bveU",
+      "Name": "freeText2",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "B9Ea",
+      "Name": "freeText3",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "u9w0",
+      "Name": "freeAmount1",
+      "Type": "Compiled:Double"
+    },
+    {
+      "Id": "P9Lg",
+      "Name": "freeAmount2",
+      "Type": "Compiled:Double"
+    },
+    {
+      "Id": "MLbk",
+      "Name": "freeAmount3",
+      "Type": "Compiled:Double"
+    },
+    {
+      "Id": "2SJW",
+      "Name": "signatoryUsers",
+      "Type": "List:Custom:H7Cl"
+    },
+    {
+      "Id": "vQ6J",
+      "Name": "establishments",
+      "Type": "List:Custom:TEyV"
+    },
+    {
+      "Id": "uyTf",
+      "Name": "domesticTransfer",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "nsWX",
+      "Name": "internationalTransfer",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "JJ21",
+      "Name": "maturityTransfer",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "HJzT",
+      "Name": "domesticDirectDebit",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "E8HD",
+      "Name": "internationalDirectDebit",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "CIUX",
+      "Name": "payablesDrafts",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "XjBd",
+      "Name": "receivablesDrafts",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "NgG9",
+      "Name": "accountAvailableForPayments",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "GbBe",
+      "Name": "paymentReconciliationOptions",
+      "Type": "Custom:bpas"
+    },
+    {
+      "Id": "EMv2",
+      "Name": "accountPaymentInstructions",
+      "Type": "Custom:b6qw"
+    }
+  ]
+}

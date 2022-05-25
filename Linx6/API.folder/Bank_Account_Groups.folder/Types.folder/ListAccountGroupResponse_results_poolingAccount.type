@@ -1,0 +1,16 @@
+{
+  "Id": "7xJu",
+  "Name": "ListAccountGroupResponse_results_poolingAccount",
+  "Properties": [
+    {
+      "Id": "mW7w",
+      "Name": "code",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "3RaP",
+      "Name": "uuid",
+      "Type": "Compiled:String"
+    }
+  ]
+}

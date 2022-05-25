@@ -1,0 +1,51 @@
+{
+  "Id": "MnS2",
+  "Name": "GetBankGroupResponse",
+  "Properties": [
+    {
+      "Id": "Gosn",
+      "Name": "banks",
+      "Type": "List:Custom:lN2R"
+    },
+    {
+      "Id": "hRS3",
+      "Name": "code",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "cAzQ",
+      "Name": "contact",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "zsSt",
+      "Name": "counterparty",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "EXOF",
+      "Name": "description",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "7Tg7",
+      "Name": "description2",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "pPRB",
+      "Name": "intermediary",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "2JND",
+      "Name": "leader",
+      "Type": "Custom:lN2R"
+    },
+    {
+      "Id": "0MlZ",
+      "Name": "uuid",
+      "Type": "Compiled:String"
+    }
+  ]
+}

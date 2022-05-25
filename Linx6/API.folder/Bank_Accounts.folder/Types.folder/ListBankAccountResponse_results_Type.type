@@ -1,0 +1,16 @@
+{
+  "Id": "tixG",
+  "Name": "ListBankAccountResponse_results_Type",
+  "Properties": [
+    {
+      "Id": "hFo7",
+      "Name": "code",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "TZ4z",
+      "Name": "uuid",
+      "Type": "Compiled:String"
+    }
+  ]
+}

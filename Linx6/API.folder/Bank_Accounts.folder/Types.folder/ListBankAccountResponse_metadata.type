@@ -1,0 +1,31 @@
+{
+  "Id": "IRqL",
+  "Name": "ListBankAccountResponse_metadata",
+  "Properties": [
+    {
+      "Id": "bNEd",
+      "Name": "links",
+      "Type": "Custom:kqom"
+    },
+    {
+      "Id": "eVUK",
+      "Name": "numberOfTotalResults",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "LvkB",
+      "Name": "pageLimit",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "olSh",
+      "Name": "pageOffset",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "w4o6",
+      "Name": "pageResults",
+      "Type": "Compiled:Int64"
+    }
+  ]
+}

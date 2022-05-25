@@ -1,0 +1,30 @@
+[
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "Sy7p",
+      "Properties": [
+        {
+          "Id": "L0Li",
+          "Name": "Bank",
+          "Type": "Custom:yuG8",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "rqlG",
+      "Properties": [
+        {
+          "Id": "Wkhl",
+          "Name": "Response",
+          "Type": "Custom:llVy",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "Id": "llVy",
+  "Name": "GeneralResponse",
+  "Properties": [
+    {
+      "Id": "ONiR",
+      "Name": "code",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "72d7",
+      "Name": "uuid",
+      "Type": "Compiled:String"
+    }
+  ]
+}

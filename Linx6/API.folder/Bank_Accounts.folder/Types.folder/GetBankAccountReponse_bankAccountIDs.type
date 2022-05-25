@@ -1,0 +1,46 @@
+{
+  "Id": "wnaa",
+  "Name": "GetBankAccountReponse_bankAccountIDs",
+  "Properties": [
+    {
+      "Id": "LO3k",
+      "Name": "banStructure",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "JGPm",
+      "Name": "value",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "hR2j",
+      "Name": "accountNature",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "TMNz",
+      "Name": "statementIdentifier",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "s3Df",
+      "Name": "feeStatementIdentifier",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "kPRX",
+      "Name": "description",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "65JU",
+      "Name": "reportingFilterType",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "cCEv",
+      "Name": "establishment",
+      "Type": "Custom:PhSX"
+    }
+  ]
+}

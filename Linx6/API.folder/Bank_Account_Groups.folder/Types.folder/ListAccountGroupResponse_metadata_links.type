@@ -1,0 +1,21 @@
+{
+  "Id": "LHlh",
+  "Name": "ListAccountGroupResponse_metadata_links",
+  "Properties": [
+    {
+      "Id": "ILj4",
+      "Name": "current",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "Zmti",
+      "Name": "next",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "4Z2T",
+      "Name": "prev",
+      "Type": "Compiled:String"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "Id": "Iaty",
+  "Name": "GetBankBranchResponse_bank",
+  "Properties": [
+    {
+      "Id": "MtBX",
+      "Name": "code",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "EWHz",
+      "Name": "uuid",
+      "Type": "Compiled:String"
+    }
+  ]
+}

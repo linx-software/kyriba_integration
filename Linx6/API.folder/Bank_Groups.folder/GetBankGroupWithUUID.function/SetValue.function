@@ -1,0 +1,26 @@
+{
+  "Properties": [
+    {
+      "Id": "Source",
+      "Type": "Custom:MnS2",
+      "ValueUsage": "RuntimeRead",
+      "Value": {
+        "Expression": "CallGetBankGroup.ResponseBody",
+        "CompiledExpression": "={0}",
+        "Type": "Custom:MnS2"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    },
+    {
+      "Id": "Target",
+      "Type": "Custom:MnS2",
+      "ValueUsage": "RuntimeWrite",
+      "Value": {
+        "Expression": "$.Result.BankGroup",
+        "CompiledExpression": "={0}",
+        "Type": "Custom:MnS2"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    }
+  ]
+}

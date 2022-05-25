@@ -1,0 +1,30 @@
+[
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "uxBd",
+      "Properties": [
+        {
+          "Id": "DPIz",
+          "Name": "BankGroupCode",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "2WyG",
+      "Properties": [
+        {
+          "Id": "oVX2",
+          "Name": "BankGroup",
+          "Type": "Custom:MnS2",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  }
+]

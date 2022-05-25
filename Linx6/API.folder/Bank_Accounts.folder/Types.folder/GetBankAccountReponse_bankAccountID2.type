@@ -1,0 +1,46 @@
+{
+  "Id": "9WPb",
+  "Name": "GetBankAccountReponse_bankAccountID2",
+  "Properties": [
+    {
+      "Id": "zn9V",
+      "Name": "banStructure",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "ogaM",
+      "Name": "value",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "yhcG",
+      "Name": "accountNature",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "rKQD",
+      "Name": "statementIdentifier",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "RC6A",
+      "Name": "feeStatementIdentifier",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "SRxK",
+      "Name": "description",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "gyo7",
+      "Name": "reportingFilterType",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "rdMR",
+      "Name": "establishment",
+      "Type": "Custom:PhSX"
+    }
+  ]
+}

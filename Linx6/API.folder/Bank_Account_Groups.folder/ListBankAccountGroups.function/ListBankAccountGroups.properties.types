@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "x27v",
+      "Properties": [
+        {
+          "Id": "ZupY",
+          "Name": "sort",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        },
+        {
+          "Id": "SCcA",
+          "Name": "filter",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "nHBS",
+      "Properties": [
+        {
+          "Id": "odwT",
+          "Name": "AccountGroups",
+          "Type": "List:Custom:0dWU",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  }
+]

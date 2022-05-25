@@ -1,0 +1,31 @@
+{
+  "Id": "nJYg",
+  "Name": "UpdateBankRequest_userZones",
+  "Properties": [
+    {
+      "Id": "Hoac",
+      "Name": "userZone1",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "fJ5l",
+      "Name": "userZone2",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "V7vB",
+      "Name": "userZone3",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "4zBx",
+      "Name": "userZone4",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "7gMP",
+      "Name": "userZone5",
+      "Type": "Compiled:String"
+    }
+  ]
+}

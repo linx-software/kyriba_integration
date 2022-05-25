@@ -1,0 +1,16 @@
+{
+  "Id": "meF4",
+  "Name": "ListBanksResponse_results_Type",
+  "Properties": [
+    {
+      "Id": "0fLS",
+      "Name": "code",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "dtxQ",
+      "Name": "uuid",
+      "Type": "Compiled:String"
+    }
+  ]
+}

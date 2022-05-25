@@ -1,0 +1,31 @@
+{
+  "Id": "Xas7",
+  "Name": "GetAccountGroupResponse",
+  "Properties": [
+    {
+      "Id": "WH6a",
+      "Name": "accounts",
+      "Type": "List:Custom:yt5U"
+    },
+    {
+      "Id": "f6mC",
+      "Name": "code",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "e91R",
+      "Name": "description",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "VdaK",
+      "Name": "poolingAccount",
+      "Type": "Custom:yt5U"
+    },
+    {
+      "Id": "QU20",
+      "Name": "uuid",
+      "Type": "Compiled:String"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "ExecutionPaths": [
+    {
+      "PluginId": "Loop",
+      "Name": "Loop",
+      "Result": "List:Custom:j29f",
+      "Order": 0,
+      "IterationHint": "ZeroOrMore"
+    }
+  ],
+  "Properties": [
+    {
+      "Id": "List",
+      "Type": "List:Custom:j29f",
+      "ValueUsage": "RuntimeRead",
+      "Value": {
+        "Expression": "GetListOfBankBranches.ResponseBody.results",
+        "CompiledExpression": "={0}",
+        "Type": "List:Custom:j29f"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    }
+  ]
+}

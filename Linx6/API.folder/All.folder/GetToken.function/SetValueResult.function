@@ -1,0 +1,26 @@
+{
+  "Properties": [
+    {
+      "Id": "Source",
+      "Type": "Custom:y0Eu",
+      "ValueUsage": "RuntimeRead",
+      "Value": {
+        "Expression": "CallToken.ResponseBody",
+        "CompiledExpression": "={0}",
+        "Type": "Custom:y0Eu"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    },
+    {
+      "Id": "Target",
+      "Type": "Custom:y0Eu",
+      "ValueUsage": "RuntimeWrite",
+      "Value": {
+        "Expression": "$.Result.Token",
+        "CompiledExpression": "={0}",
+        "Type": "Custom:y0Eu"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    }
+  ]
+}

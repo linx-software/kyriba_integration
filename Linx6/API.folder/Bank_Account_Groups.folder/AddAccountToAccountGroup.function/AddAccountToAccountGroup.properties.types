@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "xAMe",
+      "Properties": [
+        {
+          "Id": "A7s0",
+          "Name": "Accounts",
+          "Type": "List:Custom:llVy",
+          "Access": "ReadWrite"
+        },
+        {
+          "Id": "oiKB",
+          "Name": "AccountGroupCode",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "MbWm",
+      "Properties": [
+        {
+          "Id": "nDwq",
+          "Name": "Response",
+          "Type": "Custom:llVy",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  }
+]

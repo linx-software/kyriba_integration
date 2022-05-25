@@ -1,0 +1,42 @@
+[
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "187Q",
+      "Properties": [
+        {
+          "Id": "8Ybc",
+          "Name": "UUID",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        },
+        {
+          "Id": "SQPF",
+          "Name": "Date",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        },
+        {
+          "Id": "aUji",
+          "Name": "Type",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "W82m",
+      "Properties": [
+        {
+          "Id": "Owxp",
+          "Name": "BankStatementBalance",
+          "Type": "Custom:10o4",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  }
+]

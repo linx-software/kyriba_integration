@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "Jv8j",
+      "Properties": [
+        {
+          "Id": "dLjg",
+          "Name": "Bank",
+          "Type": "Custom:nVHK",
+          "Access": "ReadWrite"
+        },
+        {
+          "Id": "75GW",
+          "Name": "BankCode",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "o0HB",
+      "Properties": [
+        {
+          "Id": "Umym",
+          "Name": "Response",
+          "Type": "Custom:llVy",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "Id": "6cWZ",
+  "Name": "GetBankAccountReponse_signatoryUsers",
+  "Properties": [
+    {
+      "Id": "nYe9",
+      "Name": "code",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "X1n8",
+      "Name": "uuid",
+      "Type": "Compiled:String"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "Properties": [
+    {
+      "Id": "List",
+      "Type": "List:Custom:DqwP",
+      "ValueUsage": "RuntimeRead",
+      "Value": {
+        "Expression": "$.Result.BankGroups",
+        "CompiledExpression": "={0}",
+        "Type": "List:Custom:DqwP"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    },
+    {
+      "Id": "Value",
+      "Type": "Custom:DqwP",
+      "ValueUsage": "RuntimeRead",
+      "Value": {
+        "Expression": "ForEachResult.Loop",
+        "CompiledExpression": "={0}",
+        "Type": "Custom:DqwP"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "Id": "ABLS",
+  "Name": "ListAccountGroupResponse_metadata",
+  "Properties": [
+    {
+      "Id": "XXzD",
+      "Name": "links",
+      "Type": "Custom:LHlh"
+    },
+    {
+      "Id": "vMra",
+      "Name": "numberOfTotalResults",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "RdNl",
+      "Name": "pageLimit",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "26Qa",
+      "Name": "pageOffset",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "5lZC",
+      "Name": "pageResults",
+      "Type": "Compiled:Int64"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "QQWA",
+      "Properties": [
+        {
+          "Id": "ckh7",
+          "Name": "sort",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        },
+        {
+          "Id": "cXxd",
+          "Name": "filter",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "8C15",
+      "Properties": [
+        {
+          "Id": "AZ6m",
+          "Name": "BankAccounts",
+          "Type": "List:Custom:Qpba",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  }
+]

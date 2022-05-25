@@ -1,0 +1,41 @@
+{
+  "Id": "O485",
+  "Name": "GetBankBranchResponse_address",
+  "Properties": [
+    {
+      "Id": "CWVx",
+      "Name": "city",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "yijV",
+      "Name": "country",
+      "Type": "Custom:Iaty"
+    },
+    {
+      "Id": "o4mF",
+      "Name": "homepage",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "4Slj",
+      "Name": "state",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "XqDI",
+      "Name": "street1",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "cJLT",
+      "Name": "street2",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "YbE6",
+      "Name": "zipCode",
+      "Type": "Compiled:String"
+    }
+  ]
+}

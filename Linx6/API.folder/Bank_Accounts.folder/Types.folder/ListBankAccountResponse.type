@@ -1,0 +1,16 @@
+{
+  "Id": "zk2z",
+  "Name": "ListBankAccountResponse",
+  "Properties": [
+    {
+      "Id": "mmXU",
+      "Name": "metadata",
+      "Type": "Custom:IRqL"
+    },
+    {
+      "Id": "3wL5",
+      "Name": "results",
+      "Type": "List:Custom:Qpba"
+    }
+  ]
+}

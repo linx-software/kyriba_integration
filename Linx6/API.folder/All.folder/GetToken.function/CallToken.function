@@ -1,0 +1,138 @@
+{
+  "Properties": [
+    {
+      "Id": "Allow untrusted certificates",
+      "Type": "Compiled:Boolean",
+      "ValueUsage": "RuntimeRead",
+      "Value": false
+    },
+    {
+      "Id": "Body format",
+      "Type": "Compiled:Twenty57.Linx.Plugins.Rest.CallRESTEndpoint.BodyFormatType, Twenty57.Linx.Plugins.Rest, Version=1.0.3.0, Culture=neutral, PublicKeyToken=null",
+      "ValueUsage": "DesignTime",
+      "Value": "URLEncoded"
+    },
+    {
+      "Id": "Bypass on local",
+      "Type": "Compiled:Boolean",
+      "ValueUsage": "DesignTime",
+      "Value": false
+    },
+    {
+      "Id": "Handle all status codes",
+      "Type": "Compiled:Boolean",
+      "ValueUsage": "DesignTime",
+      "Value": false
+    },
+    {
+      "Id": "Headers",
+      "Type": "Compiled:System.Collections.Generic.List`1[[Twenty57.Linx.Plugins.Rest.CallRESTEndpoint.NameValuePair, Twenty57.Linx.Plugins.Rest, Version=1.0.3.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+      "ValueUsage": "RuntimeRead",
+      "Value": null
+    },
+    {
+      "Id": "Max response content size",
+      "Type": "Compiled:Int64",
+      "ValueUsage": "RuntimeRead",
+      "Value": 1048576,
+      "ValueType": "Int32"
+    },
+    {
+      "Id": "Method",
+      "Type": "Compiled:Twenty57.Linx.Plugins.Rest.CallRESTEndpoint.HttpMethod, Twenty57.Linx.Plugins.Rest, Version=1.0.3.0, Culture=neutral, PublicKeyToken=null",
+      "ValueUsage": "DesignTime",
+      "Value": "POST"
+    },
+    {
+      "Id": "Output type",
+      "Type": "Compiled:Linx.ITypeReference",
+      "ValueUsage": "DesignTime",
+      "Value": "Custom:y0Eu",
+      "ValueType": "Linx.ValidCustomTypeReference"
+    },
+    {
+      "Id": "Password",
+      "Type": "Compiled:String",
+      "ValueUsage": "RuntimeRead",
+      "Value": {
+        "Expression": "$.Settings.Kyriba_client_secret",
+        "CompiledExpression": "={0}",
+        "Type": "Compiled:String"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    },
+    {
+      "Id": "Port",
+      "Type": "Compiled:Int64",
+      "ValueUsage": "RuntimeRead",
+      "Value": 0,
+      "ValueType": "Int32"
+    },
+    {
+      "Id": "Proxy name",
+      "Type": "Compiled:String",
+      "ValueUsage": "RuntimeRead",
+      "Value": ""
+    },
+    {
+      "Id": "Query string",
+      "Type": "Compiled:System.Collections.Generic.List`1[[Twenty57.Linx.Plugins.Rest.CallRESTEndpoint.NameValuePair, Twenty57.Linx.Plugins.Rest, Version=1.0.3.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+      "ValueUsage": "RuntimeRead",
+      "Value": null
+    },
+    {
+      "Id": "Sign request",
+      "Type": "Compiled:Boolean",
+      "ValueUsage": "DesignTime",
+      "Value": false
+    },
+    {
+      "Id": "Sign with certificate",
+      "Type": "Compiled:Boolean",
+      "ValueUsage": "DesignTime",
+      "Value": false
+    },
+    {
+      "Id": "Timeout",
+      "Type": "Compiled:Int32",
+      "ValueUsage": "RuntimeRead",
+      "Value": 100000
+    },
+    {
+      "Id": "Type",
+      "Type": "Compiled:Twenty57.Linx.Plugins.Rest.CallRESTEndpoint.AuthenticationType, Twenty57.Linx.Plugins.Rest, Version=1.0.3.0, Culture=neutral, PublicKeyToken=null",
+      "ValueUsage": "DesignTime",
+      "Value": "Basic"
+    },
+    {
+      "Id": "URL",
+      "Type": "Compiled:String",
+      "ValueUsage": "RuntimeRead",
+      "Value": {
+        "Expression": "$.Settings.Kyriba_tokenURL",
+        "CompiledExpression": "={0}",
+        "Type": "Compiled:String"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    },
+    {
+      "Id": "URL encoded body",
+      "Type": "Compiled:System.Collections.Generic.List`1[[Twenty57.Linx.Plugins.Rest.CallRESTEndpoint.NameValuePair, Twenty57.Linx.Plugins.Rest, Version=1.0.3.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+      "ValueUsage": "RuntimeRead",
+      "Value": "[{\"Name\":\"grant_type\",\"Value\":\"client_credentials\"}]",
+      "ValueType": "String"
+    },
+    {
+      "Id": "Username",
+      "Type": "Compiled:String",
+      "ValueUsage": "RuntimeRead",
+      "Value": {
+        "Expression": "$.Settings.Kyriba_client_id",
+        "CompiledExpression": "={0}",
+        "Type": "Compiled:String"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    }
+  ],
+  "Result": "Generated:tXvN"
+}

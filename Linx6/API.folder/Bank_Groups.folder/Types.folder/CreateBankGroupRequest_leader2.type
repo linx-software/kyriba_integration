@@ -1,0 +1,16 @@
+{
+  "Id": "SXLk",
+  "Name": "CreateBankGroupRequest_leader2",
+  "Properties": [
+    {
+      "Id": "bOu5",
+      "Name": "code",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "evcB",
+      "Name": "uuid",
+      "Type": "Compiled:String"
+    }
+  ]
+}

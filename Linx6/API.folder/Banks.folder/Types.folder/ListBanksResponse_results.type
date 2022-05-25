@@ -1,0 +1,106 @@
+{
+  "Id": "4tgS",
+  "Name": "ListBanksResponse_results",
+  "Properties": [
+    {
+      "Id": "OlQq",
+      "Name": "attachments",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "ELeP",
+      "Name": "code",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "lB8V",
+      "Name": "contact",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "m5nD",
+      "Name": "counterPartyInfo",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "B5BN",
+      "Name": "countryCode",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "2Z5r",
+      "Name": "dealIdentifier",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "nkxM",
+      "Name": "defaultGroup",
+      "Type": "Custom:meF4"
+    },
+    {
+      "Id": "QRJs",
+      "Name": "description",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "gh4R",
+      "Name": "externalCode",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "69Q4",
+      "Name": "intercompany",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "LKKZ",
+      "Name": "interfaceCode",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "EIx7",
+      "Name": "intermediaryInfo",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "lrrJ",
+      "Name": "internalCounterparty",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "1MCW",
+      "Name": "lastUpdateDate",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "UgLa",
+      "Name": "netDebitAndCreditExposure",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "ABzx",
+      "Name": "netSettlements",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "YGZn",
+      "Name": "parentCounterparty",
+      "Type": "Custom:meF4"
+    },
+    {
+      "Id": "ksDG",
+      "Name": "riskTier",
+      "Type": "Custom:meF4"
+    },
+    {
+      "Id": "pBjX",
+      "Name": "thirdParty",
+      "Type": "Custom:meF4"
+    },
+    {
+      "Id": "J8xT",
+      "Name": "uuid",
+      "Type": "Compiled:String"
+    }
+  ]
+}

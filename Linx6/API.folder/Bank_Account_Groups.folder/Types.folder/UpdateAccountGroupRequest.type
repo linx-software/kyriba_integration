@@ -1,0 +1,31 @@
+{
+  "Id": "1hbv",
+  "Name": "UpdateAccountGroupRequest",
+  "Properties": [
+    {
+      "Id": "QZyH",
+      "Name": "accounts",
+      "Type": "List:Custom:7zdB"
+    },
+    {
+      "Id": "NEI4",
+      "Name": "code",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "8L5X",
+      "Name": "description",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "NqXE",
+      "Name": "poolingAccount",
+      "Type": "Custom:7zdB"
+    },
+    {
+      "Id": "ekVS",
+      "Name": "uuid",
+      "Type": "Compiled:String"
+    }
+  ]
+}

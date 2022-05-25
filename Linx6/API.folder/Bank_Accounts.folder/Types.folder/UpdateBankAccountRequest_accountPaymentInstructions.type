@@ -1,0 +1,66 @@
+{
+  "Id": "hA6Z",
+  "Name": "UpdateBankAccountRequest_accountPaymentInstructions",
+  "Properties": [
+    {
+      "Id": "KP51",
+      "Name": "mainCorrespondentBankBranch",
+      "Type": "Custom:lulp"
+    },
+    {
+      "Id": "8mVy",
+      "Name": "mainOneTimeCorrespondent",
+      "Type": "Custom:W5Rp"
+    },
+    {
+      "Id": "pEVc",
+      "Name": "additionalCorrespondentBankBranch",
+      "Type": "Custom:lulp"
+    },
+    {
+      "Id": "OMlN",
+      "Name": "additionalOneTimeCorrespondent",
+      "Type": "Custom:W5Rp"
+    },
+    {
+      "Id": "Lo0j",
+      "Name": "defaultReason1",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "xbyg",
+      "Name": "defaultReason2",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "lfC8",
+      "Name": "defaultReason3",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "BvUy",
+      "Name": "defaultReason4",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "cVWc",
+      "Name": "ffc1",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "aWCt",
+      "Name": "ffc2",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "CEHB",
+      "Name": "ffc3",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "6zkm",
+      "Name": "ffc4",
+      "Type": "Compiled:String"
+    }
+  ]
+}

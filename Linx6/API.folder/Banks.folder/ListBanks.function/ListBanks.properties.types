@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "rFgf",
+      "Properties": [
+        {
+          "Id": "7yPE",
+          "Name": "sort",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        },
+        {
+          "Id": "7ZDl",
+          "Name": "filter",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "MQ8p",
+      "Properties": [
+        {
+          "Id": "Skil",
+          "Name": "Banks",
+          "Type": "List:Custom:4tgS",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "Id": "ARFL",
+  "Name": "UpdateBankAccountRequest_accountPaymentInstructions_mainOneTimeCorrespondent_correspondentOtherIdentifier",
+  "Properties": [
+    {
+      "Id": "Ch6m",
+      "Name": "otherIdentifierType",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "3cx4",
+      "Name": "otherIdentifierValue",
+      "Type": "Compiled:String"
+    }
+  ]
+}

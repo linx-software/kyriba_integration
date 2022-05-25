@@ -1,0 +1,21 @@
+{
+  "Id": "kqom",
+  "Name": "ListBankAccountResponse_metadata_links",
+  "Properties": [
+    {
+      "Id": "gjBn",
+      "Name": "current",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "lkC6",
+      "Name": "next",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "Q9IM",
+      "Name": "prev",
+      "Type": "Compiled:String"
+    }
+  ]
+}

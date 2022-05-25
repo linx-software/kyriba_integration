@@ -1,0 +1,16 @@
+{
+  "Id": "Zaai",
+  "Name": "GetBankAccountReponse_establishments",
+  "Properties": [
+    {
+      "Id": "PFqJ",
+      "Name": "establishment",
+      "Type": "Custom:PhSX"
+    },
+    {
+      "Id": "VDj6",
+      "Name": "account",
+      "Type": "Custom:PhSX"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "Id": "Drfv",
+  "Name": "CreateBankAccountRequest_address",
+  "Properties": [
+    {
+      "Id": "2bPy",
+      "Name": "city",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "omKV",
+      "Name": "country",
+      "Type": "Custom:Z85c"
+    },
+    {
+      "Id": "i8ly",
+      "Name": "homepage",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "C6sg",
+      "Name": "state",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "5Uxz",
+      "Name": "street1",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "yyJw",
+      "Name": "street2",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "n4XS",
+      "Name": "zipCode",
+      "Type": "Compiled:Int64"
+    }
+  ]
+}

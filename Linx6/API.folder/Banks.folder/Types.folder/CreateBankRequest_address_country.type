@@ -1,0 +1,16 @@
+{
+  "Id": "xpe3",
+  "Name": "CreateBankRequest_address_country",
+  "Properties": [
+    {
+      "Id": "q6i4",
+      "Name": "code",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "tUth",
+      "Name": "uuid",
+      "Type": "Compiled:String"
+    }
+  ]
+}

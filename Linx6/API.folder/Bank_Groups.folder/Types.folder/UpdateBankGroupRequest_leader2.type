@@ -1,0 +1,16 @@
+{
+  "Id": "JeS5",
+  "Name": "UpdateBankGroupRequest_leader2",
+  "Properties": [
+    {
+      "Id": "xoGb",
+      "Name": "code",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "DNGp",
+      "Name": "uuid",
+      "Type": "Compiled:String"
+    }
+  ]
+}

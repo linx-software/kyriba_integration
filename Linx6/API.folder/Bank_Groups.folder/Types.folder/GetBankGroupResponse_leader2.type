@@ -1,0 +1,16 @@
+{
+  "Id": "lN2R",
+  "Name": "GetBankGroupResponse_leader2",
+  "Properties": [
+    {
+      "Id": "2LUp",
+      "Name": "code",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "8cnW",
+      "Name": "uuid",
+      "Type": "Compiled:String"
+    }
+  ]
+}

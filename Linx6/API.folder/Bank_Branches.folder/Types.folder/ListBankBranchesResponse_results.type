@@ -1,0 +1,91 @@
+{
+  "Id": "j29f",
+  "Name": "ListBankBranchesResponse_results",
+  "Properties": [
+    {
+      "Id": "g9G4",
+      "Name": "uuid",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "s5BQ",
+      "Name": "code",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "Hjvt",
+      "Name": "interfaceCode",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "oeSI",
+      "Name": "description",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "kPce",
+      "Name": "bank",
+      "Type": "Custom:XGvw"
+    },
+    {
+      "Id": "15fT",
+      "Name": "accountLocation",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "qEyc",
+      "Name": "bic",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "SerR",
+      "Name": "idCode",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "Aw1Y",
+      "Name": "address",
+      "Type": "Custom:cOHA"
+    },
+    {
+      "Id": "oIPR",
+      "Name": "contact",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "ZFhM",
+      "Name": "timeZone",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "piZo",
+      "Name": "cutOffTime",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "9wnL",
+      "Name": "responderCode",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "17YQ",
+      "Name": "serviceName",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "yLTW",
+      "Name": "userZones",
+      "Type": "Custom:Fzd2"
+    },
+    {
+      "Id": "jing",
+      "Name": "attachments",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "fuse",
+      "Name": "lastUpdateDate",
+      "Type": "Compiled:String"
+    }
+  ]
+}

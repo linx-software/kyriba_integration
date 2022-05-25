@@ -1,0 +1,16 @@
+{
+  "Id": "ZpqL",
+  "Name": "UpdateBankAccountRequest_paymentReconciliationOptions",
+  "Properties": [
+    {
+      "Id": "n4gy",
+      "Name": "bankReportingPolicy",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "3y95",
+      "Name": "separateReportingAccount",
+      "Type": "Custom:lulp"
+    }
+  ]
+}

@@ -1,0 +1,451 @@
+{
+  "Id": "kths",
+  "Name": "GetBankAccountReponse",
+  "Properties": [
+    {
+      "Id": "MPgD",
+      "Name": "uuid",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "pdbp",
+      "Name": "code",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "3gZ9",
+      "Name": "description",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "6WV5",
+      "Name": "description2",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "nBXp",
+      "Name": "accountType",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "zybg",
+      "Name": "status",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "rRJ2",
+      "Name": "closedAccount",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "ugAc",
+      "Name": "closingDate",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "R3hJ",
+      "Name": "hidden",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "ZgCv",
+      "Name": "openingDate",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "PoPa",
+      "Name": "nonResident",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "1jZH",
+      "Name": "currency",
+      "Type": "Custom:PhSX"
+    },
+    {
+      "Id": "KHYg",
+      "Name": "company",
+      "Type": "Custom:PhSX"
+    },
+    {
+      "Id": "wdgL",
+      "Name": "branch",
+      "Type": "Custom:PhSX"
+    },
+    {
+      "Id": "4ck9",
+      "Name": "defaultGroup",
+      "Type": "Custom:PhSX"
+    },
+    {
+      "Id": "J5dW",
+      "Name": "bankStatementLayout",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "o1XI",
+      "Name": "bankAccountID",
+      "Type": "Custom:9WPb"
+    },
+    {
+      "Id": "lfAE",
+      "Name": "bankAccountIDs",
+      "Type": "List:Custom:wnaa"
+    },
+    {
+      "Id": "PfEw",
+      "Name": "address",
+      "Type": "Custom:k2Mq"
+    },
+    {
+      "Id": "2MGH",
+      "Name": "contact",
+      "Type": "Custom:RRyL"
+    },
+    {
+      "Id": "fTpB",
+      "Name": "calendar",
+      "Type": "Custom:PhSX"
+    },
+    {
+      "Id": "l0By",
+      "Name": "zbaGenerator",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "E8qC",
+      "Name": "zbaIdentifier",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "cwg5",
+      "Name": "generateZBAFlow",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "lGCU",
+      "Name": "settlementAccount",
+      "Type": "Custom:PhSX"
+    },
+    {
+      "Id": "s65u",
+      "Name": "counterpartySettlementAccount",
+      "Type": "Custom:PhSX"
+    },
+    {
+      "Id": "FUY3",
+      "Name": "chartOfAccounts",
+      "Type": "Custom:PhSX"
+    },
+    {
+      "Id": "MF2z",
+      "Name": "glAccount",
+      "Type": "Custom:PhSX"
+    },
+    {
+      "Id": "0tTI",
+      "Name": "internalAccountCode",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "6dCv",
+      "Name": "includeInGLReconciliation",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "tZjO",
+      "Name": "considerBankStatementsFrom",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "P4F0",
+      "Name": "initialAccountingBalance",
+      "Type": "Custom:8ymo"
+    },
+    {
+      "Id": "Weig",
+      "Name": "initialAccountingBalanceDate",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "f2bl",
+      "Name": "userZone",
+      "Type": "Custom:jOx8"
+    },
+    {
+      "Id": "zeui",
+      "Name": "considerOneDayFloatTransactions",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "oMa5",
+      "Name": "considerTwoDayFloatTransactions",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "MVhh",
+      "Name": "considerThreeDayFloatTransactions",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "ltbC",
+      "Name": "considerInvestmentPositionTransactions",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "sNRG",
+      "Name": "integrateEndOfDayStatements",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "MoJq",
+      "Name": "integrateIntradayStatements",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "o54l",
+      "Name": "timeZone",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "iQzh",
+      "Name": "cutOffTime",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "QPHY",
+      "Name": "accountCategory1",
+      "Type": "Custom:PhSX"
+    },
+    {
+      "Id": "pPqU",
+      "Name": "accountCategory2",
+      "Type": "Custom:PhSX"
+    },
+    {
+      "Id": "2b2t",
+      "Name": "accountCategory3",
+      "Type": "Custom:PhSX"
+    },
+    {
+      "Id": "mWQS",
+      "Name": "accountCategory4",
+      "Type": "Custom:PhSX"
+    },
+    {
+      "Id": "7S62",
+      "Name": "accountCategory5",
+      "Type": "Custom:PhSX"
+    },
+    {
+      "Id": "sgn4",
+      "Name": "accountCategory6",
+      "Type": "Custom:PhSX"
+    },
+    {
+      "Id": "5ey5",
+      "Name": "accountCategory7",
+      "Type": "Custom:PhSX"
+    },
+    {
+      "Id": "kdxf",
+      "Name": "accountCategory8",
+      "Type": "Custom:PhSX"
+    },
+    {
+      "Id": "ot9w",
+      "Name": "accountCategory9",
+      "Type": "Custom:PhSX"
+    },
+    {
+      "Id": "va1u",
+      "Name": "accountCategory10",
+      "Type": "Custom:PhSX"
+    },
+    {
+      "Id": "CAlZ",
+      "Name": "memo",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "pLuR",
+      "Name": "interestBearing",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "4gbV",
+      "Name": "centrallyManaged",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "zhJz",
+      "Name": "ownerName",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "3L7c",
+      "Name": "reconcilerName",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "AMHJ",
+      "Name": "freeText1",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "ABWz",
+      "Name": "freeText2",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "ifyq",
+      "Name": "freeText3",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "m4Rn",
+      "Name": "freeAmount1",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "5dob",
+      "Name": "freeAmount2",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "lHCZ",
+      "Name": "freeAmount3",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "XO7x",
+      "Name": "signatoryUsers",
+      "Type": "List:Custom:6cWZ"
+    },
+    {
+      "Id": "IGtD",
+      "Name": "includeInElectronicBank",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "geF6",
+      "Name": "includeInElectronicBankDate",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "YJEO",
+      "Name": "excludeFromElectronicBank",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "OtjG",
+      "Name": "excludeFromElectronicBankDate",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "iPza",
+      "Name": "confirmAccountList",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "CHJ7",
+      "Name": "confirmAccountListDate",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "OZlc",
+      "Name": "confirmAccountBalances",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "R5NX",
+      "Name": "confirmAccountBalancesDate",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "pILt",
+      "Name": "confirmAccountSignatories",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "ZVTG",
+      "Name": "confirmAccountSignatoriesDate",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "b4v2",
+      "Name": "accountOpeningRequested",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "MRSY",
+      "Name": "accountOpeningRequestDate",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "6pJ1",
+      "Name": "accountClosureRequested",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "7Qlx",
+      "Name": "accountClosureRequestDate",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "PBCm",
+      "Name": "establishments",
+      "Type": "List:Custom:Zaai"
+    },
+    {
+      "Id": "Tltw",
+      "Name": "domesticTransfer",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "CNer",
+      "Name": "internationalTransfer",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "y7A5",
+      "Name": "maturityTransfer",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "w5al",
+      "Name": "domesticDirectDebit",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "AeDn",
+      "Name": "internationalDirectDebit",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "yowo",
+      "Name": "payablesDrafts",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "Yg57",
+      "Name": "receivablesDrafts",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "SzkI",
+      "Name": "accountAvailableForPayments",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "7Iic",
+      "Name": "paymentReconciliationOptions",
+      "Type": "Custom:SfEJ"
+    },
+    {
+      "Id": "N2Ld",
+      "Name": "accountPaymentInstructions",
+      "Type": "Custom:GH1R"
+    }
+  ]
+}

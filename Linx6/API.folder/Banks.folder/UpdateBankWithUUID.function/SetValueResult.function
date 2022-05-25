@@ -1,0 +1,26 @@
+{
+  "Properties": [
+    {
+      "Id": "Source",
+      "Type": "Custom:llVy",
+      "ValueUsage": "RuntimeRead",
+      "Value": {
+        "Expression": "CallUpdateBank.ResponseBody",
+        "CompiledExpression": "={0}",
+        "Type": "Custom:llVy"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    },
+    {
+      "Id": "Target",
+      "Type": "Custom:llVy",
+      "ValueUsage": "RuntimeWrite",
+      "Value": {
+        "Expression": "$.Result.Response",
+        "CompiledExpression": "={0}",
+        "Type": "Custom:llVy"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    }
+  ]
+}

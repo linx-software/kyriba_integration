@@ -1,0 +1,16 @@
+{
+  "Id": "7zdB",
+  "Name": "UpdateAccountGroupRequest_poolingAccount2",
+  "Properties": [
+    {
+      "Id": "K6gd",
+      "Name": "code",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "fd87",
+      "Name": "uuid",
+      "Type": "Compiled:String"
+    }
+  ]
+}

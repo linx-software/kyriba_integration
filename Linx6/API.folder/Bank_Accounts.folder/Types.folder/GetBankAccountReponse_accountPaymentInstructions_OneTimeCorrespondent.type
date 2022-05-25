@@ -1,0 +1,36 @@
+{
+  "Id": "pZTf",
+  "Name": "GetBankAccountReponse_accountPaymentInstructions_OneTimeCorrespondent",
+  "Properties": [
+    {
+      "Id": "hViy",
+      "Name": "oneTime",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "cLEH",
+      "Name": "correspondentDescription",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "nYAO",
+      "Name": "correspondentBIC",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "3WSC",
+      "Name": "country",
+      "Type": "Custom:PhSX"
+    },
+    {
+      "Id": "PiMv",
+      "Name": "correspondentOtherIdentifier",
+      "Type": "Custom:EShy"
+    },
+    {
+      "Id": "w0hS",
+      "Name": "account",
+      "Type": "Compiled:String"
+    }
+  ]
+}

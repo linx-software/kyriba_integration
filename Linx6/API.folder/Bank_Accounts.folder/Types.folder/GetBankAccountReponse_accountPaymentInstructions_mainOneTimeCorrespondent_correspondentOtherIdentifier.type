@@ -1,0 +1,16 @@
+{
+  "Id": "EShy",
+  "Name": "GetBankAccountReponse_accountPaymentInstructions_mainOneTimeCorrespondent_correspondentOtherIdentifier",
+  "Properties": [
+    {
+      "Id": "Q5do",
+      "Name": "otherIdentifierType",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "TP6h",
+      "Name": "otherIdentifierValue",
+      "Type": "Compiled:String"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "ExecutionPaths": [
+    {
+      "PluginId": "Loop",
+      "Name": "Loop",
+      "Result": "List:Custom:DqwP",
+      "Order": 0,
+      "IterationHint": "ZeroOrMore"
+    }
+  ],
+  "Properties": [
+    {
+      "Id": "List",
+      "Type": "List:Custom:DqwP",
+      "ValueUsage": "RuntimeRead",
+      "Value": {
+        "Expression": "GetListOfBankGroups.ResponseBody.results",
+        "CompiledExpression": "={0}",
+        "Type": "List:Custom:DqwP"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    }
+  ]
+}

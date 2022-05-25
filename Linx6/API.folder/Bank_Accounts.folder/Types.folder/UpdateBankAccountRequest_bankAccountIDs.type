@@ -1,0 +1,46 @@
+{
+  "Id": "31a6",
+  "Name": "UpdateBankAccountRequest_bankAccountIDs",
+  "Properties": [
+    {
+      "Id": "Kf8c",
+      "Name": "banStructure",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "y5BE",
+      "Name": "value",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "mCar",
+      "Name": "accountNature",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "Mrqw",
+      "Name": "statementIdentifier",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "Uey9",
+      "Name": "feeStatementIdentifier",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "tjgX",
+      "Name": "description",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "acQV",
+      "Name": "reportingFilterType",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "5zkf",
+      "Name": "establishment",
+      "Type": "Custom:lulp"
+    }
+  ]
+}

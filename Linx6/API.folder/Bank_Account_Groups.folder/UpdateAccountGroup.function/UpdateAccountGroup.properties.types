@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "kvg3",
+      "Properties": [
+        {
+          "Id": "9oM5",
+          "Name": "AccountGroup",
+          "Type": "Custom:1hbv",
+          "Access": "ReadWrite"
+        },
+        {
+          "Id": "fqr7",
+          "Name": "AccountGroupCode",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "Rf15",
+      "Properties": [
+        {
+          "Id": "eHOn",
+          "Name": "Response",
+          "Type": "Custom:llVy",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,46 @@
+{
+  "Id": "OqSE",
+  "Name": "CreateBankAccountRequest_bankAccountIDs",
+  "Properties": [
+    {
+      "Id": "ZDFU",
+      "Name": "banStructure",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "hC9h",
+      "Name": "value",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "Sx7y",
+      "Name": "accountNature",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "C4JA",
+      "Name": "statementIdentifier",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "3qnE",
+      "Name": "feeStatementIdentifier",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "paq8",
+      "Name": "description",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "81bn",
+      "Name": "reportingFilterType",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "oNs5",
+      "Name": "establishment",
+      "Type": "Custom:Z85c"
+    }
+  ]
+}

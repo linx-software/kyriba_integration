@@ -1,0 +1,26 @@
+{
+  "Properties": [
+    {
+      "Id": "List",
+      "Type": "List:Custom:Qpba",
+      "ValueUsage": "RuntimeRead",
+      "Value": {
+        "Expression": "$.Result.BankAccounts",
+        "CompiledExpression": "={0}",
+        "Type": "List:Custom:Qpba"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    },
+    {
+      "Id": "Value",
+      "Type": "Custom:Qpba",
+      "ValueUsage": "RuntimeRead",
+      "Value": {
+        "Expression": "ForEachResult.Loop",
+        "CompiledExpression": "={0}",
+        "Type": "Custom:Qpba"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    }
+  ]
+}

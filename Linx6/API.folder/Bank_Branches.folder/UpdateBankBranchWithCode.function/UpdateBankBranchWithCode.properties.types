@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "Cxnb",
+      "Properties": [
+        {
+          "Id": "9AGX",
+          "Name": "BankBranch",
+          "Type": "Custom:V8TK",
+          "Access": "ReadWrite"
+        },
+        {
+          "Id": "mi97",
+          "Name": "BankBranchCode",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "sBtP",
+      "Properties": [
+        {
+          "Id": "2bVu",
+          "Name": "Response",
+          "Type": "Custom:llVy",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  }
+]

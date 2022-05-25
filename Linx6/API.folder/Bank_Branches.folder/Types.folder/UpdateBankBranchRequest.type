@@ -1,0 +1,111 @@
+{
+  "Id": "V8TK",
+  "Name": "UpdateBankBranchRequest",
+  "Properties": [
+    {
+      "Id": "F0GK",
+      "Name": "intercompany",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "kLq3",
+      "Name": "intermediary",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "PVQ4",
+      "Name": "mainCountryBranch",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "xmGC",
+      "Name": "code",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "IVmd",
+      "Name": "interfaceCode",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "llNl",
+      "Name": "description",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "9aYE",
+      "Name": "description2",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "5431",
+      "Name": "bank",
+      "Type": "Custom:0svP"
+    },
+    {
+      "Id": "ZXhU",
+      "Name": "accountLocation",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "Lg7o",
+      "Name": "bic",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "9hAl",
+      "Name": "corpIDCode",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "fCts",
+      "Name": "otherIdentifier",
+      "Type": "Custom:E7Nz"
+    },
+    {
+      "Id": "WMkG",
+      "Name": "address",
+      "Type": "Custom:DKbm"
+    },
+    {
+      "Id": "MPbS",
+      "Name": "contact",
+      "Type": "Custom:JmVg"
+    },
+    {
+      "Id": "ozBy",
+      "Name": "calendar",
+      "Type": "Custom:0svP"
+    },
+    {
+      "Id": "bNFP",
+      "Name": "timeZone",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "18br",
+      "Name": "cutOffTime",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "tqMc",
+      "Name": "responderCode",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "KykH",
+      "Name": "serviceName",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "23J7",
+      "Name": "memo",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "Ljgq",
+      "Name": "userZone",
+      "Type": "Custom:8EK0"
+    }
+  ]
+}

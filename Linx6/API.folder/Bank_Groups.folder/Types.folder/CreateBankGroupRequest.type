@@ -1,0 +1,51 @@
+{
+  "Id": "z4Gw",
+  "Name": "CreateBankGroupRequest",
+  "Properties": [
+    {
+      "Id": "V9uk",
+      "Name": "banks",
+      "Type": "List:Custom:SXLk"
+    },
+    {
+      "Id": "TFdy",
+      "Name": "code",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "wLr2",
+      "Name": "contact",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "Qav1",
+      "Name": "counterparty",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "OLPQ",
+      "Name": "description",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "QY6U",
+      "Name": "description2",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "30NC",
+      "Name": "intermediary",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "x3G2",
+      "Name": "leader",
+      "Type": "Custom:SXLk"
+    },
+    {
+      "Id": "yWhQ",
+      "Name": "uuid",
+      "Type": "Compiled:String"
+    }
+  ]
+}

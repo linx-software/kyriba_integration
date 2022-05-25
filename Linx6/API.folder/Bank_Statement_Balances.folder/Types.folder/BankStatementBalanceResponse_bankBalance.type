@@ -1,0 +1,21 @@
+{
+  "Id": "MvI9",
+  "Name": "BankStatementBalanceResponse_bankBalance",
+  "Properties": [
+    {
+      "Id": "QUJm",
+      "Name": "amount",
+      "Type": "Compiled:Double"
+    },
+    {
+      "Id": "kafg",
+      "Name": "balanceDate",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "gFzw",
+      "Name": "currencyCode",
+      "Type": "Compiled:String"
+    }
+  ]
+}

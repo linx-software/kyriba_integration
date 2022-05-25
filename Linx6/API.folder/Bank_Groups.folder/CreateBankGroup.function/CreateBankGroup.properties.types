@@ -1,0 +1,30 @@
+[
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "HSRs",
+      "Properties": [
+        {
+          "Id": "mZwJ",
+          "Name": "BankGroup",
+          "Type": "Custom:z4Gw",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "yNw0",
+      "Properties": [
+        {
+          "Id": "I7Qj",
+          "Name": "Response",
+          "Type": "Custom:llVy",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  }
+]

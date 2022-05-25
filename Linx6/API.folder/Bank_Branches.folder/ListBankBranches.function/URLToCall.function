@@ -1,0 +1,16 @@
+{
+  "Properties": [
+    {
+      "Id": "Value",
+      "Type": "Compiled:String",
+      "ValueUsage": "RuntimeRead",
+      "Value": {
+        "Expression": "$.Settings.Kyriba_baseURL+\"/v1/bank-branches?page.limit=100&page.offset=0&filter=\"+$.Parameters.filter+\"&sort=\"+$.Parameters.sort",
+        "CompiledExpression": "={2}+\"/v1/bank-branches?page.limit=100&page.offset=0&filter=\"+{1}+\"&sort=\"+{0}",
+        "Type": "Compiled:String"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    }
+  ],
+  "Result": "Compiled:String"
+}

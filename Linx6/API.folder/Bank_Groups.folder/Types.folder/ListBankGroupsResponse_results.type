@@ -1,0 +1,36 @@
+{
+  "Id": "DqwP",
+  "Name": "ListBankGroupsResponse_results",
+  "Properties": [
+    {
+      "Id": "WLRb",
+      "Name": "code",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "EjZn",
+      "Name": "counterparty",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "UO5f",
+      "Name": "description",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "Gh9M",
+      "Name": "intermediary",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "lt6o",
+      "Name": "leader",
+      "Type": "Custom:Tvlz"
+    },
+    {
+      "Id": "UKtw",
+      "Name": "uuid",
+      "Type": "Compiled:String"
+    }
+  ]
+}

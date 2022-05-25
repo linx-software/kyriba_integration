@@ -1,0 +1,11 @@
+{
+  "Id": "N9sn",
+  "Name": "UUIDResponse",
+  "Properties": [
+    {
+      "Id": "v2D2",
+      "Name": "uuid",
+      "Type": "Compiled:String"
+    }
+  ]
+}

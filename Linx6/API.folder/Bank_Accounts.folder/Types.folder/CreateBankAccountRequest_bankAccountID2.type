@@ -1,0 +1,46 @@
+{
+  "Id": "5Eky",
+  "Name": "CreateBankAccountRequest_bankAccountID2",
+  "Properties": [
+    {
+      "Id": "5S84",
+      "Name": "banStructure",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "krv5",
+      "Name": "value",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "Dhqi",
+      "Name": "accountNature",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "Hhx2",
+      "Name": "statementIdentifier",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "9ydr",
+      "Name": "feeStatementIdentifier",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "PaZU",
+      "Name": "description",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "u6W6",
+      "Name": "reportingFilterType",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "7bqq",
+      "Name": "establishment",
+      "Type": "Custom:Z85c"
+    }
+  ]
+}

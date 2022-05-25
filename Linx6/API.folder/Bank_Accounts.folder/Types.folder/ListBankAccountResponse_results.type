@@ -1,0 +1,216 @@
+{
+  "Id": "Qpba",
+  "Name": "ListBankAccountResponse_results",
+  "Properties": [
+    {
+      "Id": "NXNa",
+      "Name": "accountCategory1",
+      "Type": "Custom:tixG"
+    },
+    {
+      "Id": "zygR",
+      "Name": "accountCategory2",
+      "Type": "Custom:tixG"
+    },
+    {
+      "Id": "XFLK",
+      "Name": "accountCategory3",
+      "Type": "Custom:tixG"
+    },
+    {
+      "Id": "Yhlm",
+      "Name": "accountCategory4",
+      "Type": "Custom:tixG"
+    },
+    {
+      "Id": "gEpF",
+      "Name": "accountCategory5",
+      "Type": "Custom:tixG"
+    },
+    {
+      "Id": "h34e",
+      "Name": "accountCategory6",
+      "Type": "Custom:tixG"
+    },
+    {
+      "Id": "DcyP",
+      "Name": "accountCategory7",
+      "Type": "Custom:tixG"
+    },
+    {
+      "Id": "a5Z6",
+      "Name": "accountCategory8",
+      "Type": "Custom:tixG"
+    },
+    {
+      "Id": "hEi2",
+      "Name": "accountCategory9",
+      "Type": "Custom:tixG"
+    },
+    {
+      "Id": "V6DP",
+      "Name": "accountCategory10",
+      "Type": "Custom:tixG"
+    },
+    {
+      "Id": "z8Rd",
+      "Name": "accountAvailableForPayments",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "bRG3",
+      "Name": "accountType",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "PwQm",
+      "Name": "activeStatus",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "sl4X",
+      "Name": "attachments",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "WcFu",
+      "Name": "banCode",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "UMER",
+      "Name": "bank",
+      "Type": "Custom:tixG"
+    },
+    {
+      "Id": "P2vZ",
+      "Name": "branch",
+      "Type": "Custom:tixG"
+    },
+    {
+      "Id": "bOBR",
+      "Name": "branchDescription",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "rrJT",
+      "Name": "calendar",
+      "Type": "Custom:tixG"
+    },
+    {
+      "Id": "EgEd",
+      "Name": "closedAccount",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "Up8C",
+      "Name": "closingDate",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "Tg2x",
+      "Name": "code",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "9ft1",
+      "Name": "company",
+      "Type": "Custom:tixG"
+    },
+    {
+      "Id": "IuDU",
+      "Name": "countryCode",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "uXxe",
+      "Name": "creationDate",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "SuQP",
+      "Name": "currency",
+      "Type": "Custom:tixG"
+    },
+    {
+      "Id": "Nmmu",
+      "Name": "defaultGroup",
+      "Type": "Custom:tixG"
+    },
+    {
+      "Id": "gTzf",
+      "Name": "description",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "UOGS",
+      "Name": "description2",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "puC0",
+      "Name": "documents",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "QQ3y",
+      "Name": "glAccount",
+      "Type": "Custom:tixG"
+    },
+    {
+      "Id": "e81t",
+      "Name": "ibanCode",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "LJVa",
+      "Name": "internalAccountCode",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "689C",
+      "Name": "marker1",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "SR2g",
+      "Name": "marker2",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "IUii",
+      "Name": "marker3",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "t4dC",
+      "Name": "signatoryUsers",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "yjcM",
+      "Name": "statementIdentifier",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "sD6H",
+      "Name": "status",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "hZP7",
+      "Name": "updateDate",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "UEoY",
+      "Name": "uuid",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "pt6c",
+      "Name": "zbaIdentifier",
+      "Type": "Compiled:String"
+    }
+  ]
+}

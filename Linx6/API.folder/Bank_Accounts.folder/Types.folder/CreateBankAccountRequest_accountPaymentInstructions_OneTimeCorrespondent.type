@@ -1,0 +1,36 @@
+{
+  "Id": "iQrp",
+  "Name": "CreateBankAccountRequest_accountPaymentInstructions_OneTimeCorrespondent",
+  "Properties": [
+    {
+      "Id": "Tfo2",
+      "Name": "oneTime",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "dFEU",
+      "Name": "correspondentDescription",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "Xykr",
+      "Name": "correspondentBIC",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "MfhM",
+      "Name": "country",
+      "Type": "Custom:Z85c"
+    },
+    {
+      "Id": "Uu8n",
+      "Name": "correspondentOtherIdentifier",
+      "Type": "Custom:tDyl"
+    },
+    {
+      "Id": "ioag",
+      "Name": "account",
+      "Type": "Compiled:String"
+    }
+  ]
+}

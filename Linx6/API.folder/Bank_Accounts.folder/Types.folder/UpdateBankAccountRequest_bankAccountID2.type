@@ -1,0 +1,46 @@
+{
+  "Id": "SHdZ",
+  "Name": "UpdateBankAccountRequest_bankAccountID2",
+  "Properties": [
+    {
+      "Id": "T4qw",
+      "Name": "banStructure",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "piRD",
+      "Name": "value",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "qKA1",
+      "Name": "accountNature",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "zWO9",
+      "Name": "statementIdentifier",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "408P",
+      "Name": "feeStatementIdentifier",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "ATVQ",
+      "Name": "description",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "4dZc",
+      "Name": "reportingFilterType",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "3EPp",
+      "Name": "establishment",
+      "Type": "Custom:lulp"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+[
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "Gfb8",
+      "Properties": [
+        {
+          "Id": "EEJv",
+          "Name": "BankCode",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "OV6o",
+      "Properties": [
+        {
+          "Id": "8rBh",
+          "Name": "Bank",
+          "Type": "Custom:3gVO",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  }
+]

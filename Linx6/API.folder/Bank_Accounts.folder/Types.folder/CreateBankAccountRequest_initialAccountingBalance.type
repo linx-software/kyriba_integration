@@ -1,0 +1,16 @@
+{
+  "Id": "rzX7",
+  "Name": "CreateBankAccountRequest_initialAccountingBalance",
+  "Properties": [
+    {
+      "Id": "0i6Z",
+      "Name": "currency",
+      "Type": "Custom:Z85c"
+    },
+    {
+      "Id": "yFQ8",
+      "Name": "value",
+      "Type": "Compiled:Double"
+    }
+  ]
+}

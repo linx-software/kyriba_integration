@@ -1,0 +1,21 @@
+{
+  "Id": "EQ96",
+  "Name": "BankStatementBalanceResponse_account",
+  "Properties": [
+    {
+      "Id": "XZlY",
+      "Name": "code",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "fWkI",
+      "Name": "statementIdentifier",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "cR3a",
+      "Name": "uuid",
+      "Type": "Compiled:String"
+    }
+  ]
+}

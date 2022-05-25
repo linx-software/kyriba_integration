@@ -1,0 +1,31 @@
+{
+  "Id": "QNf6",
+  "Name": "CreateBankRequest_userZones",
+  "Properties": [
+    {
+      "Id": "6s17",
+      "Name": "userZone1",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "0ICD",
+      "Name": "userZone2",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "gO0m",
+      "Name": "userZone3",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "Lo5T",
+      "Name": "userZone4",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "rocc",
+      "Name": "userZone5",
+      "Type": "Compiled:String"
+    }
+  ]
+}

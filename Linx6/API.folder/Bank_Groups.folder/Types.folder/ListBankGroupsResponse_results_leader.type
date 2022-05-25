@@ -1,0 +1,16 @@
+{
+  "Id": "Tvlz",
+  "Name": "ListBankGroupsResponse_results_leader",
+  "Properties": [
+    {
+      "Id": "X4v1",
+      "Name": "code",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "NB5X",
+      "Name": "uuid",
+      "Type": "Compiled:String"
+    }
+  ]
+}

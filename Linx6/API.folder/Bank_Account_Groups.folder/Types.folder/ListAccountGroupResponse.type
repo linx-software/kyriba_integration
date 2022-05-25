@@ -1,0 +1,16 @@
+{
+  "Id": "TMZK",
+  "Name": "ListAccountGroupResponse",
+  "Properties": [
+    {
+      "Id": "Djkk",
+      "Name": "metadata",
+      "Type": "Custom:ABLS"
+    },
+    {
+      "Id": "nQAn",
+      "Name": "results",
+      "Type": "List:Custom:0dWU"
+    }
+  ]
+}

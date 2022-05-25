@@ -1,0 +1,16 @@
+{
+  "Id": "SfEJ",
+  "Name": "GetBankAccountReponse_paymentReconciliationOptions",
+  "Properties": [
+    {
+      "Id": "fMDx",
+      "Name": "bankReportingPolicy",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "A1qh",
+      "Name": "separateReportingAccount",
+      "Type": "Custom:PhSX"
+    }
+  ]
+}

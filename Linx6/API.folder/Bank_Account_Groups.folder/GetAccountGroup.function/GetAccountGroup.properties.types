@@ -1,0 +1,30 @@
+[
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "mzYq",
+      "Properties": [
+        {
+          "Id": "4hz9",
+          "Name": "AccountGroupCode",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "QI1e",
+      "Properties": [
+        {
+          "Id": "Ejb5",
+          "Name": "AccountGroup",
+          "Type": "Custom:Xas7",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,31 @@
+{
+  "Id": "CJnH",
+  "Name": "ListBanksResponse_metadata",
+  "Properties": [
+    {
+      "Id": "TsNB",
+      "Name": "links",
+      "Type": "Custom:moYW"
+    },
+    {
+      "Id": "RJE6",
+      "Name": "numberOfTotalResults",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "N45x",
+      "Name": "pageLimit",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "GBhw",
+      "Name": "pageOffset",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "4WFG",
+      "Name": "pageResults",
+      "Type": "Compiled:Int64"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "Id": "QhPy",
+  "Name": "CreateAccountGroupRequest",
+  "Properties": [
+    {
+      "Id": "OrqZ",
+      "Name": "accounts",
+      "Type": "List:Custom:9nBa"
+    },
+    {
+      "Id": "pDwF",
+      "Name": "code",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "hWhF",
+      "Name": "description",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "76e6",
+      "Name": "poolingAccount",
+      "Type": "Custom:9nBa"
+    },
+    {
+      "Id": "6msV",
+      "Name": "uuid",
+      "Type": "Compiled:String"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "Properties": [
+    {
+      "Id": "Source",
+      "Type": "Custom:Xas7",
+      "ValueUsage": "RuntimeRead",
+      "Value": {
+        "Expression": "CallGetAccountGroup.ResponseBody",
+        "CompiledExpression": "={0}",
+        "Type": "Custom:Xas7"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    },
+    {
+      "Id": "Target",
+      "Type": "Custom:Xas7",
+      "ValueUsage": "RuntimeWrite",
+      "Value": {
+        "Expression": "$.Result.AccountGroup",
+        "CompiledExpression": "={0}",
+        "Type": "Custom:Xas7"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    }
+  ]
+}

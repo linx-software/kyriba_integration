@@ -1,0 +1,41 @@
+{
+  "Id": "dx0s",
+  "Name": "CreateBankBranchRequest_address",
+  "Properties": [
+    {
+      "Id": "ke3O",
+      "Name": "city",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "PMJh",
+      "Name": "country",
+      "Type": "Custom:q9sl"
+    },
+    {
+      "Id": "eBRi",
+      "Name": "homepage",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "Gj3L",
+      "Name": "state",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "IF22",
+      "Name": "street1",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "IRXd",
+      "Name": "street2",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "9cC1",
+      "Name": "zipCode",
+      "Type": "Compiled:Int64"
+    }
+  ]
+}

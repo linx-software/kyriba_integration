@@ -1,0 +1,21 @@
+{
+  "Id": "RCJL",
+  "Name": "ListBankGroupsResponse_metadata_links",
+  "Properties": [
+    {
+      "Id": "MaAk",
+      "Name": "current",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "E1OY",
+      "Name": "next",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "xFNA",
+      "Name": "prev",
+      "Type": "Compiled:String"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "Id": "y0Eu",
+  "Name": "GetTokenResponse",
+  "Properties": [
+    {
+      "Id": "Bcb1",
+      "Name": "access_token",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "rqc5",
+      "Name": "token_type",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "qxuf",
+      "Name": "expires_in",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "m9gC",
+      "Name": "scope",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "NWvp",
+      "Name": "kapp_username",
+      "Type": "Compiled:String"
+    }
+  ]
+}

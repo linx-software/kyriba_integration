@@ -1,0 +1,16 @@
+{
+  "Id": "XGvw",
+  "Name": "ListBankBranchesResponse_results_bank",
+  "Properties": [
+    {
+      "Id": "xzV8",
+      "Name": "code",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "x2hj",
+      "Name": "uuid",
+      "Type": "Compiled:String"
+    }
+  ]
+}

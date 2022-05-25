@@ -1,0 +1,30 @@
+[
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "C8Vt",
+      "Properties": [
+        {
+          "Id": "9o8R",
+          "Name": "BankAccountCode",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "3lp1",
+      "Properties": [
+        {
+          "Id": "Ifte",
+          "Name": "BankAccount",
+          "Type": "Custom:kths",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  }
+]

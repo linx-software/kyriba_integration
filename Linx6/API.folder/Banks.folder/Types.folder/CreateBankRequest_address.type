@@ -1,0 +1,41 @@
+{
+  "Id": "Bwah",
+  "Name": "CreateBankRequest_address",
+  "Properties": [
+    {
+      "Id": "RhPL",
+      "Name": "city",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "jMaR",
+      "Name": "country",
+      "Type": "Custom:xpe3"
+    },
+    {
+      "Id": "Hegc",
+      "Name": "homepage",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "3mxr",
+      "Name": "state",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "Kbjo",
+      "Name": "street1",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "KS09",
+      "Name": "street2",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "40ba",
+      "Name": "zipCode",
+      "Type": "Compiled:Int64"
+    }
+  ]
+}

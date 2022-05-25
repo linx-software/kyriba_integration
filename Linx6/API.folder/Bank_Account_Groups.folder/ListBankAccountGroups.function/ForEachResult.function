@@ -1,0 +1,24 @@
+{
+  "ExecutionPaths": [
+    {
+      "PluginId": "Loop",
+      "Name": "Loop",
+      "Result": "List:Custom:0dWU",
+      "Order": 0,
+      "IterationHint": "ZeroOrMore"
+    }
+  ],
+  "Properties": [
+    {
+      "Id": "List",
+      "Type": "List:Custom:0dWU",
+      "ValueUsage": "RuntimeRead",
+      "Value": {
+        "Expression": "GetListOfBankAccountGroups.ResponseBody.results",
+        "CompiledExpression": "={0}",
+        "Type": "List:Custom:0dWU"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    }
+  ]
+}

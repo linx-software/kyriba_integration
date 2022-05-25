@@ -1,0 +1,21 @@
+{
+  "Id": "Ie6b",
+  "Name": "ListBankBranchesResponse_metadata_links",
+  "Properties": [
+    {
+      "Id": "aIDo",
+      "Name": "current",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "D0hM",
+      "Name": "next",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "x8b7",
+      "Name": "prev",
+      "Type": "Compiled:String"
+    }
+  ]
+}

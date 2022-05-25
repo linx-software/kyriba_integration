@@ -1,0 +1,16 @@
+{
+  "Id": "E7Nz",
+  "Name": "UpdateBankBranchRequest_otherIdentifier",
+  "Properties": [
+    {
+      "Id": "nyCm",
+      "Name": "otherIdentifierType",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "riyl",
+      "Name": "otherIdentifierValue",
+      "Type": "Compiled:String"
+    }
+  ]
+}

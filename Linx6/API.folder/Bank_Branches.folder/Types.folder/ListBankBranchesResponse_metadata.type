@@ -1,0 +1,31 @@
+{
+  "Id": "zlLF",
+  "Name": "ListBankBranchesResponse_metadata",
+  "Properties": [
+    {
+      "Id": "np7d",
+      "Name": "links",
+      "Type": "Custom:Ie6b"
+    },
+    {
+      "Id": "OCXD",
+      "Name": "numberOfTotalResults",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "JOGU",
+      "Name": "pageLimit",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "FCot",
+      "Name": "pageOffset",
+      "Type": "Compiled:Int64"
+    },
+    {
+      "Id": "OAYl",
+      "Name": "pageResults",
+      "Type": "Compiled:Int64"
+    }
+  ]
+}

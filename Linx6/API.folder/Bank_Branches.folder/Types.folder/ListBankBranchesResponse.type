@@ -1,0 +1,16 @@
+{
+  "Id": "Fo9g",
+  "Name": "ListBankBranchesResponse",
+  "Properties": [
+    {
+      "Id": "ukJl",
+      "Name": "metadata",
+      "Type": "Custom:zlLF"
+    },
+    {
+      "Id": "akRR",
+      "Name": "results",
+      "Type": "List:Custom:j29f"
+    }
+  ]
+}

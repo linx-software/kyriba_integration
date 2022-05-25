@@ -1,0 +1,31 @@
+{
+  "Id": "az2s",
+  "Name": "GetBankBranchResponse_contact",
+  "Properties": [
+    {
+      "Id": "SOCf",
+      "Name": "name",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "xsho",
+      "Name": "department",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "qFHM",
+      "Name": "phoneNumber",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "L015",
+      "Name": "faxNumber",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "IucL",
+      "Name": "email",
+      "Type": "Compiled:String"
+    }
+  ]
+}

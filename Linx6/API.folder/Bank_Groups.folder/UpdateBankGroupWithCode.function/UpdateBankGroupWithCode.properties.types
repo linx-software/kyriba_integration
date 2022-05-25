@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "PviS",
+      "Properties": [
+        {
+          "Id": "1Bwx",
+          "Name": "BankGroup",
+          "Type": "Custom:f28C",
+          "Access": "ReadWrite"
+        },
+        {
+          "Id": "nmyY",
+          "Name": "BankGroupCode",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "pEzy",
+      "Properties": [
+        {
+          "Id": "AQTp",
+          "Name": "Response",
+          "Type": "Custom:llVy",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  }
+]

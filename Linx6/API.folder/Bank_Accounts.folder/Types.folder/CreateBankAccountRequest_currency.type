@@ -1,0 +1,16 @@
+{
+  "Id": "Z85c",
+  "Name": "CreateBankAccountRequest_currency",
+  "Properties": [
+    {
+      "Id": "nf4P",
+      "Name": "code",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "Wgod",
+      "Name": "uuid",
+      "Type": "Compiled:String"
+    }
+  ]
+}

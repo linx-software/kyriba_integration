@@ -1,0 +1,16 @@
+{
+  "Id": "bE3S",
+  "Name": "UpdateBankAccountRequest_initialAccountingBalance",
+  "Properties": [
+    {
+      "Id": "vdQt",
+      "Name": "currency",
+      "Type": "Custom:lulp"
+    },
+    {
+      "Id": "7uDU",
+      "Name": "value",
+      "Type": "Compiled:Double"
+    }
+  ]
+}

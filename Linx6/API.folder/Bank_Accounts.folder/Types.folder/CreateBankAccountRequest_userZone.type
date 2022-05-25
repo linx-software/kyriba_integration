@@ -1,0 +1,31 @@
+{
+  "Id": "gDS8",
+  "Name": "CreateBankAccountRequest_userZone",
+  "Properties": [
+    {
+      "Id": "daoy",
+      "Name": "userZone1",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "bFA0",
+      "Name": "userZone2",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "An3X",
+      "Name": "userZone3",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "VIRB",
+      "Name": "userZone4",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "xCcu",
+      "Name": "userZone5",
+      "Type": "Compiled:String"
+    }
+  ]
+}

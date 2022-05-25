@@ -1,0 +1,16 @@
+{
+  "Id": "VuXl",
+  "Name": "UpdateBankRequest_address_country",
+  "Properties": [
+    {
+      "Id": "cyOK",
+      "Name": "code",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "MqTS",
+      "Name": "uuid",
+      "Type": "Compiled:String"
+    }
+  ]
+}

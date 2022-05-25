@@ -1,0 +1,24 @@
+{
+  "ExecutionPaths": [
+    {
+      "PluginId": "Loop",
+      "Name": "Loop",
+      "Result": "List:Custom:Qpba",
+      "Order": 0,
+      "IterationHint": "ZeroOrMore"
+    }
+  ],
+  "Properties": [
+    {
+      "Id": "List",
+      "Type": "List:Custom:Qpba",
+      "ValueUsage": "RuntimeRead",
+      "Value": {
+        "Expression": "GetListOfBankBranches_2.ResponseBody.results",
+        "CompiledExpression": "={0}",
+        "Type": "List:Custom:Qpba"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    }
+  ]
+}

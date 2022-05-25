@@ -1,0 +1,66 @@
+{
+  "Id": "GH1R",
+  "Name": "GetBankAccountReponse_accountPaymentInstructions",
+  "Properties": [
+    {
+      "Id": "yxTX",
+      "Name": "mainCorrespondentBankBranch",
+      "Type": "Custom:PhSX"
+    },
+    {
+      "Id": "3dhx",
+      "Name": "mainOneTimeCorrespondent",
+      "Type": "Custom:pZTf"
+    },
+    {
+      "Id": "yJXd",
+      "Name": "additionalCorrespondentBankBranch",
+      "Type": "Custom:PhSX"
+    },
+    {
+      "Id": "mvuz",
+      "Name": "additionalOneTimeCorrespondent",
+      "Type": "Custom:pZTf"
+    },
+    {
+      "Id": "P3Uv",
+      "Name": "defaultReason1",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "Y1s5",
+      "Name": "defaultReason2",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "b0jf",
+      "Name": "defaultReason3",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "yTQZ",
+      "Name": "defaultReason4",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "jzoP",
+      "Name": "ffc1",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "sJ50",
+      "Name": "ffc2",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "KMGu",
+      "Name": "ffc3",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "sjFL",
+      "Name": "ffc4",
+      "Type": "Compiled:String"
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "Id": "nVHK",
+  "Name": "UpdateBankRequest",
+  "Properties": [
+    {
+      "Id": "sUTi",
+      "Name": "address",
+      "Type": "Custom:j5nZ"
+    },
+    {
+      "Id": "7mxU",
+      "Name": "bic",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "lN0d",
+      "Name": "cashExposureLimit",
+      "Type": "Custom:CY3b"
+    },
+    {
+      "Id": "nXmr",
+      "Name": "cashExposureLimitPercentage",
+      "Type": "Compiled:Double"
+    },
+    {
+      "Id": "QPCP",
+      "Name": "code",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "D65K",
+      "Name": "contact",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "0334",
+      "Name": "counterPartyInfo",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "eXpX",
+      "Name": "dealIdentifier",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "Jx2O",
+      "Name": "defaultGroup",
+      "Type": "Custom:VuXl"
+    },
+    {
+      "Id": "M2oS",
+      "Name": "description1",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "ZhmG",
+      "Name": "description2",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "UcdL",
+      "Name": "externalCode",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "AKv2",
+      "Name": "fxConfirmationMethod",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "omIr",
+      "Name": "intercompany",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "xCWP",
+      "Name": "interfaceCode",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "Z9As",
+      "Name": "intermediaryInfo",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "brNL",
+      "Name": "internalCounterparty",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "uI2t",
+      "Name": "lei",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "NXiF",
+      "Name": "loanConfirmationMethod",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "dlsX",
+      "Name": "netDebitAndCreditExposure",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "UCbM",
+      "Name": "netSettlements",
+      "Type": "Compiled:Boolean"
+    },
+    {
+      "Id": "Uki9",
+      "Name": "parentCounterparty",
+      "Type": "Custom:VuXl"
+    },
+    {
+      "Id": "DzXW",
+      "Name": "riskTier",
+      "Type": "Custom:VuXl"
+    },
+    {
+      "Id": "lQFv",
+      "Name": "thirdParty",
+      "Type": "Custom:VuXl"
+    },
+    {
+      "Id": "oMQQ",
+      "Name": "urlAddress",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "cuH1",
+      "Name": "userZones",
+      "Type": "Custom:nJYg"
+    },
+    {
+      "Id": "B14V",
+      "Name": "uuid",
+      "Type": "Compiled:String"
+    }
+  ]
+}

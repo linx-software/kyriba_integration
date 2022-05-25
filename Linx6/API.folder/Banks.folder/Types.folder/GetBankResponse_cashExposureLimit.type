@@ -1,0 +1,16 @@
+{
+  "Id": "TDZa",
+  "Name": "GetBankResponse_cashExposureLimit",
+  "Properties": [
+    {
+      "Id": "0FQg",
+      "Name": "currency",
+      "Type": "Custom:V5ZS"
+    },
+    {
+      "Id": "VaiN",
+      "Name": "value",
+      "Type": "Compiled:String"
+    }
+  ]
+}

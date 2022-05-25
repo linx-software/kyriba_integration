@@ -1,0 +1,16 @@
+{
+  "Id": "q9sl",
+  "Name": "CreateBankBranchRequest_bank",
+  "Properties": [
+    {
+      "Id": "O57D",
+      "Name": "code",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "UxcD",
+      "Name": "uuid",
+      "Type": "Compiled:String"
+    }
+  ]
+}

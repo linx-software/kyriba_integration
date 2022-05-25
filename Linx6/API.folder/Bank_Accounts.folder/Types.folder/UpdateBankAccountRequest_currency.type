@@ -1,0 +1,16 @@
+{
+  "Id": "lulp",
+  "Name": "UpdateBankAccountRequest_currency",
+  "Properties": [
+    {
+      "Id": "6KvV",
+      "Name": "code",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "cDVB",
+      "Name": "uuid",
+      "Type": "Compiled:String"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "Id": "DKbm",
+  "Name": "UpdateBankBranchRequest_address",
+  "Properties": [
+    {
+      "Id": "bFmp",
+      "Name": "city",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "zky0",
+      "Name": "country",
+      "Type": "Custom:0svP"
+    },
+    {
+      "Id": "vp2V",
+      "Name": "homepage",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "X1i0",
+      "Name": "state",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "aOk5",
+      "Name": "street1",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "ODTX",
+      "Name": "street2",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "9ecP",
+      "Name": "zipCode",
+      "Type": "Compiled:String"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "Id": "10o4",
+  "Name": "BankStatementBalanceResponse",
+  "Properties": [
+    {
+      "Id": "prZG",
+      "Name": "account",
+      "Type": "Custom:EQ96"
+    },
+    {
+      "Id": "2BiY",
+      "Name": "bankBalance",
+      "Type": "Custom:MvI9"
+    }
+  ]
+}

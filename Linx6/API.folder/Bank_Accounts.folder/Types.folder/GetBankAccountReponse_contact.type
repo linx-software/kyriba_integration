@@ -1,0 +1,31 @@
+{
+  "Id": "RRyL",
+  "Name": "GetBankAccountReponse_contact",
+  "Properties": [
+    {
+      "Id": "HfSX",
+      "Name": "name",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "X2Zo",
+      "Name": "department",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "h4Pl",
+      "Name": "phoneNumber",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "zG3Z",
+      "Name": "faxNumber",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "okXl",
+      "Name": "email",
+      "Type": "Compiled:String"
+    }
+  ]
+}

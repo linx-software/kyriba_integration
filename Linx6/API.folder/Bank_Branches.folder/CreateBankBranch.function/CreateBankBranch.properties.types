@@ -1,0 +1,30 @@
+[
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "aHyU",
+      "Properties": [
+        {
+          "Id": "i2uo",
+          "Name": "BankBranch",
+          "Type": "Custom:DYLC",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "dfrR",
+      "Properties": [
+        {
+          "Id": "hvME",
+          "Name": "Response",
+          "Type": "Custom:llVy",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  }
+]

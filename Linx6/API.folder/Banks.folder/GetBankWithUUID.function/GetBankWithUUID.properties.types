@@ -1,0 +1,30 @@
+[
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "EMJf",
+      "Properties": [
+        {
+          "Id": "FV6F",
+          "Name": "BankUUID",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "f5sW",
+      "Properties": [
+        {
+          "Id": "i3n1",
+          "Name": "Bank",
+          "Type": "Custom:3gVO",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,31 @@
+{
+  "Id": "zHAs",
+  "Name": "CreateBankBranchRequest_userZone",
+  "Properties": [
+    {
+      "Id": "z24r",
+      "Name": "userZone1",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "dgkn",
+      "Name": "userZone2",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "fxHn",
+      "Name": "userZone3",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "OKad",
+      "Name": "userZone4",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "mZCr",
+      "Name": "userZone5",
+      "Type": "Compiled:String"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+[
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "mKnZ",
+      "Properties": [
+        {
+          "Id": "h6fZ",
+          "Name": "BankBranchCode",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "IuEm",
+      "Properties": [
+        {
+          "Id": "3TbY",
+          "Name": "BankBranch",
+          "Type": "Custom:oklu",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  }
+]
